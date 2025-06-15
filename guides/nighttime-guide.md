@@ -1,7 +1,5 @@
 ---
-layout: page
 title: "Nighttime Potty Guide"
-permalink: /nighttime-guide/
 ---
 
 # THUNDER'S WEEK 1 NIGHTTIME POTTY HABIT - PDF GUIDE

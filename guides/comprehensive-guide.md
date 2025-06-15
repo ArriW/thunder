@@ -1,7 +1,5 @@
 ---
-layout: page
 title: "Comprehensive Puppy Training Guide"
-permalink: /comprehensive-guide/
 ---
 
 # Comprehensive Puppy Training Guide

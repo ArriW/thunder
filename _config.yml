@@ -23,4 +23,13 @@ header_pages:
   - guides/comprehensive-guide.md
   - guides/puppy-schedule.md
   - guides/nighttime-guide.md
-  - guides/adoption-plan.md 
+  - guides/adoption-plan.md
+
+# BELOW: add site-wide defaults to unify format of guide pages
+defaults:
+  - scope:
+      path: "guides"   # apply only to markdown files inside the guides folder
+      type: "pages"
+    values:
+      layout: page
+      permalink: "/:basename/" 

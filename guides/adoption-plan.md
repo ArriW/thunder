@@ -1,7 +1,5 @@
 ---
-layout: page
 title: "Pomeranian Adoption Plan"
-permalink: /adoption-plan/
 ---
 
 # Comprehensive Pomeranian Puppy Adoption & Nanny Transition Plan with Cost Estimates (Weeks 8–24)
