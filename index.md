@@ -1,6 +1,8 @@
 ---
 layout: home
 title: "Thunder's Puppy Training Guide"
+description: "Landing page with quick links to all puppy training resources"
+nav_order: 1
 ---
 
 # Welcome to Thunder's Puppy Training Guide 🐕

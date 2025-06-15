@@ -1,5 +1,7 @@
 ---
 title: "Comprehensive Puppy Training Guide"
+description: "Week-by-week program for raising and training Thunder from 8–24 weeks"
+nav_order: 2
 ---
 
 # Comprehensive Puppy Training Guide
