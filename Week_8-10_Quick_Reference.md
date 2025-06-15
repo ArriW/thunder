@@ -23,7 +23,7 @@ _This is an excerpt; the fully detailed table lives in_ [`Puppy_Schedule_8-10_We
 | 6:15 AM | **Breakfast** (crate/pen) | Pick-up bowl after 15 min |
 | 6:30 AM | Potty ➜ Calm time | Gentle petting or chew |
 | 7:00 AM | Pen set-up & leave for work | Water + safe chew |
-| 10:00 AM | **Nanny Visit #1** | Potty, 10 min play |
+| 10:00 AM | **Nanny Visit #1** | Potty, 10-min play |
 | 1:00 PM | **Nanny Visit #2** | Potty, **lunch**, basic cues |
 | 4:00 PM | **Nanny Visit #3** | Potty, enrichment toy |
 | 6:00 PM | You return ➜ Potty ➜ **Dinner**➜ 10 min training |
@@ -31,6 +31,18 @@ _This is an excerpt; the fully detailed table lives in_ [`Puppy_Schedule_8-10_We
 | 9:30 PM | Final potty | No play, lights dim |
 | 10:00 PM | Crate for overnight sleep |  |
 | 1:30 AM | Night potty alarm | Carry pup straight to spot |
+
+---
+
+## 2️⃣.a Nanny Visit Playbook
+
+| Visit | Primary Action | Options & Tips |
+|-------|----------------|----------------|
+| **#1 – 10 AM** | 1. Potty break  <br>2. 10-min play/engagement | • Use tug or soft ball <br>• If pup seems drowsy ➜ offer crate nap (20-30 min) |
+| **#2 – 1 PM** | 1. Potty break <br>2. Serve **lunch** (remove dish after 15 min) <br>3. 5-min training | • Practise **name** & **sit** (see lookup below) <br>• Light leash intro in hallway |
+| **#3 – 4 PM** | 1. Potty break <br>2. Light engagement | • Rotate chew (bully stick/Kong) <br>• Quick recall game in living room |
+
+Record each visit in tracker: potty result (Pee / Poop), mood (Happy / Tired / Over-stimulated), eaten %, any concerns.
 
 ---
 
@@ -88,7 +100,21 @@ _Check off items in shared doc or whiteboard._
 
 ---
 
-## 7️⃣ Quick Links
+## 7️⃣ Command Lookup Table
+
+| Cue Word | Hand Signal | Reward/Marker | Goal Criteria |
+|----------|-------------|---------------|---------------|
+| **"Thunder!"** (Name Game) | Tap leg once | "Yes" ➜ Treat | Puppy whips head toward you 80 % of the time |
+| **"Sit"** | Palm up ➜ lift slightly | "Yes" ➜ Treat | Rear hits ground within 3 s without lure |
+| **"Here"** (Recall) | Arms open, crouch | "Yes"/Click ➜ Treat & play | Pup trots all the way and touches nose to your hand |
+| **"Crate"** | Point to crate entrance | "Yes" ➜ Treat inside | Goes in calmly, turns around |
+| **Release: "Free"** | Open palm sweep away | Verbal praise | Pup exits on cue, not before |
+
+Keep sessions **≤ 5 min**. End on success, then short calm break.
+
+---
+
+## 8️⃣ Quick Links
 • Detailed schedule → [`Puppy_Schedule_8-10_Weeks.md`](Puppy_Schedule_8-10_Weeks.md)  
 • Night routine PDF → [`Nightime Guide.md`](Nightime%20Guide.md)  
 • Adoption & budget plan → [`Pomeranian_Puppy_Adoption_Plan.md`](Pomeranian_Puppy_Adoption_Plan.md)
