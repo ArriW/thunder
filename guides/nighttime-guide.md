@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Nighttime Potty Guide"
+permalink: /nighttime-guide/
+---
+
 # THUNDER'S WEEK 1 NIGHTTIME POTTY HABIT - PDF GUIDE
 
 ## Objective:
@@ -17,8 +23,8 @@ Establish a reliable overnight potty schedule for an 8-week-old Pomeranian (Thun
 - Carry him **directly** to the potty zone (no play, no talk)  
 - Allow **3–5 minutes** to pee, then return to crate  
 - **Do NOT feed or praise** — this is a relief trip, not training  
-- If he doesn’t pee, still return him to the crate  
-- **Ignore** post-return whining unless it’s urgent or escalating
+- If he doesn't pee, still return him to the crate  
+- **Ignore** post-return whining unless it's urgent or escalating
 
 ---
 

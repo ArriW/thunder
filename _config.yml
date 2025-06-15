@@ -1,0 +1,26 @@
+title: "Thunder's Puppy Training Guide"
+description: "A comprehensive guide for raising and training a Pomeranian puppy"
+baseurl: "/thunder"
+url: "https://arriw.github.io/thunder"
+
+# Jekyll configuration
+markdown: kramdown
+highlighter: rouge
+theme: minima
+
+# Include these files in the build
+include:
+  - "*.md"
+
+# Plugin configuration
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Navigation structure
+header_pages:
+  - index.md
+  - guides/comprehensive-guide.md
+  - guides/puppy-schedule.md
+  - guides/nighttime-guide.md
+  - guides/adoption-plan.md 

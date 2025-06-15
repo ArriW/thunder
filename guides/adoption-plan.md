@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Pomeranian Adoption Plan"
+permalink: /adoption-plan/
+---
+
 # Comprehensive Pomeranian Puppy Adoption & Nanny Transition Plan with Cost Estimates (Weeks 8–24)
 
 | Week | Puppy Age  | Start Date   | Puppy Nanny Frequency | Milestones & Actions (Detailed)                                                                 | Weekly Cost (USD)                       | Cumulative Budget (USD) |
