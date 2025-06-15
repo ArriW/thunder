@@ -7,14 +7,16 @@
    - [Weeks 2-4 (9-11 Weeks Old)](#weeks-2-4-9-11-weeks-old)
    - [Weeks 5-8 (12-16 Weeks Old)](#weeks-5-8-12-16-weeks-old)
    - [Weeks 9-16 (17-24 Weeks Old)](#weeks-9-16-17-24-weeks-old)
-3. [Key Training Principles](#key-training-principles)
-4. [Feeding and Gear](#feeding-and-gear)
-5. [Budget and Costs](#budget-and-costs)
-6. [Conclusion](#conclusion)
+3. [Week 8–10 Quick Reference](#week-8-10-quick-reference)
+4. [Key Training Principles](#key-training-principles)
+5. [Feeding and Gear](#feeding-and-gear)
+6. [Budget and Costs](#budget-and-costs)
+7. [Conclusion](#conclusion)
 
 ## Introduction
 - Brief overview of the guide's purpose: To provide a structured plan for raising and training a Pomeranian puppy from 8 to 24 weeks.
 - Highlight the importance of consistency, patience, and positive reinforcement in training.
+- Looking for the **one-page cheat-sheet**? Jump directly to the [Week 8–10 Quick Reference](#week-8-10-quick-reference).
 
 ## Week-by-Week Schedule
 
@@ -37,6 +39,10 @@
 - **Objective:** Transition to home environment and advanced training.
 - **Daily Schedule:** Adjust based on progress and milestones achieved.
 - **Milestones:** Advanced commands, grooming introduction, solo stays, and physical challenges.
+
+## Week 8–10 Quick Reference
+
+For a consolidated daily schedule, overnight routine, training principles and role breakdown for everyone involved in the puppy's care during the first three weeks at home, see [`Week_8-10_Quick_Reference.md`](Week_8-10_Quick_Reference.md).
 
 ## Key Training Principles
 - **Consistency:** Maintain a consistent schedule and routine.
