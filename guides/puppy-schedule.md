@@ -3,6 +3,7 @@ title: "8-10 Week Puppy Schedule"
 description: "Daily visit protocol and schedule for Thunder's first two weeks (8–10 weeks old)"
 nav_order: 3
 ---
+
 # Thunder's Week 1–2 Puppy Visit Protocol  
 *(Structured for working households, enriched with Steve Mann's training principles)*
 
