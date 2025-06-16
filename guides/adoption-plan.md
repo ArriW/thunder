@@ -1,5 +1,5 @@
 ---
-title: "Pomeranian Adoption Plan"
+title: "Timeline & Budget"
 description: "Timeline, nanny visits, and budget for adopting and raising a Pomeranian puppy"
 nav_order: 5
 ---

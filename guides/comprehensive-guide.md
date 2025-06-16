@@ -1,10 +1,10 @@
 ---
-title: "Comprehensive Puppy Training Guide"
+title: "Overview"
 description: "Week-by-week program for raising and training Thunder from 8–24 weeks"
 nav_order: 2
 ---
 
-# Comprehensive Puppy Training Guide
+# Overview
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -26,12 +26,13 @@ nav_order: 2
 
 ### Week 1 (8 Weeks Old)
 - **Objective:** Establish a reliable overnight potty schedule.
-- **Daily Schedule:** Refer to the [8–10 Week Puppy Daily Schedule]({{ "/puppy-schedule/" | relative_url }}) for detailed daily activities.
-- **Nighttime Potty Routine:** Follow the [THUNDER'S WEEK 1 NIGHTTIME POTTY HABIT]({{ "/nighttime-guide/" | relative_url }}) guide for overnight potty training.
+- **Daily Schedule:** Refer to the [Week 8-10]({{ "/puppy-schedule/" | relative_url }}) for detailed daily activities.
+- **Nighttime Potty Routine:** Follow the [Nighttime Potty Guide]({{ "/nighttime-guide/" | relative_url }}) for overnight potty training.
 
 ### Weeks 2-4 (9-11 Weeks Old)
 - **Objective:** Basic training initiation and socialization.
-- **Daily Schedule:** Continue with the [8–10 Week Puppy Daily Schedule]({{ "/puppy-schedule/" | relative_url }}).
+- **Daily Schedule:** Continue with the [Week 8-10]({{ "/puppy-schedule/" | relative_url }}).
+- **Barking Management:** Begin implementing the [Barking Suppression Guide]({{ "/barking-suppression/" | relative_url }}) protocols.
 - **Milestones:** Name recognition, basic commands (sit, recall), and socialization with other dogs.
 
 ### Weeks 5-8 (12-16 Weeks Old)
@@ -48,6 +49,7 @@ nav_order: 2
 - **Consistency:** Maintain a consistent schedule and routine.
 - **Positive Reinforcement:** Use treats and praise to encourage desired behaviors.
 - **Patience:** Allow the puppy time to learn and adapt to new commands and environments.
+- **Barking Management:** Follow the structured [Barking Suppression Guide]({{ "/barking-suppression/" | relative_url }}) to prevent excessive barking habits from forming.
 
 ## Feeding and Gear
 - **Dog Food:** Royal Canin Small Puppy formula.

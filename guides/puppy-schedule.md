@@ -1,5 +1,5 @@
 ---
-title: "8-10 Week Puppy Schedule"
+title: "Week 8-10"
 description: "Daily visit protocol and schedule for Thunder's first two weeks (8–10 weeks old)"
 nav_order: 3
 ---

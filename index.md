@@ -14,10 +14,18 @@ This comprehensive guide provides everything you need to know about raising and 
 ## 📚 Training Guides
 
 ### Core Training Materials
-- **[Comprehensive Puppy Training Guide]({{ "/comprehensive-guide/" | relative_url }})** - The complete week-by-week training plan
-- **[Puppy Schedule (8-10 Weeks)]({{ "/puppy-schedule/" | relative_url }})** - Detailed daily schedule for young puppies
-- **[Nighttime Guide]({{ "/nighttime-guide/" | relative_url }})** - Overnight potty training routine
-- **[Pomeranian Adoption Plan]({{ "/adoption-plan/" | relative_url }})** - Complete adoption and preparation plan
+- **[Overview]({{ "/comprehensive-guide/" | relative_url }})** - The complete week-by-week training plan
+- **[Timeline & Budget]({{ "/adoption-plan/" | relative_url }})** - Complete adoption and preparation plan
+
+### Weekly Schedules
+- **[Week 8-10]({{ "/puppy-schedule/" | relative_url }})** - Detailed daily schedule for young puppies
+- **[Week 11-12]({{ "/week-11-12/" | relative_url }})** - Second vaccination and socialization expansion
+- **[Week 13-16]({{ "/week-13-16/" | relative_url }})** - Board & Train program period
+- **[Week 17-24]({{ "/week-17-24/" | relative_url }})** - Home transition and advanced training
+
+### Special Guides
+- **[Nighttime Potty Guide]({{ "/nighttime-guide/" | relative_url }})** - Overnight potty training routine
+- **[Barking Suppression Guide]({{ "/barking-suppression/" | relative_url }})** - Comprehensive anti-barking training protocol
 
 ## 🎯 Quick Navigation
 
