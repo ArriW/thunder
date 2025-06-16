@@ -1,7 +1,7 @@
 ---
-layout: page
 title: "Pomeranian Adoption Plan"
-permalink: /adoption-plan/
+description: "Timeline, nanny visits, and budget for adopting and raising a Pomeranian puppy"
+nav_order: 5
 ---
 
 # Comprehensive Pomeranian Puppy Adoption & Nanny Transition Plan with Cost Estimates (Weeks 8–24)

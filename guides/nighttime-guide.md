@@ -1,7 +1,7 @@
 ---
-layout: page
 title: "Nighttime Potty Guide"
-permalink: /nighttime-guide/
+description: "Overnight potty schedule to keep Thunder accident-free during the first week"
+nav_order: 4
 ---
 
 # THUNDER'S WEEK 1 NIGHTTIME POTTY HABIT - PDF GUIDE
