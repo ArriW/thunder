@@ -11,45 +11,90 @@ This comprehensive guide provides everything you need to know about raising and 
 
 ![Thunder](images/Thunder_1.jpg)
 
-## 📚 Training Guides
+## 🚀 Getting Started
 
-### Core Training Materials
-- **[Overview]({{ "/comprehensive-guide/" | relative_url }})** - The complete week-by-week training plan
-- **[Timeline & Budget]({{ "/adoption-plan/" | relative_url }})** - Complete adoption and preparation plan
-
-### Weekly Schedules
-- **[Week 8-10]({{ "/puppy-schedule/" | relative_url }})** - Detailed daily schedule for young puppies
-- **[Week 11-12]({{ "/week-11-12/" | relative_url }})** - Second vaccination and socialization expansion
-- **[Week 13-16]({{ "/week-13-16/" | relative_url }})** - Board & Train program period
-- **[Week 17-24]({{ "/week-17-24/" | relative_url }})** - Home transition and advanced training
-
-### Special Guides
-- **[Nighttime Potty Guide]({{ "/nighttime-guide/" | relative_url }})** - Overnight potty training routine
-- **[Barking Suppression Guide]({{ "/barking-suppression/" | relative_url }})** - Comprehensive anti-barking training protocol
-
-## 🎯 Quick Navigation
-
-### By Training Phase
-- **Week 1 (8 weeks)**: Focus on overnight potty schedule
-- **Weeks 2-4 (9-11 weeks)**: Basic training and socialization
-- **Weeks 5-8 (12-16 weeks)**: Advanced training and boarding prep
-- **Weeks 9-16 (17-24 weeks)**: Home transition and advanced commands
-
-### Key Topics
-- Potty training schedules
-- Feeding guidelines (Royal Canin Small Puppy)
-- Socialization milestones
-- Training costs and budgeting
-- Equipment recommendations
-
-## 💡 Training Principles
-
-This guide emphasizes:
-- **Consistency** in schedule and routine
-- **Positive reinforcement** with treats and praise
-- **Patience** during the learning process
-- **Professional support** when needed
+**New to puppy training?** Start here:
+1. **[📖 Overview]({{ "/comprehensive-guide/" | relative_url }})** - Read the complete training philosophy and approach
+2. **[💰 Timeline & Budget]({{ "/adoption-plan/" | relative_url }})** - Understand the full commitment and costs
+3. **[🐕 Week 8-10 Schedule]({{ "/puppy-schedule/" | relative_url }})** - Begin with your first week routine
 
 ---
 
-*Total estimated cost for first 6 months: $13,080 - $14,500* 
+## 📅 Training Timeline
+
+Follow Thunder's journey week by week:
+
+### 🐣 Early Weeks (8-12 weeks)
+- **[Week 8-10]({{ "/puppy-schedule/" | relative_url }})** - Foundation training and potty schedule
+- **[Week 11-12]({{ "/week-11-12/" | relative_url }})** - Vaccination and socialization expansion
+
+### 🎓 Training Intensive (13-16 weeks)  
+- **[Week 13-16]({{ "/week-13-16/" | relative_url }})** - Board & Train program period
+
+### 🏠 Home Integration (17-24 weeks)
+- **[Week 17-24]({{ "/week-17-24/" | relative_url }})** - Advanced training and independence
+
+---
+
+## 🎯 Specialized Training Guides
+
+### Essential Skills
+- **[🌙 Nighttime Potty Guide]({{ "/nighttime-guide/" | relative_url }})** - Master overnight potty training
+- **[🔇 Barking Suppression Guide]({{ "/barking-suppression/" | relative_url }})** - Create a calm, quiet companion
+
+### Quick Reference
+- **Feeding**: Royal Canin Small Puppy formula
+- **Equipment**: Step-in harness, crate, enrichment toys
+- **Training Philosophy**: Positive reinforcement with consistency
+- **Total Investment**: $13,080 - $14,500 for first 6 months
+
+---
+
+## 💡 Training Success Principles
+
+This guide emphasizes four core principles:
+
+### 🎯 **Consistency**
+- Same schedule every day
+- Same commands and cues
+- Same expectations from all family members
+
+### 🏆 **Positive Reinforcement** 
+- Reward good behavior immediately
+- Use high-value treats and praise
+- Make training fun and engaging
+
+### ⏰ **Patience**
+- Puppies learn at their own pace
+- Expect setbacks and accidents
+- Celebrate small victories
+
+### 👨‍🏫 **Professional Support**
+- Board & Train programs for intensive learning
+- Professional nanny services for consistency
+- Veterinary guidance for health milestones
+
+---
+
+## 📊 Quick Stats
+
+| **Metric** | **Target** |
+|------------|------------|
+| **Potty Training** | Accident-free by 16 weeks |
+| **Basic Commands** | Sit, stay, come by 12 weeks |
+| **Socialization** | 100+ positive experiences |
+| **Barking Control** | Quiet on command by 20 weeks |
+| **Independence** | 4+ hours alone by 24 weeks |
+
+---
+
+## 🔗 Navigation Tips
+
+- **Use the navigation menu above** to jump between sections
+- **Follow the week-by-week progression** for best results  
+- **Bookmark specialized guides** for quick reference
+- **Check the floating menu (📚)** for quick access anywhere
+
+---
+
+*Ready to begin? Start with the [📖 Overview]({{ "/comprehensive-guide/" | relative_url }}) to understand the complete training approach.* 

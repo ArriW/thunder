@@ -6,6 +6,8 @@ nav_order: 2
 
 # Overview
 
+*This comprehensive guide outlines the complete training journey for Thunder. Use the navigation above to jump to specific weeks or refer to specialized guides as needed.*
+
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Week-by-Week Schedule](#week-by-week-schedule)
@@ -18,48 +20,163 @@ nav_order: 2
 5. [Budget and Costs](#budget-and-costs)
 6. [Conclusion](#conclusion)
 
+---
+
 ## Introduction
-- Brief overview of the guide's purpose: To provide a structured plan for raising and training a Pomeranian puppy from 8 to 24 weeks.
-- Highlight the importance of consistency, patience, and positive reinforcement in training.
+
+This guide provides a structured plan for raising and training a Pomeranian puppy from 8 to 24 weeks old. The approach emphasizes:
+
+- **Consistency** in daily routines and training methods
+- **Positive reinforcement** as the primary training tool  
+- **Professional support** during critical development periods
+- **Patience** throughout the learning process
+
+> 💡 **New to this guide?** Start with the [Timeline & Budget]({{ "/adoption-plan/" | relative_url }}) to understand the full commitment, then return here for the detailed training approach.
+
+---
 
 ## Week-by-Week Schedule
 
 ### Week 1 (8 Weeks Old)
-- **Objective:** Establish a reliable overnight potty schedule.
-- **Daily Schedule:** Refer to the [Week 8-10]({{ "/puppy-schedule/" | relative_url }}) for detailed daily activities.
-- **Nighttime Potty Routine:** Follow the [Nighttime Potty Guide]({{ "/nighttime-guide/" | relative_url }}) for overnight potty training.
+**Objective:** Establish a reliable overnight potty schedule and basic crate training.
+
+**Key Activities:**
+- **Daily Schedule:** Follow the detailed [Week 8-10 Schedule]({{ "/puppy-schedule/" | relative_url }}) for structured daily activities
+- **Nighttime Routine:** Implement the [Nighttime Potty Guide]({{ "/nighttime-guide/" | relative_url }}) for accident-free nights
+- **Crate Training:** Establish crate as safe space, not punishment
+
+**Success Metrics:**
+- 3+ consecutive dry nights
+- Comfortable crate entry and settling
+- Basic name recognition
+
+---
 
 ### Weeks 2-4 (9-11 Weeks Old)
-- **Objective:** Basic training initiation and socialization.
-- **Daily Schedule:** Continue with the [Week 8-10]({{ "/puppy-schedule/" | relative_url }}).
-- **Barking Management:** Begin implementing the [Barking Suppression Guide]({{ "/barking-suppression/" | relative_url }}) protocols.
-- **Milestones:** Name recognition, basic commands (sit, recall), and socialization with other dogs.
+**Objective:** Basic training initiation and controlled socialization.
+
+**Key Activities:**
+- **Training Foundation:** Continue with [Week 8-10 Schedule]({{ "/puppy-schedule/" | relative_url }})
+- **Behavior Management:** Begin [Barking Suppression Guide]({{ "/barking-suppression/" | relative_url }}) protocols
+- **Socialization:** Controlled exposure to new sights, sounds, and experiences
+- **Health:** First vaccination series
+
+**Success Metrics:**
+- Responds to name consistently
+- Basic commands: sit, recall
+- Calm behavior during socialization
+- Reduced attention-seeking barking
+
+> 📋 **Detailed Schedule:** See [Week 11-12]({{ "/week-11-12/" | relative_url }}) for specific activities during this transition period.
+
+---
 
 ### Weeks 5-8 (12-16 Weeks Old)
-- **Objective:** Prepare for boarding and advanced socialization.
-- **Board & Train:** Consider enrolling in a structured training program like Spectrum Canine or Dan Perata Puppy Camp.
-- **Milestones:** Second vaccination, microchipping, and outdoor socialization expansion.
+**Objective:** Intensive training preparation and professional boarding program.
+
+**Key Activities:**
+- **Pre-Boarding Prep:** Ensure all vaccinations and health checks complete
+- **Board & Train Program:** Enroll in structured training (Spectrum Canine or Dan Perata Puppy Camp)
+- **Advanced Socialization:** Expanded outdoor experiences and dog interactions
+- **Health Milestones:** Second vaccination, microchipping
+
+**Success Metrics:**
+- Solid foundation commands
+- Comfortable with handling and grooming
+- Reduced reactivity to common triggers
+- Professional training assessment
+
+> 🎓 **Training Details:** See [Week 13-16]({{ "/week-13-16/" | relative_url }}) for Board & Train program specifics.
+
+---
 
 ### Weeks 9-16 (17-24 Weeks Old)
-- **Objective:** Transition to home environment and advanced training.
-- **Daily Schedule:** Adjust based on progress and milestones achieved.
-- **Milestones:** Advanced commands, grooming introduction, solo stays, and physical challenges.
+**Objective:** Home integration, advanced training, and independence building.
+
+**Key Activities:**
+- **Home Transition:** Gradual reduction in nanny visits
+- **Advanced Commands:** Building on Board & Train foundation
+- **Independence Training:** Extended alone time and self-entertainment
+- **Physical Development:** Introduction to longer walks and activities
+
+**Success Metrics:**
+- 4+ hours alone without anxiety
+- Reliable recall and stay commands
+- Calm behavior during grooming
+- Minimal reactive barking
+
+> 🏠 **Integration Guide:** See [Week 17-24]({{ "/week-17-24/" | relative_url }}) for detailed home transition strategies.
+
+---
 
 ## Key Training Principles
-- **Consistency:** Maintain a consistent schedule and routine.
-- **Positive Reinforcement:** Use treats and praise to encourage desired behaviors.
-- **Patience:** Allow the puppy time to learn and adapt to new commands and environments.
-- **Barking Management:** Follow the structured [Barking Suppression Guide]({{ "/barking-suppression/" | relative_url }}) to prevent excessive barking habits from forming.
+
+### 1. **Structured Routine**
+- Consistent daily schedule builds security and predictability
+- Same feeding, potty, and play times every day
+- Clear expectations for behavior in different contexts
+
+### 2. **Positive Reinforcement**
+- Reward desired behaviors immediately with treats, praise, or play
+- Ignore or redirect unwanted behaviors rather than punishing
+- Make training sessions short, fun, and successful
+
+### 3. **Professional Integration**
+- Nanny services provide consistency during work hours
+- Board & Train programs offer intensive skill building
+- Veterinary guidance ensures health milestones are met
+
+### 4. **Gradual Independence**
+- Slowly increase alone time and freedom
+- Build confidence through successful experiences
+- Prepare for adult dog responsibilities
+
+---
 
 ## Feeding and Gear
-- **Dog Food:** Royal Canin Small Puppy formula.
-- **Gear:** Step-in harness for comfort and control.
+
+**Nutrition:**
+- **Food:** Royal Canin Small Puppy formula (age-appropriate portions)
+- **Schedule:** 3-4 meals daily, reducing to 2 meals by 16 weeks
+- **Treats:** High-value training treats for positive reinforcement
+
+**Essential Equipment:**
+- **Crate:** Appropriately sized for comfort and security
+- **Harness:** Step-in style for comfort and control
+- **Enrichment:** Puzzle toys, chew items, interactive feeders
+- **Safety:** ID tags, leash, car restraint system
+
+> 💰 **Complete List:** See [Timeline & Budget]({{ "/adoption-plan/" | relative_url }}) for detailed equipment and cost breakdown.
+
+---
 
 ## Budget and Costs
-- **Initial Costs:** Adoption, initial vet visit, and gear.
-- **Ongoing Costs:** Nanny visits, training programs, and grooming.
-- **Total Estimated Cost for First 6 Months:** ~$13,080 to $14,500.
+
+**Total Investment:** $13,080 - $14,500 for first 6 months
+
+**Major Categories:**
+- **Adoption & Initial Setup:** $4,750
+- **Professional Services:** $6,000 - $7,000
+- **Ongoing Care:** $2,330 - $2,750
+
+**Cost-Saving Tips:**
+- Book nanny services in advance for better rates
+- Compare Board & Train programs for value
+- Buy quality equipment once rather than replacing cheap items
+
+> 📊 **Detailed Breakdown:** See [Timeline & Budget]({{ "/adoption-plan/" | relative_url }}) for week-by-week cost analysis.
+
+---
 
 ## Conclusion
-- Emphasize the importance of following the guide for a well-rounded and well-behaved Pomeranian.
-- Encourage regular check-ins with a vet and professional trainers for additional support. 
+
+This comprehensive approach to puppy training emphasizes structure, consistency, and professional support during critical development periods. By following this guide and utilizing the specialized resources, you'll build a strong foundation for Thunder's lifelong success.
+
+**Next Steps:**
+1. Review the [Timeline & Budget]({{ "/adoption-plan/" | relative_url }}) to prepare for the commitment
+2. Begin with [Week 8-10 Schedule]({{ "/puppy-schedule/" | relative_url }}) for immediate implementation
+3. Bookmark specialized guides for quick reference during training
+
+---
+
+*Questions about specific training challenges? Check the [Barking Suppression Guide]({{ "/barking-suppression/" | relative_url }}) or [Nighttime Potty Guide]({{ "/nighttime-guide/" | relative_url }}) for targeted solutions.* 

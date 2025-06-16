@@ -1,0 +1,78 @@
+---
+layout: default
+---
+
+<!-- Breadcrumb Navigation -->
+<div class="breadcrumb-nav">
+  <ol>
+    <li><a href="{{ '/' | relative_url }}">Home</a></li>
+    {% if page.url != '/' %}
+      {% assign url_parts = page.url | split: '/' %}
+      {% assign current_path = '' %}
+      {% for part in url_parts %}
+        {% unless part == '' %}
+          {% assign current_path = current_path | append: '/' | append: part %}
+          {% if forloop.last %}
+            <li>{{ page.title | default: part | capitalize }}</li>
+          {% else %}
+            <li><a href="{{ current_path | relative_url }}">{{ part | capitalize }}</a></li>
+          {% endif %}
+        {% endunless %}
+      {% endfor %}
+    {% endif %}
+  </ol>
+</div>
+
+<!-- Enhanced Navigation -->
+{% include navigation.html %}
+
+<!-- Page Content -->
+<article class="post">
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+    {% if page.description %}
+      <p class="post-description">{{ page.description }}</p>
+    {% endif %}
+  </header>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+</article>
+
+<!-- Contextual Navigation is included in navigation.html -->
+
+<!-- Quick Jump Navigation -->
+<div class="quick-jump">
+  <button class="jump-button" onclick="toggleQuickJump()" title="Quick Navigation">
+    📚
+  </button>
+  <div class="jump-menu" id="quickJumpMenu">
+    <a href="{{ '/' | relative_url }}">🏠 Home</a>
+    <a href="{{ '/comprehensive-guide/' | relative_url }}">📖 Overview</a>
+    <a href="{{ '/adoption-plan/' | relative_url }}">💰 Timeline & Budget</a>
+    <a href="{{ '/puppy-schedule/' | relative_url }}">🐕 Week 8-10</a>
+    <a href="{{ '/week-11-12/' | relative_url }}">🐕 Week 11-12</a>
+    <a href="{{ '/week-13-16/' | relative_url }}">🎓 Week 13-16</a>
+    <a href="{{ '/week-17-24/' | relative_url }}">🏠 Week 17-24</a>
+    <a href="{{ '/nighttime-guide/' | relative_url }}">🌙 Nighttime Potty</a>
+    <a href="{{ '/barking-suppression/' | relative_url }}">🔇 Barking Control</a>
+  </div>
+</div>
+
+<script>
+function toggleQuickJump() {
+  const menu = document.getElementById('quickJumpMenu');
+  menu.classList.toggle('show');
+}
+
+// Close quick jump menu when clicking outside
+document.addEventListener('click', function(event) {
+  const quickJump = document.querySelector('.quick-jump');
+  const menu = document.getElementById('quickJumpMenu');
+  
+  if (!quickJump.contains(event.target)) {
+    menu.classList.remove('show');
+  }
+});
+</script> 

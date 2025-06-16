@@ -1,0 +1,72 @@
+---
+layout: default
+---
+
+<!-- Enhanced Navigation for Home Page -->
+{% include navigation.html %}
+
+<!-- Home Page Content -->
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+
+  {%- if site.posts.size > 0 -%}
+    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+    <ul class="post-list">
+      {%- for post in site.posts -%}
+      <li>
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        <h3>
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+          </a>
+        </h3>
+        {%- if site.show_excerpts -%}
+          {{ post.excerpt }}
+        {%- endif -%}
+      </li>
+      {%- endfor -%}
+    </ul>
+
+    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+  {%- endif -%}
+</div>
+
+<!-- Quick Jump Navigation -->
+<div class="quick-jump">
+  <button class="jump-button" onclick="toggleQuickJump()" title="Quick Navigation">
+    📚
+  </button>
+  <div class="jump-menu" id="quickJumpMenu">
+    <a href="{{ '/' | relative_url }}">🏠 Home</a>
+    <a href="{{ '/comprehensive-guide/' | relative_url }}">📖 Overview</a>
+    <a href="{{ '/adoption-plan/' | relative_url }}">💰 Timeline & Budget</a>
+    <a href="{{ '/puppy-schedule/' | relative_url }}">🐕 Week 8-10</a>
+    <a href="{{ '/week-11-12/' | relative_url }}">🐕 Week 11-12</a>
+    <a href="{{ '/week-13-16/' | relative_url }}">🎓 Week 13-16</a>
+    <a href="{{ '/week-17-24/' | relative_url }}">🏠 Week 17-24</a>
+    <a href="{{ '/nighttime-guide/' | relative_url }}">🌙 Nighttime Potty</a>
+    <a href="{{ '/barking-suppression/' | relative_url }}">🔇 Barking Control</a>
+  </div>
+</div>
+
+<script>
+function toggleQuickJump() {
+  const menu = document.getElementById('quickJumpMenu');
+  menu.classList.toggle('show');
+}
+
+// Close quick jump menu when clicking outside
+document.addEventListener('click', function(event) {
+  const quickJump = document.querySelector('.quick-jump');
+  const menu = document.getElementById('quickJumpMenu');
+  
+  if (!quickJump.contains(event.target)) {
+    menu.classList.remove('show');
+  }
+});
+</script> 

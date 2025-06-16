@@ -21,9 +21,13 @@ plugins:
 header_pages:
   - index.md
   - guides/comprehensive-guide.md
-  - guides/puppy-schedule.md
-  - guides/nighttime-guide.md
   - guides/adoption-plan.md
+  - guides/puppy-schedule.md
+  - guides/week-11-12.md
+  - guides/week-13-16.md
+  - guides/week-17-24.md
+  - guides/nighttime-guide.md
+  - guides/barking-suppression.md
 
 # BELOW: add site-wide defaults to unify format of guide pages
 defaults:

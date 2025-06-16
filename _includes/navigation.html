@@ -1,0 +1,63 @@
+<nav class="site-nav">
+  <div class="nav-sections">
+    
+    <!-- Core Guides Section -->
+    <div class="nav-section">
+      <h4>📚 Core Guides</h4>
+      <ul>
+        <li><a href="{{ '/' | relative_url }}" {% if page.url == '/' %}class="current"{% endif %}>🏠 Home</a></li>
+        <li><a href="{{ '/comprehensive-guide/' | relative_url }}" {% if page.url contains 'comprehensive-guide' %}class="current"{% endif %}>📖 Overview</a></li>
+        <li><a href="{{ '/adoption-plan/' | relative_url }}" {% if page.url contains 'adoption-plan' %}class="current"{% endif %}>💰 Timeline & Budget</a></li>
+      </ul>
+    </div>
+
+    <!-- Weekly Training Section -->
+    <div class="nav-section">
+      <h4>📅 Weekly Training</h4>
+      <ul>
+        <li><a href="{{ '/puppy-schedule/' | relative_url }}" {% if page.url contains 'puppy-schedule' %}class="current"{% endif %}>🐕 Week 8-10</a></li>
+        <li><a href="{{ '/week-11-12/' | relative_url }}" {% if page.url contains 'week-11-12' %}class="current"{% endif %}>🐕 Week 11-12</a></li>
+        <li><a href="{{ '/week-13-16/' | relative_url }}" {% if page.url contains 'week-13-16' %}class="current"{% endif %}>🎓 Week 13-16</a></li>
+        <li><a href="{{ '/week-17-24/' | relative_url }}" {% if page.url contains 'week-17-24' %}class="current"{% endif %}>🏠 Week 17-24</a></li>
+      </ul>
+    </div>
+
+    <!-- Special Guides Section -->
+    <div class="nav-section">
+      <h4>🎯 Special Guides</h4>
+      <ul>
+        <li><a href="{{ '/nighttime-guide/' | relative_url }}" {% if page.url contains 'nighttime-guide' %}class="current"{% endif %}>🌙 Nighttime Potty</a></li>
+        <li><a href="{{ '/barking-suppression/' | relative_url }}" {% if page.url contains 'barking-suppression' %}class="current"{% endif %}>🔇 Barking Control</a></li>
+      </ul>
+    </div>
+
+  </div>
+</nav>
+
+<!-- Contextual Navigation (Next/Previous) -->
+{% assign current_page = page.url %}
+{% assign pages_order = "/, /comprehensive-guide/, /adoption-plan/, /puppy-schedule/, /week-11-12/, /week-13-16/, /week-17-24/, /nighttime-guide/, /barking-suppression/" | split: ", " %}
+
+{% for page_url in pages_order %}
+  {% if page_url == current_page %}
+    {% assign current_index = forloop.index0 %}
+    {% break %}
+  {% endif %}
+{% endfor %}
+
+{% if current_index %}
+  <div class="contextual-nav">
+    {% assign prev_index = current_index | minus: 1 %}
+    {% assign next_index = current_index | plus: 1 %}
+    
+    {% if prev_index >= 0 %}
+      {% assign prev_url = pages_order[prev_index] %}
+      <a href="{{ prev_url | relative_url }}" class="nav-prev">← Previous</a>
+    {% endif %}
+    
+    {% if next_index < pages_order.size %}
+      {% assign next_url = pages_order[next_index] %}
+      <a href="{{ next_url | relative_url }}" class="nav-next">Next →</a>
+    {% endif %}
+  </div>
+{% endif %} 
