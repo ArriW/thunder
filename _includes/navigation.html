@@ -30,6 +30,9 @@
         <li><a href="{{ '/barking-suppression/' | relative_url }}" {% if page.url contains 'barking-suppression' %}class="current"{% endif %}>🔇 Barking Control</a></li>
         <li><a href="{{ '/carrier-familiarization/' | relative_url }}" {% if page.url contains 'carrier-familiarization' %}class="current"{% endif %}>✈️ Carrier Familiarization & Travel</a></li>
         <li><a href="{{ '/noise-desensitization/' | relative_url }}" {% if page.url contains 'noise-desensitization' %}class="current"{% endif %}>🔊 Noise Desensitization</a></li>
+        <li><a href="{{ '/grooming-reference/' | relative_url }}" {% if page.url contains 'grooming-reference' %}class="current"{% endif %}>🛁 Grooming Reference</a></li>
+        <li><a href="{{ '/nutrition-guide/' | relative_url }}" {% if page.url contains 'nutrition-guide' %}class="current"{% endif %}>🍽️ Nutrition Guide</a></li>
+        <li><a href="{{ '/vet-reference/' | relative_url }}" {% if page.url contains 'vet-reference' %}class="current"{% endif %}>🩺 Vet Quick Reference</a></li>
       </ul>
     </div>
 
@@ -38,7 +41,7 @@
 
 <!-- Contextual Navigation (Next/Previous) -->
 {% assign current_page = page.url %}
-{% assign pages_order = "/, /comprehensive-guide/, /adoption-plan/, /puppy-schedule/, /week-11-12/, /week-13-16/, /week-17-24/, /nighttime-guide/, /barking-suppression/, /carrier-familiarization/, /noise-desensitization/" | split: ", " %}
+{% assign pages_order = "/, /comprehensive-guide/, /adoption-plan/, /puppy-schedule/, /week-11-12/, /week-13-16/, /week-17-24/, /nighttime-guide/, /barking-suppression/, /carrier-familiarization/, /noise-desensitization/, /grooming-reference/, /nutrition-guide/, /vet-reference/" | split: ", " %}
 
 {% for page_url in pages_order %}
   {% if page_url == current_page %}

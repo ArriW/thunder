@@ -46,11 +46,10 @@ Follow Thunder's journey week by week:
 - **[✈️ Carrier Familiarization & Simulated Travel Routines]({{ "/carrier-familiarization/" | relative_url }})** - Prepare for air travel and carrier training
 - **[🔊 Noise Desensitization]({{ "/noise-desensitization/" | relative_url }})** - Build tolerance for environmental sounds
 
-### Quick Reference
-- **Feeding**: Royal Canin Small Puppy formula
-- **Equipment**: Step-in harness, crate, enrichment toys
-- **Training Philosophy**: Positive reinforcement with consistency
-- **Total Investment**: $13,080 - $14,500 for first 6 months
+### Health & Care
+- **[🛁 Grooming Reference Guide]({{ "/grooming-reference/" | relative_url }})** - Coat care, nail trims & handling prep
+- **[🍽️ Nutrition Guide]({{ "/nutrition-guide/" | relative_url }})** - Feeding schedules and dietary tips
+- **[🩺 Vet Quick Reference Guide]({{ "/vet-reference/" | relative_url }})** - Vaccination schedule & checkup prep
 
 ---
 
@@ -77,18 +76,6 @@ This guide emphasizes four core principles:
 - Board & Train programs for intensive learning
 - Professional nanny services for consistency
 - Veterinary guidance for health milestones
-
----
-
-## 📊 Quick Stats
-
-| **Metric** | **Target** |
-|------------|------------|
-| **Potty Training** | Accident-free by 16 weeks |
-| **Basic Commands** | Sit, stay, come by 12 weeks |
-| **Socialization** | 100+ positive experiences |
-| **Barking Control** | Quiet on command by 20 weeks |
-| **Independence** | 4+ hours alone by 24 weeks |
 
 ---
 

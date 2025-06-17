@@ -103,3 +103,9 @@ When potty is successful, provide **low-arousal, confidence-building activities*
 - **"Calm is contagious."**
 - **"Praise calmly. Let them learn to seek peace, not chaos."**
 
+## Related Guides
+- [Grooming Reference Guide]({{ "/grooming-reference/" | relative_url }}) — Introduce brushing & nail comfort early
+- [Nutrition Guide]({{ "/nutrition-guide/" | relative_url }}) — Portion control & treat percentages
+- [Vet Quick Reference Guide]({{ "/vet-reference/" | relative_url }}) — Core vaccine series explained
+- [Nighttime Potty Guide]({{ "/nighttime-guide/" | relative_url }}) — Use alongside daytime routine
+
