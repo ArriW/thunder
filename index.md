@@ -36,11 +36,15 @@ Follow Thunder's journey week by week:
 
 ---
 
-## 🎯 Specialized Training Guides
+## 🎯 Reference Guides
 
 ### Essential Skills
 - **[🌙 Nighttime Potty Guide]({{ "/nighttime-guide/" | relative_url }})** - Master overnight potty training
 - **[🔇 Barking Suppression Guide]({{ "/barking-suppression/" | relative_url }})** - Create a calm, quiet companion
+
+### Travel Preparation
+- **[✈️ Carrier Familiarization & Simulated Travel Routines]({{ "/carrier-familiarization/" | relative_url }})** - Prepare for air travel and carrier training
+- **[🔊 Noise Desensitization]({{ "/noise-desensitization/" | relative_url }})** - Build tolerance for environmental sounds
 
 ### Quick Reference
 - **Feeding**: Royal Canin Small Puppy formula
