@@ -12,6 +12,10 @@ Create a consistent daily routine that teaches Thunder:
 **crate → potty → play → crate**,  
 while preventing accidents and building calm confidence.
 
+> 📘 **Need a full crate-training protocol?** See the dedicated [Crate Training Guide]({{ "/crate-training/" | relative_url }}) for step-by-step introduction games, overnight routine, and troubleshooting. Use it alongside the schedule below.
+
+> 🚽 **Potty specifics** (signals, accelerated method, overnight strategy) live in the [Potty Training Guide]({{ "/potty-training/" | relative_url }}). Follow its rules while executing the schedule here.
+
 ---
 
 ## 🔑 Foundational Rules:

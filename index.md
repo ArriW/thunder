@@ -41,6 +41,8 @@ Follow Thunder's journey week by week:
 ### Essential Skills
 - **[🌙 Nighttime Potty Guide]({{ "/nighttime-guide/" | relative_url }})** - Master overnight potty training
 - **[🔇 Barking Suppression Guide]({{ "/barking-suppression/" | relative_url }})** - Create a calm, quiet companion
+- **[🏠 Crate Training Guide]({{ "/crate-training/" | relative_url }})** - Step-by-step crate introduction & troubleshooting
+- **[🚽 Potty Training Guide]({{ "/potty-training/" | relative_url }})** - Day & night toilet training protocol
 
 ### Travel Preparation
 - **[✈️ Carrier Familiarization & Simulated Travel Routines]({{ "/carrier-familiarization/" | relative_url }})** - Prepare for air travel and carrier training
