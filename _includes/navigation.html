@@ -1,3 +1,6 @@
+<!-- Mobile Hamburger Toggle -->
+<button class="mobile-nav-toggle" onclick="toggleMobileNav()" aria-label="Toggle navigation">☰</button>
+
 <nav class="site-nav">
   <div class="nav-sections">
     
@@ -65,4 +68,11 @@
       <a href="{{ next_url | relative_url }}" class="nav-next">Next →</a>
     {% endif %}
   </div>
-{% endif %} 
+{% endif %}
+
+<script>
+  function toggleMobileNav() {
+    const nav = document.querySelector('.site-nav');
+    nav.classList.toggle('open');
+  }
+</script> 
