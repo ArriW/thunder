@@ -75,6 +75,7 @@ A well-introduced crate becomes your puppy's **safe, calm home base**—not a pu
 
 * Steve Mann, *Easy Peasy Puppy Squeezy* – pp. 34-40 (crate setup) & pp. 51-59 (overnight toilet training).  
 * [Nighttime Potty Guide]({{ "/nighttime-guide/" | relative_url }}) – integrates with the overnight routine above.
+* [Command Vocabulary]({{ "/command-vocabulary/" | relative_url }}) – quick look-up for cue words used in this guide.
 
 ---
 *[Return to Week 8–10 Schedule]({{ "/puppy-schedule/" | relative_url }})* 

@@ -16,6 +16,8 @@ while preventing accidents and building calm confidence.
 
 > 🚽 **Potty specifics** (signals, accelerated method, overnight strategy) live in the [Potty Training Guide]({{ "/potty-training/" | relative_url }}). Follow its rules while executing the schedule here.
 
+> 🗣️ **Need a refresher on cue words?** Review the [Command Vocabulary]({{ "/command-vocabulary/" | relative_url }}) page to keep marker words and commands consistent.
+
 ---
 
 ## 🔑 Foundational Rules:
@@ -112,4 +114,5 @@ When potty is successful, provide **low-arousal, confidence-building activities*
 - [Nutrition Guide]({{ "/nutrition-guide/" | relative_url }}) — Portion control & treat percentages
 - [Vet Quick Reference Guide]({{ "/vet-reference/" | relative_url }}) — Core vaccine series explained
 - [Nighttime Potty Guide]({{ "/nighttime-guide/" | relative_url }}) — Use alongside daytime routine
+- [Command Vocabulary]({{ "/command-vocabulary/" | relative_url }}) — Standard cue words & markers
 
