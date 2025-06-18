@@ -20,3 +20,54 @@ p, li {
   line-height: $base-line-height;
   margin-bottom: $spacing-unit;
 }
+
+// ------------------------------------------------------------------
+// 📱  Mobile-first Enhancements (QOL updates)
+// ------------------------------------------------------------------
+
+// 1. Responsive images
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+// 2. Universal smooth scroll behaviour
+html {
+  scroll-behavior: smooth;
+}
+
+// 3. Adequate tap target sizing helper
+// Apply to generic button / link classes that behave like buttons.
+button,
+.button,
+.quick-jump .jump-button,
+.contextual-nav a,
+.quick-jump .jump-menu a {
+  min-height: 48px; // Google recommended touch target
+}
+
+// 4. Content padding on narrow screens
+@media (max-width: 768px) {
+  .post-content,
+  .home {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
+
+// 5. Font size adjustments for very small devices (≤420px)
+@media (max-width: 420px) {
+  body {
+    font-size: 16px;
+  }
+  h1 {
+    font-size: 1.75rem;
+  }
+  h2 {
+    font-size: 1.4rem;
+  }
+  h3 {
+    font-size: 1.2rem;
+  }
+}
