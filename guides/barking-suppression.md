@@ -92,16 +92,19 @@ Engage in these habits **daily** to reduce reactivity baseline:
 - Focus on establishing the universal response protocol
 - Begin basic sound desensitization during meal times
 - Start "quiet" cue conditioning with natural silence moments
+### [Week 8-10 Schedule]({{ "/puppy-schedule/" | relative_url }}) — Early Implementation
 
 ### Week 11-16 (Building Foundation)
 - Implement daily mat training sessions
 - Add trigger-specific protocols as situations arise
 - Increase complexity of sound desensitization
+### [Week 11-12 Schedule]({{ "/week-11-12/" | relative_url }}) & [Week 13-16]({{ "/week-13-16/" | relative_url }}) — Building Foundation
 
 ### Week 17-24 (Advanced Training)
 - Refine "quiet" cue in various environments
 - Practice proactive protocols in real-world situations
 - Integrate with advanced obedience training
+### [Week 17-24 Schedule]({{ "/week-17-24/" | relative_url }}) — Advanced Training
 
 ---
 
@@ -127,4 +130,5 @@ Engage in these habits **daily** to reduce reactivity baseline:
 
 ---
 
-*This guide should be used in conjunction with Thunder's overall training program. For best results, maintain consistency across all family members and caregivers.* 
+*This guide should be used in conjunction with Thunder's overall training program. For best results, maintain consistency across all family members and caregivers.*
+*[Return to Week 8-10 Schedule]({{ "/puppy-schedule/" | relative_url }})* 

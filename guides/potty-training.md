@@ -109,7 +109,8 @@ Aim for **3-day moving average above 80 %** before reducing supervision.
 
 * Steve Mann, *Easy Peasy Puppy Squeezy* – Ch. 4 "Toilet Training".  
 * [Crate Training Guide]({{ "/crate-training/" | relative_url }}) – pairs perfectly with potty schedule.  
-* [Nighttime Potty Guide]({{ "/nighttime-guide/" | relative_url }}) – detailed overnight plan.
+* [Nighttime Potty Guide]({{ "/nighttime-guide/" | relative_url }}) – detailed overnight plan.  
+* [Week 11-12 Training Schedule]({{ "/week-11-12/" | relative_url }}) – targets 85% outdoors reliability milestone
 
 ---
 *[Back to Week Schedules]({{ "/puppy-schedule/" | relative_url }})* 

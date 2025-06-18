@@ -82,7 +82,8 @@ This reference guide covers comprehensive preparation for air travel with Thunde
 
 - **[🔊 Noise Desensitization]({{ "/noise-desensitization/" | relative_url }})** - Complementary training for environmental sounds
 - **[🐕 Week 8-10 Schedule]({{ "/puppy-schedule/" | relative_url }})** - Foundation crate training
-- **[📖 Overview]({{ "/comprehensive-guide/" | relative_url }})** - Complete training philosophy
+- **[� Week 11-12 Schedule]({{ "/week-11-12/" | relative_url }})** - Building carrier comfort before boarding
+- **[�📖 Overview]({{ "/comprehensive-guide/" | relative_url }})** - Complete training philosophy
 
 ---
 

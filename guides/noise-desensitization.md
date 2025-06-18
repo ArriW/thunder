@@ -53,6 +53,8 @@ This reference guide covers comprehensive desensitization training for:
 - **[✈️ Carrier Familiarization & Travel]({{ "/carrier-familiarization/" | relative_url }})** - Complementary travel preparation
 - **[🔇 Barking Suppression Guide]({{ "/barking-suppression/" | relative_url }})** - Related noise management training
 - **[📖 Overview]({{ "/comprehensive-guide/" | relative_url }})** - Complete training philosophy
+- **[🐕 Week 8-10 Schedule]({{ "/puppy-schedule/" | relative_url }})** - Initial noise exposure sessions
+- **[🗓️ Week 11-12 Schedule]({{ "/week-11-12/" | relative_url }})** - Expanding environmental sounds
 
 ---
 

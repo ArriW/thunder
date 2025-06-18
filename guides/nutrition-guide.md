@@ -86,4 +86,6 @@ Monitor stool consistency & appetite; pause progression if loose stools occur.
 
 ---
 
-*Consult your veterinarian before changing diet or adding supplements. Pair this guide with the [Grooming Reference Guide]({{ "/grooming-reference/" | relative_url }}) to keep Thunder healthy inside and out.* 
+*Consult your veterinarian before changing diet or adding supplements. Pair this guide with the [Grooming Reference Guide]({{ "/grooming-reference/" | relative_url }}) to keep Thunder healthy inside and out.*
+
+*Related Weekly Schedules:* [Week 8-10]({{ "/puppy-schedule/" | relative_url }}), [Week 11-12]({{ "/week-11-12/" | relative_url }}), [Week 17-24]({{ "/week-17-24/" | relative_url }}) 

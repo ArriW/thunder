@@ -38,3 +38,5 @@ You may skip the 2 AM break when **all** conditions are met:
 
 ## GOAL:
 Full overnight sleep by **12–16 weeks** without accidents or attention-seeking behaviors.
+
+*For a full daily routine see the [Week 8-10 Schedule]({{ "/puppy-schedule/" | relative_url }}) and pair with the [Crate Training Guide]({{ "/crate-training/" | relative_url }}).*

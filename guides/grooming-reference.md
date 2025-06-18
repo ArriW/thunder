@@ -92,4 +92,6 @@ Repeat in micro-sessions (<3 min) daily for the first 2 weeks.
 
 ---
 
-*Combine this guide with the [Noise Desensitization]({{ "/noise-desensitization/" | relative_url }}) module to habituate Thunder to dryers & clippers noises.* 
+*Combine this guide with the [Noise Desensitization]({{ "/noise-desensitization/" | relative_url }}) module to habituate Thunder to dryers & clippers noises.*
+
+*Related Weekly Schedules:* [Week 8-10]({{ "/puppy-schedule/" | relative_url }}), [Week 11-12]({{ "/week-11-12/" | relative_url }}), [Week 17-24]({{ "/week-17-24/" | relative_url }}) 

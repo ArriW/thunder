@@ -78,4 +78,6 @@ Measure during relaxed state for baseline.
 
 ---
 
-*Pair this guide with the [Grooming Reference Guide]({{ "/grooming-reference/" | relative_url }}) to keep Thunder's health tracking holistic.* 
+*Pair this guide with the [Grooming Reference Guide]({{ "/grooming-reference/" | relative_url }}) to keep Thunder's health tracking holistic.*
+
+*Related Weekly Schedules:* [Week 11-12]({{ "/week-11-12/" | relative_url }}), [Week 13-16]({{ "/week-13-16/" | relative_url }}), [Week 17-24]({{ "/week-17-24/" | relative_url }}) 
