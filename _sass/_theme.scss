@@ -130,3 +130,32 @@ button,
     }
   }
 }
+
+// 7. Back-to-Top button
+.back-to-top {
+  position: fixed;
+  bottom: 1rem;
+  right: 1rem;
+  width: 48px;
+  height: 48px;
+  border: none;
+  border-radius: 50%;
+  background: #007bff;
+  color: white;
+  font-size: 1.4rem;
+  display: none;
+  align-items: center;
+  justify-content: center;
+  z-index: 1002;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  transition: opacity 0.2s ease, transform 0.2s ease;
+
+  &.show {
+    display: flex;
+  }
+
+  &:hover {
+    background: #0056b3;
+    transform: translateY(-2px);
+  }
+}

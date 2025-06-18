@@ -17,6 +17,10 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 
+# Sass minification
+sass:
+  style: compressed
+
 # Navigation structure
 header_pages:
   - index.md
