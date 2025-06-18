@@ -112,4 +112,5 @@ When potty is successful, provide **low-arousal, confidence-building activities*
 - [Nutrition Guide]({{ "/nutrition-guide/" | relative_url }}) — Portion control & treat percentages
 - [Vet Quick Reference Guide]({{ "/vet-reference/" | relative_url }}) — Core vaccine series explained
 - [Nighttime Potty Guide]({{ "/nighttime-guide/" | relative_url }}) — Use alongside daytime routine
+- [Command Vocabulary]({{ "/command-vocabulary/" | relative_url }}) — Standard cue words & marker system
 
