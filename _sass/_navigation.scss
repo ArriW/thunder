@@ -313,4 +313,14 @@
       }
     }
   }
+}
+
+// Universal tap-target sizing for interactive elements
+.nav-section ul li a,
+.contextual-nav a,
+.quick-jump .jump-menu a {
+  padding: 0.75rem 1rem; // at least 16px vertical (0.75rem ~12px + line-height)
+  min-height: 44px;
+  display: flex;
+  align-items: center;
 } 
