@@ -20,3 +20,18 @@ p, li {
   line-height: $base-line-height;
   margin-bottom: $spacing-unit;
 }
+
+// Dynamic font scaling for mobile-first readability
+html {
+  font-size: clamp(16px, 2.2vw, 18px);
+}
+
+// Constrain reading width on all pages
+.post-content,
+.home {
+  max-width: 42rem;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
