@@ -27,6 +27,7 @@ header_pages:
   - guides/week-13-16.md
   - guides/week-17-24.md
   - guides/nighttime-guide.md
+  - guides/command-vocabulary.md
   - guides/barking-suppression.md
 
 # BELOW: add site-wide defaults to unify format of guide pages
