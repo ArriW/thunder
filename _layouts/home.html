@@ -38,8 +38,8 @@ layout: default
 
 <!-- Quick Jump Navigation -->
 <div class="quick-jump">
-  <button class="jump-button" onclick="toggleQuickJump()" title="Quick Navigation">
-    📚
+  <button class="jump-button" id="menuToggle" onclick="toggleQuickJump()" aria-controls="quickJumpMenu" aria-expanded="false" aria-label="Toggle Navigation Menu">
+    <span class="hamburger"></span>
   </button>
   <div class="jump-menu" id="quickJumpMenu">
     <a href="{{ '/' | relative_url }}">🏠 Home</a>
@@ -59,7 +59,10 @@ layout: default
 <script>
 function toggleQuickJump() {
   const menu = document.getElementById('quickJumpMenu');
+  const toggle = document.getElementById('menuToggle');
   menu.classList.toggle('show');
+  const expanded = menu.classList.contains('show');
+  toggle.setAttribute('aria-expanded', expanded);
 }
 
 // Close quick jump menu when clicking outside
@@ -69,6 +72,7 @@ document.addEventListener('click', function(event) {
   
   if (!quickJump.contains(event.target)) {
     menu.classList.remove('show');
+    document.getElementById('menuToggle').setAttribute('aria-expanded', 'false');
   }
 });
 </script> 
