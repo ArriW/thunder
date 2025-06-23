@@ -15,8 +15,39 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: $spacing-unit * 2;
 }
 
+// Fluid heading sizes for different screens
+h1 {
+  font-size: clamp(2rem, 5vw + 1rem, 3rem);
+}
+h2 {
+  font-size: clamp(1.75rem, 4vw + 1rem, 2.5rem);
+}
+h3 {
+  font-size: clamp(1.5rem, 3.5vw + 0.75rem, 2rem);
+}
+h4 {
+  font-size: 1.25rem;
+}
+
 // Paragraphs & lists
 p, li {
   line-height: $base-line-height;
   margin-bottom: $spacing-unit;
+}
+
+// Responsive root font sizing for better mobile readability
+html {
+  font-size: clamp(16px, 1.7vw + 0.5rem, 18px);
+}
+
+// Provide comfortable side-gutters on small screens
+body {
+  padding: 0 1rem;
+}
+
+// Fluid media so images/iframes never overflow their container
+img,
+iframe {
+  max-width: 100%;
+  height: auto;
 }
