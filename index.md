@@ -9,7 +9,7 @@ nav_order: 1
 
 This comprehensive guide provides everything you need to know about raising and training a Pomeranian puppy from 8 to 24 weeks old. Follow this structured approach for the best results!
 
-![Thunder](images/Thunder_1.jpg)
+![Thunder](images/Thunder_1_opt.jpg){: loading="lazy" }
 
 ## 🚀 Getting Started
 
