@@ -2,6 +2,12 @@
 layout: default
 ---
 
+<!-- Mobile Hamburger & Drawer -->
+<button class="hamburger" id="hamburgerBtn" aria-label="Open menu" aria-expanded="false" onclick="toggleDrawer()">☰</button>
+<nav class="mobile-drawer" id="mobileDrawer">
+  {% include navigation.html %}
+</nav>
+
 <!-- Breadcrumb Navigation -->
 <div class="breadcrumb-nav">
   <ol>
@@ -75,6 +81,25 @@ document.addEventListener('click', function(event) {
   
   if (!quickJump.contains(event.target)) {
     menu.classList.remove('show');
+  }
+});
+
+// Drawer Toggle
+function toggleDrawer() {
+  const drawer = document.getElementById('mobileDrawer');
+  const btn = document.getElementById('hamburgerBtn');
+  drawer.classList.toggle('show');
+  const expanded = drawer.classList.contains('show');
+  btn.setAttribute('aria-expanded', expanded);
+}
+
+// Close drawer when clicking outside or on a link
+document.addEventListener('click', function(event) {
+  const drawer = document.getElementById('mobileDrawer');
+  const btn = document.getElementById('hamburgerBtn');
+  if (!drawer.contains(event.target) && !btn.contains(event.target)) {
+    drawer.classList.remove('show');
+    btn.setAttribute('aria-expanded', false);
   }
 });
 </script> 
