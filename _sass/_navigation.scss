@@ -127,6 +127,18 @@
   border-radius: 4px;
   margin: 1rem 0;
   font-size: 0.9rem;
+  position: sticky;
+  top: 0;
+  z-index: 800;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+  
+  // Ensure it spans full width on small screens
+  margin-left: -1rem;
+  margin-right: -1rem;
+  @media (min-width: 769px) {
+    margin-left: 0;
+    margin-right: 0;
+  }
   
   ol {
     list-style: none;
