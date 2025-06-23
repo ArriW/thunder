@@ -164,6 +164,17 @@
   }
 }
 
+// Breadcrumb tweaks for very narrow screens
+@media (max-width: 400px) {
+  .breadcrumb-nav {
+    font-size: 0.8rem;
+
+    ol {
+      gap: 0.25rem;
+    }
+  }
+}
+
 // Quick Jump Navigation
 .quick-jump {
   position: fixed;
