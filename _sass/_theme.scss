@@ -4,7 +4,15 @@ $base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $base-font-size: 18px;
 $base-line-height: 1.7;
 $heading-font-weight: 700;
-$spacing-unit: 1rem;
+
+// Fluid spacing scale (mobile-first)
+$space-1: 0.5rem;                   // xs padding / margin
+$space-2: 1rem;                     // sm base unit
+$space-3: clamp(1rem, 2vw, 2rem);   // md fluid between 16-32px
+$space-4: clamp(1.5rem, 4vw, 3rem); // lg section spacing
+
+// Update default spacing unit to fluid scale
+$spacing-unit: $space-2;
 
 // Typography
 h1, h2, h3, h4, h5, h6 {
@@ -45,9 +53,115 @@ body {
   padding: 0 1rem;
 }
 
+// Constrain reading width on content pages
+.post-content,
+.home {
+  max-width: 42rem;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
 // Fluid media so images/iframes never overflow their container
 img,
 iframe {
   max-width: 100%;
   height: auto;
+}
+
+// Dark Mode Support
+@media (prefers-color-scheme: dark) {
+  body {
+    background: #121212;
+    color: #e9ecef;
+  }
+
+  a {
+    color: #66b0ff;
+
+    &:hover {
+      color: #90c4ff;
+    }
+  }
+
+  // Navigation
+  .site-nav {
+    background: #1e1e1e;
+    border-color: #343a40;
+
+    .nav-section {
+      h4 {
+        color: #f8f9fa;
+        border-bottom-color: #495057;
+      }
+
+      ul li a {
+        color: #dee2e6;
+
+        &:hover {
+          background: #343a40;
+          color: #fff;
+        }
+
+        &.current {
+          background: #0d6efd;
+          color: #fff;
+        }
+      }
+    }
+  }
+
+  // Breadcrumbs
+  .breadcrumb-nav {
+    background: #1e1e1e;
+  }
+
+  // Contextual Navigation
+  .contextual-nav {
+    border-color: #343a40;
+  }
+
+  // Quick Jump
+  .quick-jump {
+    .jump-button {
+      background: #198754;
+
+      &:hover {
+        background: #157347;
+      }
+    }
+
+    .jump-menu {
+      background: #1e1e1e;
+      border-color: #343a40;
+
+      a {
+        color: #dee2e6;
+
+        &:hover {
+          background: #343a40;
+          color: #fff;
+        }
+      }
+    }
+  }
+
+  // Mobile Drawer
+  .mobile-drawer {
+    background: #1e1e1e;
+
+    .site-nav {
+      background: none;
+
+      .nav-section ul li a {
+        color: #dee2e6;
+
+        &:hover {
+          background: #343a40;
+          color: #fff;
+        }
+      }
+    }
+  }
 }

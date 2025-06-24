@@ -176,6 +176,17 @@
   }
 }
 
+// Breadcrumb tweaks for very narrow screens
+@media (max-width: 400px) {
+  .breadcrumb-nav {
+    font-size: 0.8rem;
+
+    ol {
+      gap: 0.25rem;
+    }
+  }
+}
+
 // Quick Jump Navigation
 .quick-jump {
   position: fixed;
@@ -276,4 +287,85 @@
   @media (min-width: 769px) {
     display: none;
   }
+}
+
+// Mobile Drawer Navigation
+@media (max-width: 768px) {
+  .hamburger {
+    position: fixed;
+    top: 1rem;
+    left: 1rem;
+    z-index: 1100;
+    background: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    width: 44px;
+    height: 44px;
+    font-size: 1.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+    transition: background 0.2s ease;
+
+    &:hover,
+    &:focus {
+      background: #0056b3;
+      outline: none;
+    }
+  }
+
+  .mobile-drawer {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: #fff;
+    transform: translateX(-100%);
+    transition: transform 0.3s ease;
+    overflow-y: auto;
+    z-index: 1090;
+    padding: 2rem 1.5rem;
+
+    &.show {
+      transform: translateX(0);
+    }
+
+    // Reuse existing nav styles but make links full-width
+    .site-nav {
+      display: block;
+      background: transparent;
+      border: none;
+      padding: 0;
+
+      .nav-sections {
+        grid-template-columns: 1fr;
+      }
+
+      .nav-section {
+        margin-bottom: 1.5rem;
+
+        h4 {
+          margin-top: 0;
+        }
+
+        ul li a {
+          padding: 0.75rem 0.75rem;
+        }
+      }
+    }
+  }
+}
+
+// Universal tap-target sizing for interactive elements
+.nav-section ul li a,
+.contextual-nav a,
+.quick-jump .jump-menu a {
+  padding: 0.75rem 1rem; // at least 16px vertical (0.75rem ~12px + line-height)
+  min-height: 44px;
+  display: flex;
+  align-items: center;
 } 
