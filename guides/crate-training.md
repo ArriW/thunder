@@ -77,4 +77,10 @@ A well-introduced crate becomes your puppy's **safe, calm home base**—not a pu
 * [Nighttime Potty Guide]({{ "/nighttime-guide/" | relative_url }}) – integrates with the overnight routine above.
 
 ---
-*[Return to Week 8–10 Schedule]({{ "/puppy-schedule/" | relative_url }})* 
+## 🔗 Where This Fits In
+
+Referenced in:
+- [Week 8-10 Schedule]({{ "/puppy-schedule/" | relative_url }})
+- [Week 11-12 Schedule]({{ "/week-11-12/" | relative_url }})
+
+Keep reinforcing crate games as the **weeks progress**—duration and distance will climb while Thunder's confidence stays rock-solid.
