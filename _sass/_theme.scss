@@ -165,3 +165,8 @@ iframe {
     }
   }
 }
+
+// Disable background scroll when drawer is open
+body.drawer-open {
+  overflow: hidden;
+}

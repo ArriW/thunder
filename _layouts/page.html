@@ -41,6 +41,13 @@ layout: default
     {% endif %}
   </header>
 
+  <style>
+    /* Hide automatic header on mobile to avoid duplicate H1 (content already contains one) */
+    @media(max-width:768px){
+      .post-header{display:none;}
+    }
+  </style>
+
   <div class="post-content">
     {{ content }}
   </div>
@@ -51,7 +58,7 @@ layout: default
 <!-- Quick Jump Navigation -->
 <div class="quick-jump">
   <button class="jump-button" id="menuToggle" onclick="toggleQuickJump()" aria-controls="quickJumpMenu" aria-expanded="false" aria-label="Toggle Navigation Menu">
-    <span class="hamburger"></span>
+    ☰
   </button>
   <div class="jump-menu" id="quickJumpMenu">
     {% include quick-jump-menu.html %}
@@ -85,6 +92,7 @@ function toggleDrawer() {
   drawer.classList.toggle('show');
   const expanded = drawer.classList.contains('show');
   btn.setAttribute('aria-expanded', expanded);
+  document.body.classList.toggle('drawer-open', expanded);
 }
 
 // Close drawer when clicking outside or on a link
