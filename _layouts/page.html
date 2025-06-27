@@ -54,17 +54,7 @@ layout: default
     <span class="hamburger"></span>
   </button>
   <div class="jump-menu" id="quickJumpMenu">
-    <a href="{{ '/' | relative_url }}">🏠 Home</a>
-    <a href="{{ '/comprehensive-guide/' | relative_url }}">📖 Overview</a>
-    <a href="{{ '/adoption-plan/' | relative_url }}">💰 Timeline & Budget</a>
-    <a href="{{ '/puppy-schedule/' | relative_url }}">🐕 Week 8-10</a>
-    <a href="{{ '/week-11-12/' | relative_url }}">🐕 Week 11-12</a>
-    <a href="{{ '/week-13-16/' | relative_url }}">🎓 Week 13-16</a>
-    <a href="{{ '/week-17-24/' | relative_url }}">🏠 Week 17-24</a>
-    <a href="{{ '/nighttime-guide/' | relative_url }}">🌙 Nighttime Potty</a>
-    <a href="{{ '/barking-suppression/' | relative_url }}">🔇 Barking Control</a>
-    <a href="{{ '/carrier-familiarization/' | relative_url }}">✈️ Carrier Familiarization</a>
-    <a href="{{ '/noise-desensitization/' | relative_url }}">🔊 Noise Desensitization</a>
+    {% include quick-jump-menu.html %}
   </div>
 </div>
 

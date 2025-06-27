@@ -126,3 +126,29 @@ To add new training guides:
    ```
 3. Add the file to `_config.yml` under `header_pages:`
 4. Link to it from `index.md` or other guides 
+
+## 🔍 Searching PDFs in the Repository
+
+If you keep research papers or vet handouts in PDF format inside the repository, you can quickly search their contents without opening each file.
+
+1. Install **pdfgrep** (one-time requirement):
+   ```bash
+   # macOS (Homebrew)
+   brew install pdfgrep
+   # Ubuntu/Debian
+   sudo apt-get install pdfgrep
+   ```
+2. Make sure the helper script is executable (already done in the repo):
+   ```bash
+   chmod +x tools/search_pdfs.sh
+   ```
+3. Run a search:
+   ```bash
+   # Search the entire repository for the phrase "positive reinforcement"
+   tools/search_pdfs.sh "positive reinforcement"
+
+   # Search only inside the docs/ folder
+   tools/search_pdfs.sh "vaccination schedule" docs/
+   ```
+
+The script uses **pdfgrep** to crawl sub-directories, printing the filename and page number for each hit. This makes it easy to locate authoritative references you can link to from your training guides. 

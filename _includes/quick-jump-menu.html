@@ -1,0 +1,8 @@
+{% comment %}
+Quick Jump Menu generated from _data/nav.yml for mobile FAB. Loops through all section items and outputs simple anchor links.
+{% endcomment %}
+{% for section in site.data.nav.sections %}
+  {% for item in section.items %}
+    <a href="{{ item.url | relative_url }}">{{ item.label }}</a>
+  {% endfor %}
+{% endfor %} 

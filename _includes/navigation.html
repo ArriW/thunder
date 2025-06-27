@@ -1,66 +1,52 @@
 <nav class="site-nav">
   <div class="nav-sections">
-    
-    <!-- Core Guides Section -->
-    <div class="nav-section">
-      <h4>📚 Core Guides</h4>
-      <ul>
-        <li><a href="{{ '/' | relative_url }}" {% if page.url == '/' %}class="current"{% endif %}>🏠 Home</a></li>
-        <li><a href="{{ '/comprehensive-guide/' | relative_url }}" {% if page.url contains 'comprehensive-guide' %}class="current"{% endif %}>📖 Overview</a></li>
-        <li><a href="{{ '/adoption-plan/' | relative_url }}" {% if page.url contains 'adoption-plan' %}class="current"{% endif %}>💰 Timeline & Budget</a></li>
-      </ul>
-    </div>
-
-    <!-- Weekly Training Section -->
-    <div class="nav-section">
-      <h4>📅 Weekly Training</h4>
-      <ul>
-        <li><a href="{{ '/puppy-schedule/' | relative_url }}" {% if page.url contains 'puppy-schedule' %}class="current"{% endif %}>🐕 Week 8-10</a></li>
-        <li><a href="{{ '/week-11-12/' | relative_url }}" {% if page.url contains 'week-11-12' %}class="current"{% endif %}>🐕 Week 11-12</a></li>
-        <li><a href="{{ '/week-13-16/' | relative_url }}" {% if page.url contains 'week-13-16' %}class="current"{% endif %}>🎓 Week 13-16</a></li>
-        <li><a href="{{ '/week-17-24/' | relative_url }}" {% if page.url contains 'week-17-24' %}class="current"{% endif %}>🏠 Week 17-24</a></li>
-      </ul>
-    </div>
-
-    <!-- Reference Guides Section -->
-    <div class="nav-section">
-      <h4>🎯 Reference Guides</h4>
-      <ul>
-        <li><a href="{{ '/nighttime-guide/' | relative_url }}" {% if page.url contains 'nighttime-guide' %}class="current"{% endif %}>🌙 Nighttime Potty</a></li>
-        <li><a href="{{ '/barking-suppression/' | relative_url }}" {% if page.url contains 'barking-suppression' %}class="current"{% endif %}>🔇 Barking Control</a></li>
-        <li><a href="{{ '/carrier-familiarization/' | relative_url }}" {% if page.url contains 'carrier-familiarization' %}class="current"{% endif %}>✈️ Carrier Familiarization & Travel</a></li>
-        <li><a href="{{ '/noise-desensitization/' | relative_url }}" {% if page.url contains 'noise-desensitization' %}class="current"{% endif %}>🔊 Noise Desensitization</a></li>
-        <li><a href="{{ '/grooming-reference/' | relative_url }}" {% if page.url contains 'grooming-reference' %}class="current"{% endif %}>🛁 Grooming Reference</a></li>
-        <li><a href="{{ '/nutrition-guide/' | relative_url }}" {% if page.url contains 'nutrition-guide' %}class="current"{% endif %}>🍽️ Nutrition Guide</a></li>
-        <li><a href="{{ '/vet-reference/' | relative_url }}" {% if page.url contains 'vet-reference' %}class="current"{% endif %}>🩺 Vet Quick Reference</a></li>
-      </ul>
-    </div>
-
+    {% comment %}Generate each navigation section dynamically from _data/nav.yml{% endcomment %}
+    {% for section in site.data.nav.sections %}
+      <div class="nav-section">
+        <h4>{{ section.title }}</h4>
+        <ul>
+          {% for item in section.items %}
+            {% assign is_current = false %}
+            {% if item.url == '/' %}
+              {% if page.url == '/' %}{% assign is_current = true %}{% endif %}
+            {% else %}
+              {% if page.url contains item.url %}{% assign is_current = true %}{% endif %}
+            {% endif %}
+            <li><a href="{{ item.url | relative_url }}" {% if is_current %}class="current"{% endif %}>{{ item.label }}</a></li>
+          {% endfor %}
+        </ul>
+      </div>
+    {% endfor %}
   </div>
 </nav>
 
-<!-- Contextual Navigation (Next/Previous) -->
+<!-- Contextual Navigation (Next/Previous) using same data source -->
 {% assign current_page = page.url %}
-{% assign pages_order = "/, /comprehensive-guide/, /adoption-plan/, /puppy-schedule/, /week-11-12/, /week-13-16/, /week-17-24/, /nighttime-guide/, /barking-suppression/, /carrier-familiarization/, /noise-desensitization/, /grooming-reference/, /nutrition-guide/, /vet-reference/" | split: ", " %}
-
+{%- capture order_string -%}
+{%- for section in site.data.nav.sections -%}
+  {%- for item in section.items -%}
+    {{ item.url }},
+  {%- endfor -%}
+{%- endfor -%}
+{%- endcapture -%}
+{% assign pages_order = order_string | split: "," %}
 {% for page_url in pages_order %}
-  {% if page_url == current_page %}
-    {% assign current_index = forloop.index0 %}
-    {% break %}
-  {% endif %}
+  {% unless page_url == "" %}
+    {% if page_url == current_page %}
+      {% assign current_index = forloop.index0 %}
+      {% break %}
+    {% endif %}
+  {% endunless %}
 {% endfor %}
-
-{% if current_index %}
+{% if current_index != nil %}
   <div class="contextual-nav">
     {% assign prev_index = current_index | minus: 1 %}
     {% assign next_index = current_index | plus: 1 %}
-    
     {% if prev_index >= 0 %}
       {% assign prev_url = pages_order[prev_index] %}
       <a href="{{ prev_url | relative_url }}" class="nav-prev">← Previous</a>
     {% endif %}
-    
-    {% if next_index < pages_order.size %}
+    {% if next_index < pages_order.size and pages_order[next_index] != "" %}
       {% assign next_url = pages_order[next_index] %}
       <a href="{{ next_url | relative_url }}" class="nav-next">Next →</a>
     {% endif %}
