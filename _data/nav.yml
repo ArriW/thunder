@@ -1,8 +1,12 @@
 sections:
   - title: "📅 Weeks"
     items:
-      - label: "🐕 Week 8-10"
+      - label: "🐕 Week 8"
         url: "/puppy-schedule/"
+      - label: "🐕 Week 9"
+        url: "/week-9/"
+      - label: "🐕 Week 10"
+        url: "/week-10/"
       - label: "🐕 Week 11-12"
         url: "/week-11-12/"
       - label: "🎓 Week 13-16"
@@ -35,5 +39,7 @@ sections:
         url: "/command-vocabulary/"
       - label: "🍽️ Nutrition Guide"
         url: "/nutrition-guide/"
+      - label: "🐾 Socialization Tracker"
+        url: "/socialization-tracker/"
       - label: "🩺 Vet Quick Reference"
         url: "/vet-reference/" 

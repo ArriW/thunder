@@ -1,10 +1,10 @@
 ---
-title: "Week 8-10"
-description: "Daily visit protocol and schedule for Thunder's first two weeks (8–10 weeks old)"
+title: "Week 8"
+description: "Daily visit protocol and schedule for Thunder's homecoming week (8 weeks old)"
 nav_order: 3
 ---
 
-# Thunder's Week 1–2 Puppy Visit Protocol  
+# Thunder's Week 8 Puppy Visit Protocol  
 *(Structured for working households, enriched with Steve Mann's training principles)*
 
 ## 🧠 Purpose:
