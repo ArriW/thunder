@@ -125,10 +125,10 @@ iframe {
   // Quick Jump
   .quick-jump {
     .jump-button {
-      background: #198754;
+      background: #0d6efd;
 
       &:hover {
-        background: #157347;
+        background: #0056b3;
       }
     }
 
@@ -169,4 +169,27 @@ iframe {
 // Disable background scroll when drawer is open
 body.drawer-open {
   overflow: hidden;
+}
+
+/* Visually hide the skip link until focused */
+.skip-link {
+  position: absolute;
+  left: -10000px;
+  top: auto;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+}
+
+.skip-link:focus {
+  position: absolute;
+  left: 1rem;
+  top: 1rem;
+  width: auto;
+  height: auto;
+  padding: 0.75rem 1rem;
+  background: #0d6efd;
+  color: #fff;
+  z-index: 1000;
+  border-radius: 4px;
 }
