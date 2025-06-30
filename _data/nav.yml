@@ -1,8 +1,10 @@
 sections:
   - title: "📅 Weeks"
     items:
+      - label: "🏡 Week 7: Homecoming"
+        url: "/week-7/"
       - label: "🐕 Week 8"
-        url: "/puppy-schedule/"
+        url: "/week-8/"
       - label: "🐕 Week 9"
         url: "/week-9/"
       - label: "🐕 Week 10"
