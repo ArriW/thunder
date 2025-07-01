@@ -136,33 +136,139 @@ This critical 72-hour period sets the foundation for Thunder's entire life. We'l
 
 ---
 
-## 🎯 Day 3: Sunday, July 13 – Core Training Games
+## 🎯 Day 3: Sunday, July 13 – Core Training Games & First Carrier Adventure
 
 ### Goals
 - 90% potty accuracy with "potty" cue
 - Thunder = **meaningless** → **good** (name recognition)
 - Happy crate entry (crate = good things)
+- **First controlled outdoor exposure** in carrier
 - 3-hour overnight sleep stretch
 
-### 5 Core Training Games Integration
+---
 
-**Morning Session (30 minutes total):**
+### 📅 Detailed Sunday Schedule
+
+| Time | Activity | Focus |
+|------|----------|-------|
+| 6:00 AM | Potty → Back to crate | "Potty" cue reliability |
+| 7:30 AM | Potty → Morning training | 5 Core Games integration |
+| 8:30 AM | Crate nap | Recovery time |
+| 10:00 AM | **Carrier adventure prep** | Equipment conditioning |
+| 10:30 AM | **First neighborhood walk** | Controlled outdoor exposure |
+| 11:30 AM | Home decompression | Process new experiences |
+| 12:00 PM | Potty → Lunch training | Continued core games |
+| 1:00 PM | Long crate nap | Rest after adventure |
+| 3:00 PM | Potty → Indoor training | Leash conditioning focus |
+| 4:00 PM | Family time | Gentle handling practice |
+| 5:00 PM | Quiet time | Preparation for evening |
+| 6:00 PM | Potty → Dinner training | All 5 games review |
+| 7:30 PM | **Evening backyard exploration** | Safe surface variety |
+| 8:45 PM | Final potty | Minimal interaction |
+| 9:00 PM | Bedtime | White noise, settled routine |
+
+---
+
+### 🎒 First Carrier Adventure (10:30-11:30 AM)
+
+**Pre-Adventure Setup (10:00-10:30 AM):**
+1. **Carrier conditioning games** (5 min):
+   - Show carrier → "Yes!" → treat
+   - Put treats inside → Thunder enters → more treats
+   - Practice in/out 3-4 times with rewards
+2. **Load carrier essentials**: High-value treats, small water dish, comfort item
+3. **Your prep**: Treats in pocket, route planned, backup plan ready
+
+**Neighborhood Walk Protocol (10:30-11:00 AM):**
+1. **Start close to home** - just to end of block initially
+2. **Carrier observation**: Thunder watches world from safety
+3. **Safe zone put-downs** (3-5 minutes each):
+   - **Friend's front yard** (known dogs vaccinated)
+   - **Concrete sidewalk area** (center, away from corners)
+   - **Your own front steps/porch**
+4. **Treat delivery**: Person appears → treat, sound occurs → treat
+5. **Back to carrier**: "Crate" cue → Thunder enters → treat
+
+**Safe Zone Selection Criteria:**
+- ✅ **Private property** with permission
+- ✅ **Clean concrete/brick surfaces**
+- ✅ **Low foot traffic** areas
+- ✅ **Easy retreat** to carrier
+- ❌ **Public grass** or dog-frequented areas
+- ❌ **Busy intersections** or loud areas
+
+**Post-Adventure Decompression (11:00-11:30 AM):**
+1. **Home arrival**: Immediate potty opportunity
+2. **Success celebration**: High-value treats for good behavior
+3. **Quiet settling**: Calm voice, gentle praise
+4. **Process time**: Let Thunder decompress in familiar space
+
+---
+
+### 🎲 5 Core Training Games Integration
+
+**Morning Session (7:30-8:30 AM):**
 1. **Game 1 - Training is Fun** (10 min): High-rate treat delivery, throw cookies in crate
-2. **Game 2 - Name Recognition** (5 min): "Thunder" → cookie toss → return for second cookie
-3. **Game 3 - This Place** (10 min): Mat/bed targeting with rewards
+2. **Game 2 - Name Recognition** (10 min): "Thunder" → eye contact → cookie toss → return
+3. **Game 3 - This Place** (5 min): Mat/bed targeting with "Good...Good..." duration
 4. **Game 4 - Break Word** (3 min): "Break" → "cookie" → permission to move
-5. **Game 5 - Four on Floor** (2 min): Wait for rewards, no jumping
+5. **Game 5 - Four on Floor** (2 min): Wait for rewards, impulse control
 
-### Leash Conditioning
-1. **Leash in bowl** → treats → targeting
-2. **Leash alone** → nose touch → "Yes!" → treat
-3. **Leash clip approach** → "Yes!" → treat → **remove leash** → play continues
-4. **Repeat 3-5 times** so leash ≠ terminal ending
+**Afternoon Session (6:00-7:00 PM) - Post-Adventure Review:**
+- **All 5 games** with higher energy and enthusiasm
+- **Adventure integration**: Use new experiences as context for games
+- **Confidence building**: Extra rewards for trying new things
 
-### Special Activities
-- **Morning**: "Puppy push-ups" (sit-down-sit) with 75% meal portion
-- **Afternoon**: Doorbell desensitization (low volume + treat scatter)
-- **Evening**: Measure & photo for Week 8 tracking
+---
+
+### 🔗 Leash Conditioning (Enhanced)
+
+**Building on previous conditioning:**
+1. **Leash visual conditioning**: Show leash → "Yes!" → treat
+2. **Leash targeting**: Put leash on ground → Thunder touches → treat
+3. **Clip approach**: Move clip toward collar → "Yes!" → treat
+4. **Brief attachment**: Clip on → treat → **immediately remove** → play continues
+5. **Repeat 5-7 times** - leash attachment ≠ terminal ending
+
+**Success indicators:**
+- Thunder shows interest in leash appearance
+- No pulling away from clip approach
+- Calm behavior when leash attached
+- Maintains play energy after removal
+
+---
+
+### 🌅 Evening Backyard Exploration (7:30-8:00 PM)
+
+**If you have a private backyard:**
+1. **Surface introduction**: Grass, deck, patio stones
+2. **Scent exploration**: Natural outdoor smells with supervision
+3. **Sound conditioning**: Neighbor activities, birds, distant traffic
+4. **Potty opportunity**: Outdoor elimination with "potty" cue
+5. **Adventure wrap-up**: Return inside with treats
+
+**Safety protocols:**
+- ✅ **Fully enclosed** yard only
+- ✅ **No access** to neighbor dogs/cats
+- ✅ **Clean area** - no other animal waste
+- ✅ **Supervised** every moment
+
+---
+
+### 📊 Sunday Success Metrics
+
+- [ ] **Carrier adventure completed** without stress signals
+- [ ] **2-3 safe zone put-downs** with positive associations
+- [ ] **All 5 core games** practiced with high success rate
+- [ ] **Leash conditioning** progressed without resistance
+- [ ] **Evening exploration** completed calmly
+- [ ] **Adventure recovery** - normal eating/playing resumed
+
+### Special Notes for Sunday
+- **Energy management**: Balance adventure with rest periods
+- **Stress monitoring**: Watch for panting, loss of appetite, excessive sleeping
+- **Success celebration**: Extra high-value treats for adventure milestones
+- **Week 8 preparation**: Assess Thunder's confidence for expanded training
 
 ---
 

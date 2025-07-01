@@ -81,16 +81,23 @@ nav_order: 4
 
 ### 🏙️ **Weekend Adventures - Noe Valley Urban Training**
 
-#### **Saturday - Noe Valley Farmers Market Intensive**
-**Morning Mission: Diverse Socialization & Classical Conditioning**
+#### **Saturday - Backyard Foundation + Noe Valley Farmers Market**
+**Morning Mission: Private Socialization Foundation, Then Public Exposure**
 
-**9:00am - Farmers Market Arrival (24th & Sanchez):**
-1. **Carrier approach** - Thunder observes setup from distance
+**8:00am - Backyard Confidence Building:**
+1. **Private surface mastery**: Grass, deck, patio stones with treats
+2. **Controlled visitor protocol**: Friend arrives in backyard → treat party
+3. **Dog introduction prep**: If friend has vaccinated dog, parallel observation from 15+ feet
+4. **Sound conditioning**: Neighborhood sounds (lawnmowers, kids, birds) + treats
+5. **Outdoor potty success**: "Potty" cue in new location + jackpot rewards
+
+**9:30am - Farmers Market Arrival (24th & Sanchez):**
+1. **Carrier approach** - Thunder observes setup from distance (building on backyard confidence)
 2. **Demographic diversity exposure**: Vendors, families, elderly, children
 3. **Sound conditioning**: Market sounds (vendors calling, music, crowds) + treat pairing
 4. **"Settle" in carrier**: 10+ minutes calm observation with continuous treats
 
-**10:00am - Market Perimeter Walk:**
+**10:30am - Market Perimeter Walk:**
 1. **People exposure protocol**: 15+ different people in 30 minutes
    - **Handled interactions**: 5-7 people (ask permission to pet) + treats
    - **Passive presence**: Thunder observes variety from 3-6 feet + treats
@@ -98,15 +105,17 @@ nav_order: 4
 2. **Sound desensitization**: Live music, vendor calls, cart wheels + treat pairing
 3. **Surface variety**: Concrete, brick, rubber mats (carried over grass areas)
 
-**11:00am - Controlled Market Integration:**
+**11:30am - Controlled Market Integration:**
 1. **Vendor interaction**: Pet-friendly vendors offer treats (with permission)
 2. **"Focus" cue development** [[memory:5108396497891493681]] amid high distractions
 3. **Dog sightings**: Other leashed dogs from 10+ feet distance
 4. **"Look at that" game**: Thunder notices dog → treat (don't approach)
 
-**Afternoon:**
-- **Friends visit protocol**: Guest arrives → treat party for Thunder
-- **Terminal association prevention**: Guest leaves → more treats + play continues
+**1:00pm - Backyard Recovery & Integration:**
+1. **Home decompression**: Quiet backyard time to process experiences
+2. **Friends visit protocol**: Guest arrives in backyard → treat party for Thunder
+3. **Advanced surface confidence**: Use market confidence on grass/deck
+4. **Terminal association prevention**: Guest leaves → more treats + play continues
 
 #### **Sunday - Mission District Adventure**
 **Focus: Advanced Socialization & Handling Prep**
