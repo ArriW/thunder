@@ -272,52 +272,33 @@ This critical 72-hour period sets the foundation for Thunder's entire life. We'l
 
 ---
 
-## ✅ Weekend Success Checklist
+## 📊 Week 7 Success Metrics
 
-### Classical Conditioning Foundations Established
-- [ ] **Classical Conditioning**: Bowl, collar, leash = good
-- [ ] **Potty Cue**: Responds to "potty" command 80%+
-- [ ] **Name Game**: Thunder → look → treat chain established
-- [ ] **Crate = Good**: Enters willingly, settles with chew
-- [ ] **Marker Training**: Understands "Yes!" = treat coming
-- [ ] **75/25 Split**: Most food earned through training
-- [ ] **PEZ Dispenser**: High-rate reinforcement during successes
+By Sunday evening, Thunder should demonstrate:
 
-### Traditional Behaviors Established
-- [ ] Goes potty within 2 minutes when taken out
-- [ ] Responds to name 7/10 times
-- [ ] Takes treats gently
-- [ ] Settles in ex-pen with chew
+### **Core Foundation Established**
+- [ ] **Potty cue conditioning**: 80%+ success with "potty" command
+- [ ] **Name recognition**: Thunder → eye contact → treat chain reliable
+- [ ] **Crate = positive space**: Enters willingly, settles with enrichment
+- [ ] **Equipment conditioning**: Bowl, collar, leash all = good things
+- [ ] **Marker understanding**: "Yes!" → treat connection clear
+- [ ] **75/25 feeding split**: Most food earned through training games
+- [ ] **First outdoor adventure**: Carrier walk completed successfully
 
-### What NOT to Do
-- ❌ No visitors until Day 3
-- ❌ No free roaming without earning it
-- ❌ No scolding for accidents (puppy doing their best!)
-- ❌ No terminal associations (leash = fun ends)
-- ❌ No overwhelming with too many new experiences
+### **Behavior Foundations**
+- [ ] **2-minute potty success** when taken to designated area  
+- [ ] **7/10 name response** with enthusiasm
+- [ ] **Gentle treat taking** without grabbing
+- [ ] **Ex-pen settling** with appropriate chew items
+- [ ] **3+ hour overnight sleep** stretches
 
----
-
-## 📊 Tracking Template
-
-### Daily Log
-```
-Date: _______
-Potty Success Rate: ___/___ (with "potty" cue)
-Meals: 75% Training □ 25% Bowl □
-Core Games: 1□ 2□ 3□ 4□ 5□
-Equipment Conditioning: Bowl□ Collar□ Leash□
-Classical Conditioning Notes: _______________
-```
+### **Prevention Success** 
+- [ ] **No terminal associations** formed (equipment removal = play continues)
+- [ ] **No attention-seeking behaviors** developing
+- [ ] **No overwhelm signs** (maintains appetite, normal energy)
 
 ---
 
-## 🔗 What's Next?
+## 🔗 Preparing for Week 8
 
-Monday, July 14 begins [Week 8]({{ "/week-8/" | relative_url }}) with:
-- **Expanded conditioning games** for grooming tools
-- **Terminal prevention** for visitors and car rides
-- **Advanced marker training** with duration
-- **Socialization** with positive associations
-
-Remember: These first 72 hours are about creating **positive conditioned responses** to everything Thunder will need in life. Every experience is either making something "good," "bad," or "meaningless" – be intentional! 
+Monday, July 14 begins [Week 8: Full-Time Owner Training]({{ "/week-8/" | relative_url }}) with expanded conditioning games, visitor protocols, and urban preparation. The foundation you've built this weekend will support all future training success. 
