@@ -81,20 +81,28 @@ nav_order: 4
 
 ### 🏙️ **Weekend Adventures - Noe Valley Urban Training**
 
-#### **Saturday - Castro District Exposure**
-**Morning Mission: Classical Conditioning for Urban Life**
+#### **Saturday - Noe Valley Farmers Market Intensive**
+**Morning Mission: Diverse Socialization & Classical Conditioning**
 
-**9:00am - Castro Coffee Walk:**
-1. **Carrier walk** to Philz Coffee on Castro
-2. **People watching** from carrier with treat delivery
-3. **Sound conditioning**: Street noise + treat pairing
-4. **"Quiet" cue development**: Barking stops → "Quiet" → "Yes!" → treat
+**9:00am - Farmers Market Arrival (24th & Sanchez):**
+1. **Carrier approach** - Thunder observes setup from distance
+2. **Demographic diversity exposure**: Vendors, families, elderly, children
+3. **Sound conditioning**: Market sounds (vendors calling, music, crowds) + treat pairing
+4. **"Settle" in carrier**: 10+ minutes calm observation with continuous treats
 
-**11:00am - Dolores Park Edge:**
-1. **Controlled dog sightings** from 20+ feet
-2. **"Look at that" game**: Thunder notices dog → treat (don't approach)
-3. **Surface conditioning**: Different textures with treats
-4. **Recall practice** in fenced area if available
+**10:00am - Market Perimeter Walk:**
+1. **People exposure protocol**: 15+ different people in 30 minutes
+   - **Handled interactions**: 5-7 people (ask permission to pet) + treats
+   - **Passive presence**: Thunder observes variety from 3-6 feet + treats
+   - **Demographics**: Children, elderly, bearded men, women with hats, etc.
+2. **Sound desensitization**: Live music, vendor calls, cart wheels + treat pairing
+3. **Surface variety**: Concrete, brick, rubber mats (carried over grass areas)
+
+**11:00am - Controlled Market Integration:**
+1. **Vendor interaction**: Pet-friendly vendors offer treats (with permission)
+2. **"Focus" cue development** [[memory:5108396497891493681]] amid high distractions
+3. **Dog sightings**: Other leashed dogs from 10+ feet distance
+4. **"Look at that" game**: Thunder notices dog → treat (don't approach)
 
 **Afternoon:**
 - **Friends visit protocol**: Guest arrives → treat party for Thunder
@@ -118,6 +126,34 @@ nav_order: 4
 **Evening:**
 - **Grooming session**: 5-10 brush strokes with treats each stroke
 - **Nail board introduction**: Scratching surface with rewards
+
+---
+
+## 🧍‍♂️ Week 9 Socialization Spectrum (Target: 25+ People, 5+ Dogs)
+
+### **People Exposure Protocol**
+Following AVSAB and Puppy Culture guidelines for Thunder's critical socialization window:
+
+| **Exposure Type** | **Target This Week** | **Method** |
+|-------------------|----------------------|------------|
+| **Handled Interaction** | 8-10 people | Permission to pet + treats during contact |
+| **Passive Presence** | 10-12 people | Thunder observes from 3-6 feet + treats |
+| **Varied Demographics** | 7+ types | Children, elderly, bearded, hats, uniforms, wheelchairs |
+| **Distance Observations** | Unlimited | Farmers market crowd watching from carrier |
+
+### **Dog Exposure Protocol**
+| **Exposure Type** | **Target This Week** | **Method** |
+|-------------------|----------------------|------------|
+| **Distance Observations** | 3-5 dogs | See dogs from 10+ feet + treat pairing |
+| **Parallel Walking** | 1-2 dogs | Same direction, 6-10 feet apart |
+| **Brief Sniff** | 1 dog | 2-3 seconds if both dogs calm + controlled |
+
+### **Surface & Environment Safety**
+**Pre-Vaccination Protocols:**
+- **Farmers Market**: Carry Thunder over grass, walk on concrete/brick only
+- **Private Yards**: Friend/family vaccinated-dog areas only
+- **Texture Exposure**: Concrete, brick, rubber mats, carrier material
+- **Avoid**: Public grass, pooled water, fecal concentration areas
 
 ---
 

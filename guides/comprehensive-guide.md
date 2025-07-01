@@ -9,16 +9,17 @@ nav_order: 2
 *This comprehensive guide outlines the complete training journey for Thunder. Use the navigation above to jump to specific weeks or refer to specialized guides as needed.*
 
 ## Table of Contents
-1. [Introduction](#introduction)
-2. [Week-by-Week Schedule](#week-by-week-schedule)
-   - [Week 1 (8 Weeks Old)](#week-1-8-weeks-old)
-   - [Weeks 2-4 (9-11 Weeks Old)](#weeks-2-4-9-11-weeks-old)
-   - [Weeks 5-8 (12-16 Weeks Old)](#weeks-5-8-12-16-weeks-old)
-   - [Weeks 9-16 (17-24 Weeks Old)](#weeks-9-16-17-24-weeks-old)
-3. [Key Training Principles](#key-training-principles)
-4. [Feeding and Gear](#feeding-and-gear)
-5. [Budget and Costs](#budget-and-costs)
-6. [Conclusion](#conclusion)
+- [Overview](#overview)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Week-by-Week Schedule](#week-by-week-schedule)
+    - [Week 1 (8 Weeks Old)](#week-1-8-weeks-old)
+    - [Weeks 2-4 (9-11 Weeks Old)](#weeks-2-4-9-11-weeks-old)
+    - [Weeks 5-8 (12-16 Weeks Old)](#weeks-5-8-12-16-weeks-old)
+    - [Weeks 9-16 (17-24 Weeks Old)](#weeks-9-16-17-24-weeks-old)
+  - [Feeding and Gear](#feeding-and-gear)
+  - [Budget and Costs](#budget-and-costs)
+  - [Conclusion](#conclusion)
 
 ---
 
@@ -38,98 +39,70 @@ This guide provides a structured plan for raising and training a Pomeranian pupp
 ## Week-by-Week Schedule
 
 ### Week 1 (8 Weeks Old)
-**Objective:** Establish a reliable overnight potty schedule and basic crate training.
+**Objective:** Establish reliable overnight potty schedule and basic crate training foundations.
 
 **Key Activities:**
-- **Daily Schedule:** Follow the detailed [Week 8-10 Schedule]({{ "/puppy-schedule/" | relative_url }}) for structured daily activities
+- **Homecoming Weekend:** Follow the detailed [Week 7: Homecoming Weekend]({{ "/week-7/" | relative_url }}) for the critical first 72 hours
 - **Nighttime Routine:** Implement the [Nighttime Potty Guide]({{ "/nighttime-guide/" | relative_url }}) for accident-free nights
-- **Crate Training:** Establish crate as safe space, not punishment
+- **Crate Training:** Establish crate as safe space using positive conditioning
+- **Equipment Introduction:** Begin collar, leash, and grooming tool conditioning
 
 **Success Metrics:**
 - 3+ consecutive dry nights
 - Comfortable crate entry and settling
-- Basic name recognition
+- Basic name recognition and marker training started
 
 ---
 
 ### Weeks 2-4 (9-11 Weeks Old)
-**Objective:** Basic training initiation and controlled socialization.
+**Objective:** Full-time owner training and controlled socialization foundation.
 
 **Key Activities:**
-- **Training Foundation:** Continue with [Week 8-10 Schedule]({{ "/puppy-schedule/" | relative_url }})
-- **Behavior Management:** Begin [Barking Suppression Guide]({{ "/barking-suppression/" | relative_url }}) protocols
-- **Socialization:** Controlled exposure to new sights, sounds, and experiences
-- **Health:** First vaccination series
+- **Week 2 Foundation:** Follow [Week 8]({{ "/week-8/" | relative_url }}) schedule with full-time owner engagement
+- **Week 3 Expansion:** Begin [Week 9]({{ "/week-9/" | relative_url }}) with nanny support introduction
+- **Advanced Training:** Progress through [Week 10]({{ "/week-10/" | relative_url }}) and [Week 11-12]({{ "/week-11-12/" | relative_url }}) schedules
+- **Behavior Management:** Implement [Barking Suppression Guide]({{ "/barking-suppression/" | relative_url }}) protocols
+- **Health:** Complete vaccination series and health checks
 
 **Success Metrics:**
 - Responds to name consistently
-- Basic commands: sit, recall
+- Basic commands: sit, recall, place
 - Calm behavior during socialization
-- Reduced attention-seeking barking
-
-> 📋 **Detailed Schedule:** See [Week 11-12]({{ "/week-11-12/" | relative_url }}) for specific activities during this transition period.
+- Professional grooming preparation complete
 
 ---
 
 ### Weeks 5-8 (12-16 Weeks Old)
-**Objective:** Intensive training preparation and professional boarding program.
+**Objective:** Intensive professional training and advanced skill development.
 
 **Key Activities:**
-- **Pre-Boarding Prep:** Ensure all vaccinations and health checks complete
-- **Board & Train Program:** Enroll in structured training (Spectrum Canine or Dan Perata Puppy Camp)
-- **Advanced Socialization:** Expanded outdoor experiences and dog interactions
-- **Health Milestones:** Second vaccination, microchipping
+- **Pre-Boarding Prep:** Ensure all vaccinations and health requirements complete
+- **Board & Train Program:** Enroll in structured training program per [Week 13-16]({{ "/week-13-16/" | relative_url }})
+- **Advanced Socialization:** Expanded urban experiences and dog interactions
+- **Travel Preparation:** Complete carrier training and flight readiness protocols
 
 **Success Metrics:**
-- Solid foundation commands
-- Comfortable with handling and grooming
-- Reduced reactivity to common triggers
-- Professional training assessment
-
-> 🎓 **Training Details:** See [Week 13-16]({{ "/week-13-16/" | relative_url }}) for Board & Train program specifics.
+- Solid foundation commands with professional polish
+- Comfortable with handling and grooming procedures
+- Reduced reactivity to common urban triggers
+- Professional training assessment passed
 
 ---
 
 ### Weeks 9-16 (17-24 Weeks Old)
-**Objective:** Home integration, advanced training, and independence building.
+**Objective:** Home integration, advanced independence, and adult skill mastery.
 
 **Key Activities:**
-- **Home Transition:** Gradual reduction in nanny visits
-- **Advanced Commands:** Building on Board & Train foundation
-- **Independence Training:** Extended alone time and self-entertainment
-- **Physical Development:** Introduction to longer walks and activities
+- **Home Transition:** Gradual integration following [Week 17-24]({{ "/week-17-24/" | relative_url }}) protocols
+- **Advanced Commands:** Building on professional training foundation
+- **Independence Training:** Extended alone time and self-entertainment skills
+- **Physical Development:** Introduction to longer activities and adventures
 
 **Success Metrics:**
 - 4+ hours alone without anxiety
-- Reliable recall and stay commands
-- Calm behavior during grooming
-- Minimal reactive barking
-
-> 🏠 **Integration Guide:** See [Week 17-24]({{ "/week-17-24/" | relative_url }}) for detailed home transition strategies.
-
----
-
-## Key Training Principles
-
-### 1. **Structured Routine**
-- Consistent daily schedule builds security and predictability
-- Same feeding, potty, and play times every day
-- Clear expectations for behavior in different contexts
-
-### 2. **Positive Reinforcement**
-- Reward desired behaviors immediately with treats, praise, or play
-- Ignore or redirect unwanted behaviors rather than punishing
-- Make training sessions short, fun, and successful
-
-### 3. **Professional Integration**
-- Nanny services provide consistency during work hours
-- Board & Train programs offer intensive skill building
-- Veterinary guidance ensures health milestones are met
-
-### 4. **Gradual Independence**
-- Slowly increase alone time and freedom
-- Build confidence through successful experiences
-- Prepare for adult dog responsibilities
+- Reliable recall and stay commands in distracting environments
+- Calm behavior during grooming and vet visits
+- Minimal reactive barking in urban settings
 
 ---
 
@@ -138,7 +111,7 @@ This guide provides a structured plan for raising and training a Pomeranian pupp
 **Nutrition:**
 - **Food:** Royal Canin Small Puppy formula (age-appropriate portions)
 - **Schedule:** 3-4 meals daily, reducing to 2 meals by 16 weeks
-- **Treats:** High-value training treats for positive reinforcement
+- **Training Split:** 75% of daily kibble through training, 25% in bowl/enrichment
 
 **Essential Equipment:**
 - **Crate:** Appropriately sized for comfort and security
@@ -174,7 +147,7 @@ This comprehensive approach to puppy training emphasizes structure, consistency,
 
 **Next Steps:**
 1. Review the [Timeline & Budget]({{ "/adoption-plan/" | relative_url }}) to prepare for the commitment
-2. Begin with [Week 8-10 Schedule]({{ "/puppy-schedule/" | relative_url }}) for immediate implementation
+2. Begin with [Week 7: Homecoming Weekend]({{ "/week-7/" | relative_url }}) for the critical first 72 hours
 3. Bookmark specialized guides for quick reference during training
 
 ---

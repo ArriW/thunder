@@ -10,23 +10,26 @@ nav_order: 2
 **Friday, July 11 – Sunday, July 13, 2025**  
 *Thunder arrives at 7 weeks old*
 
-> "My puppy is doing **the best he can** with the very limited education he has **in the environment I've put him in." – Susan Garrett
+> "My puppy is doing **the best he can** with the very limited education he has **in the environment I've put him in."
 
-This critical 72-hour period sets the foundation for Thunder's entire life. Following Susan Garrett's philosophy, we'll be **intentional** about every experience, using classical conditioning to create positive associations while preventing bad habits from forming.
+This critical 72-hour period sets the foundation for Thunder's entire life. We'll be **intentional** about every experience, using classical conditioning to create positive associations while preventing bad habits from forming.
 
 ---
+
 ## 📅 Timeline Overview
 
 | Day | Date | Focus |
 |-----|------|-------|
-| **Friday** | July 11 | Arrival day – **be a PEZ dispenser**, first potty success, crate = good |
-| **Saturday** | July 12 | Establish rhythm, **equipment conditioning games**, marker training |
-| **Sunday** | July 13 | Solidify schedule, **Susan's 5 Games**, prep for Week 8 |
+| **Friday** | July 11 | Arrival day – high-rate reinforcement, first potty success, crate = good |
+| **Saturday** | July 12 | Establish rhythm, equipment conditioning games, marker training |
+| **Sunday** | July 13 | Solidify schedule, core training games, prep for Week 8 |
 
 ---
+
 ## 🛠️ Pre-Arrival Setup (Complete by Thursday, July 10)
 
 ### 🏡 Puppy Zones
+
 | Location | Purpose | Setup |
 |----------|---------|-------|
 | **Outdoor Potty Pen** | Fast elimination + cue conditioning | 4×4 ft ex-pen on designated grass spot |
@@ -34,7 +37,7 @@ This critical 72-hour period sets the foundation for Thunder's entire life. Foll
 | **Office Ex-Pen** | Work-from-home supervision | Second pen to avoid moving |
 | **Bedroom Crate** | Overnight & naps = **good place** | 24" crate beside bed |
 
-### 🎲 Susan Garrett Game Supplies
+### 🎲 Training Game Supplies
 - **Metal food bowl** (for conditioning games)
 - **Collar & leash** (for positive targeting)
 - **High-value treats** (cooked chicken, cheese)
@@ -42,6 +45,7 @@ This critical 72-hour period sets the foundation for Thunder's entire life. Foll
 - **Daily kibble portions** pre-measured
 
 ---
+
 ## 🌟 Day 1: Friday, July 11 – Arrival Day
 
 ### Morning Prep
@@ -57,7 +61,7 @@ This critical 72-hour period sets the foundation for Thunder's entire life. Foll
 4. **Be a PEZ Dispenser**: 5-6 treats rapid-fire for this first success
 5. **First crate nap** with frozen KONG
 
-### 🔄 Susan's Puppy Cycle (Every 60-90 minutes):
+### 🔄 Puppy Cycle (Every 60-90 minutes)
 1. **Sleep** (crate with chew)
 2. **Out** (potty first, condition cue words)
 3. **Training** (75% of meal fed through games)
@@ -67,7 +71,8 @@ This critical 72-hour period sets the foundation for Thunder's entire life. Foll
 7. **Back to Sleep**
 
 ### Equipment Conditioning - Day 1
-**Bowl Game (Susan's Method):**
+
+**Bowl Game:**
 1. Put treat in bowl → Thunder eats → "Yes!" → second treat
 2. Put empty bowl down → Thunder investigates → "Yes!" → drop treat in bowl
 3. Repeat 5-6 times during each meal
@@ -79,6 +84,7 @@ This critical 72-hour period sets the foundation for Thunder's entire life. Foll
 - **9:00 PM**: Bedtime
 
 **Night Schedule:**
+
 | Time | Activity | Notes |
 |------|----------|-------|
 | 12:00 AM | Night potty | Silent, use "potty" cue, no PEZ dispenser |
@@ -86,16 +92,18 @@ This critical 72-hour period sets the foundation for Thunder's entire life. Foll
 | 4:00 AM | Night potty | Silent, use "potty" cue, no PEZ dispenser |
 
 ---
+
 ## 📋 Day 2: Saturday, July 12 – Building Rhythm
 
 ### Full Day Schedule
-| Time | Activity | Susan Garrett Focus |
-|------|----------|---------------------|
+
+| Time | Activity | Focus |
+|------|----------|-------|
 | 6:00 AM | Potty → Back to crate | "Potty" cue conditioning |
 | 7:30 AM | Potty → Breakfast training | **Game 1: Training is Fun** (throw treats in crate) |
 | 8:00 AM | Supervised play | **Game 2: Name Game** (Thunder + cookie toss) |
 | 8:30 AM | Crate nap | Positive crate = good things happen |
-| 10:00 AM | Potty → Training | **Focus** [[memory:5108396497891493681]] + marker practice |
+| 10:00 AM | Potty → Training | Focus + marker practice |
 | 10:30 AM | Kitchen time with family | **Game 3: This Place Game** (bed/mat targeting) |
 | 11:00 AM | Potty → Crate | Bowl + collar conditioning |
 | 12:00 PM | Potty → Lunch training | **Game 4: Break/Release** word introduction |
@@ -110,7 +118,8 @@ This critical 72-hour period sets the foundation for Thunder's entire life. Foll
 | 8:45 PM | Last potty | Minimal interaction, "potty" cue |
 | 9:00 PM | Bedtime in crate | White noise on |
 
-### Susan's Equipment Conditioning - Day 2
+### Equipment Conditioning - Day 2
+
 **Collar Game:**
 1. Put collar in bowl with treats
 2. Thunder puts nose in → "Yes!" → treat goes in collar
@@ -126,7 +135,8 @@ This critical 72-hour period sets the foundation for Thunder's entire life. Foll
 - Gentle brushing (3 strokes + "Yes!" + treat each stroke)
 
 ---
-## 🎯 Day 3: Sunday, July 13 – Susan's 5 Games Mastery
+
+## 🎯 Day 3: Sunday, July 13 – Core Training Games
 
 ### Goals
 - 90% potty accuracy with "potty" cue
@@ -134,7 +144,8 @@ This critical 72-hour period sets the foundation for Thunder's entire life. Foll
 - Happy crate entry (crate = good things)
 - 3-hour overnight sleep stretch
 
-### Susan's 5 Games Integration
+### 5 Core Training Games Integration
+
 **Morning Session (30 minutes total):**
 1. **Game 1 - Training is Fun** (10 min): High-rate treat delivery, throw cookies in crate
 2. **Game 2 - Name Recognition** (5 min): "Thunder" → cookie toss → return for second cookie
@@ -142,7 +153,7 @@ This critical 72-hour period sets the foundation for Thunder's entire life. Foll
 4. **Game 4 - Break Word** (3 min): "Break" → "cookie" → permission to move
 5. **Game 5 - Four on Floor** (2 min): Wait for rewards, no jumping
 
-### Leash Conditioning (Susan's Method)
+### Leash Conditioning
 1. **Leash in bowl** → treats → targeting
 2. **Leash alone** → nose touch → "Yes!" → treat
 3. **Leash clip approach** → "Yes!" → treat → **remove leash** → play continues
@@ -154,9 +165,10 @@ This critical 72-hour period sets the foundation for Thunder's entire life. Foll
 - **Evening**: Measure & photo for Week 8 tracking
 
 ---
+
 ## ✅ Weekend Success Checklist
 
-### Susan Garrett Foundations Established
+### Classical Conditioning Foundations Established
 - [ ] **Classical Conditioning**: Bowl, collar, leash = good
 - [ ] **Potty Cue**: Responds to "potty" command 80%+
 - [ ] **Name Game**: Thunder → look → treat chain established
@@ -171,7 +183,7 @@ This critical 72-hour period sets the foundation for Thunder's entire life. Foll
 - [ ] Takes treats gently
 - [ ] Settles in ex-pen with chew
 
-### What NOT to Do (Susan's Warnings)
+### What NOT to Do
 - ❌ No visitors until Day 3
 - ❌ No free roaming without earning it
 - ❌ No scolding for accidents (puppy doing their best!)
@@ -179,6 +191,7 @@ This critical 72-hour period sets the foundation for Thunder's entire life. Foll
 - ❌ No overwhelming with too many new experiences
 
 ---
+
 ## 📊 Tracking Template
 
 ### Daily Log
@@ -186,12 +199,13 @@ This critical 72-hour period sets the foundation for Thunder's entire life. Foll
 Date: _______
 Potty Success Rate: ___/___ (with "potty" cue)
 Meals: 75% Training □ 25% Bowl □
-Susan's Games: 1□ 2□ 3□ 4□ 5□
+Core Games: 1□ 2□ 3□ 4□ 5□
 Equipment Conditioning: Bowl□ Collar□ Leash□
 Classical Conditioning Notes: _______________
 ```
 
 ---
+
 ## 🔗 What's Next?
 
 Monday, July 14 begins [Week 8]({{ "/week-8/" | relative_url }}) with:

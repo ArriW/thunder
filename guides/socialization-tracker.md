@@ -14,36 +14,103 @@ Early, positive introductions to *novel people* and *friendly dogs* build the ca
 
 ---
 
-## 📅 Weekly Exposure Plan
+## 📅 AVSAB-Aligned Weekly Exposure Plan
 
-| Week | Age (wks) | New People Target | New Dog Target | Cumulative People | Cumulative Dogs |
-|------|-----------|------------------|---------------|-------------------|-----------------|
-| 8 | 8 | **10** | **1** | 10 | 1 |
-| 9 | 9 | **15** | **3** | 25 | 4 |
-| 10 | 10 | **20** | **5** | 45 | 9 |
-| 11 | 11 | **25** | **6** | 70 | 15 |
-| 12 | 12 | **30** | **10** | 100 | 25 |
+| Week | Age (wks) | Handled People | Passive People | Total People | Dog Exposures | Cumulative People | Cumulative Dogs |
+|------|-----------|----------------|----------------|--------------|---------------|-------------------|-----------------|
+| 8 | 8 | **3-4** | **4-6** | **8-10** | **1-2** | 8-10 | 1-2 |
+| 9 | 9 | **4-6** | **6-9** | **12-15** | **2-3** | 20-25 | 3-5 |
+| 10 | 10 | **6-8** | **8-12** | **15-20** | **3-4** | 35-45 | 6-9 |
+| 11 | 11 | **8-10** | **10-15** | **20-25** | **4-6** | 55-70 | 10-15 |
+| 12 | 12 | **10-12** | **15-20** | **25-30** | **6-10** | 80-100 | 16-25 |
 
-*Feel free to shift numbers between weeks to suit Thunder's energy, vaccine schedule, and weather—just keep the cumulative totals on track.*
+### **Weekly Breakdown by Exposure Type**
+
+| Week | Demographics Focus | Surface Types | Sound Exposures | Handling Events |
+|------|-------------------|---------------|-----------------|-----------------|
+| 8 | Children, elderly | Home surfaces + 2 new | 3-4 household sounds | Basic touch, collar |
+| 9 | Beards, hats, uniforms | Market concrete/brick | Urban sounds, music | Paws, ears, gentle restraint |
+| 10 | Wheelchairs, canes | Grooming surfaces | Professional equipment | Full grooming simulation |
+| 11 | Different ethnicities | Outdoor textures | Vehicle, construction | Mock vet exam |
+| 12 | Unusual clothing/gear | All surface mastery | Complex sound layering | Advanced handling prep |
+
+*Adjust weekly targets based on Thunder's confidence level, but maintain cumulative goals.*
 
 ---
 
-## 🛠️ How to Make Every Exposure Count
+## 🧍‍♂️ AVSAB/Puppy Culture Socialization Spectrum
 
-### People Encounters
-1. **Treat Toss First** – Ask the person to toss a treat **before** reaching toward Thunder.
-2. **Carrier / Mobile Pen Home-Base** – In busy or germ-heavy areas, park his **carrier, crate, or folding pen** as a safe observation perch so he can choose engagement or retreat.
-3. **Vary Demographics** – Seek diversity: hats, sunglasses, wheelchairs, children, beards, delivery uniforms.
-4. **Short & Sweet** – 3–5 sec greet → reward → move away. End sessions before fatigue.
-5. **Calm Guest Protocol** – Invite people to sit, ignore Thunder, and drop treats; reward voluntary approach rather than forced pats.
+Following American Veterinary Society of Animal Behavior (AVSAB), Ian Dunbar, and Puppy Culture protocols for comprehensive socialization exposure during Thunder's critical 3-16 week window.
 
-### Dog Encounters
-1. **Vaccinated & Calm** – Only fully vaccinated, friendly dogs until Thunder's shots are complete.
-2. **Parallel Walks First** – 5–10 ft apart, then gradually close distance if both remain loose-bodied.
-3. **One-on-One** – Avoid overwhelming group settings; quality beats quantity.
-4. **Manage Size Differences** – Start with similar-size or calm larger dogs lying down.
-5. **Sniff & Split** – Allow brief behind-to-head sniffing, then call pups apart for a treat before arousal spikes.
-6. **Mentor Dog Advantage** – Schedule play dates with an older, well-socialized dog that models calm greetings.
+### **People Exposure Spectrum (Target: 100 Total)**
+
+| **Exposure Type** | **Definition** | **Target Count** | **Method** |
+|-------------------|----------------|------------------|------------|
+| **Handled Interaction** | Person touches, holds, or gently pets Thunder | 30-40 people | Ask permission → treat during contact → brief interaction |
+| **Passive Presence (Close)** | Thunder near person (<6 feet) but not touched | 20-30 people | Person ignores Thunder → treat for calm observation |
+| **Varied Demographics** | Different ages, races, sizes, outfits, movements | 20 types | Children, elderly, wheelchairs, hats, uniforms, beards |
+| **Unusual Movement/Sound** | People running, canes, coughing, loud voices | 10-20 events | Distance + treat pairing during unusual behavior |
+| **Distance Observations** | Sees people from afar (>10 feet) | Unlimited | Farmers markets, parks, café people-watching |
+
+### **Dog Exposure Spectrum (Target: 25 Total)**
+
+| **Exposure Type** | **Definition** | **Target Count** | **Method** |
+|-------------------|----------------|------------------|------------|
+| **Direct Play/Greeting** | Nose-to-nose or play with vaccinated, friendly dog | 8-10 dogs | Controlled introduction → 2-3 sec sniff → treat → separate |
+| **On-Leash Sniff & Move** | Brief greeting (<5 seconds), no rough play | 5-7 dogs | Parallel approach → quick sniff → immediate treat → move away |
+| **Parallel Walking** | Walking 6-10 feet apart, same direction | 5-6 dogs | No direct interaction → treat for calm walking |
+| **Observed at Distance** | Watching dogs in parks, classes, through fence | 5+ dogs | 10+ feet away → "look at that" → treat for noticing |
+
+### **Surface & Environment Minimums**
+
+| **Type** | **Minimum Before 16 Weeks** | **Safe Protocols** |
+|----------|----------------------------|-------------------|
+| **Surfaces** | 12+ types | Tile, carpet, grass (private), gravel, metal, brick, rubber |
+| **Noises** | 20+ types | Doorbell, vacuum, traffic, thunder, construction, music |
+| **Handling Events** | 15+ types | Ears, paws, mouth, brushing, restraint, vet exam style |
+
+---
+
+## 🛡️ Pre-Vaccination Safety Protocols
+
+### **Safe Surface Exposure**
+
+| **Surface Type** | **Risk Level** | **Safe Protocol** |
+|------------------|----------------|-------------------|
+| **Private Yards** | 🟢 Low | Friends/family dogs vaccinated only |
+| **Concrete/Brick** | 🟢 Low | Center of sidewalk, avoid corners/poles |
+| **Farmers Markets** | 🟡 Medium | Carry over grass, walk on pavement only |
+| **Public Grass** | 🔴 High | **Avoid** until 16+ weeks unless carried |
+| **Synthetic Turf/Sod** | 🟢 None | Home setup for texture/potty practice |
+
+### **Controlled Exposure Methods**
+
+| **Method** | **Best For** | **Protocol** |
+|------------|--------------|--------------|
+| **Carried in Arms** | Parks, trails, busy areas | Visual/sound exposure, zero contact |
+| **Puppy Stroller** | Long outings, markets | Mobile observation post |
+| **Private Locations** | Grass, dirt, natural surfaces | Known-clean areas, early morning |
+| **Vet-Approved Classes** | Grass/dirt + dogs | Sanitized surfaces, vaccine-matched puppies |
+
+---
+
+## 🛠️ Weekly Exposure Implementation
+
+### **High-Value Encounter Protocols**
+
+**People Encounters:**
+1. **Treat Toss First** – Person tosses treat before reaching toward Thunder
+2. **Carrier Home-Base** – Safe retreat option in busy areas
+3. **Demographics Diversity** – Systematic variation in appearance/behavior
+4. **Short & Sweet** – 3-5 second interactions, end before fatigue
+5. **Calm Guest Protocol** – Visitor ignores Thunder until he approaches
+
+**Dog Encounters:**
+1. **Vaccinated & Calm Only** – Verify vaccination status before interaction
+2. **Parallel First** – 5-10 feet apart, same direction walking
+3. **One-on-One** – Avoid overwhelming group settings
+4. **Size Management** – Similar size or calm larger dogs
+5. **Sniff & Split** – Brief interaction → immediate separation + treats
 
 ---
 
@@ -70,27 +137,78 @@ Incorporate multiple stimuli at once (Mann's "layering" concept) to accelerate c
 
 ---
 
-## 📝 Printable Log
+## 📝 AVSAB-Aligned Tracking Log
 
-Copy the markdown below into a notes app or print for physical checks:
+### **Daily Socialization Log**
 
 ```markdown
-| Date | Location | # People Met | # Dogs Met | Notes (body language, treats, distance) |
-|------|----------|--------------|-----------|-----------------------------------------|
-|      |          |              |           |                                         |
-|      |          |              |           |                                         |
-|      |          |              |           |                                         |
+| Date | Location | Handled People | Passive People | Dogs (Distance/Type) | Surfaces | Sounds | Handling | Thunder's Response |
+|------|----------|----------------|----------------|---------------------|----------|--------|----------|-------------------|
+|      |          |                |                |                     |          |        |          |                   |
+|      |          |                |                |                     |          |        |          |                   |
+|      |          |                |                |                     |          |        |          |                   |
+```
+
+### **Weekly Progress Tracker**
+
+```markdown
+Week ___: Age ___ weeks
+
+People Exposures:
+□ Handled: ___/target  □ Passive: ___/target  □ Demographics: ___/target
+
+Dog Exposures:
+□ Distance: ___  □ Parallel: ___  □ Brief Sniff: ___  □ Play: ___
+
+Environments:
+□ Surfaces: ___/target  □ Sounds: ___/target  □ Handling: ___/target
+
+Notes:
+- Confidence level: High/Medium/Low
+- Challenging situations: _______________
+- Breakthrough moments: _______________
+- Next week focus: _______________
 ```
 
 ---
 
-## 🔗 Quick Access Per Week
-- **[Week 8 Schedule]({{ "/puppy-schedule/" | relative_url }})** – Home-coming foundation
-- **[Week 9 Schedule]({{ "/week-9/" | relative_url }})** – First puppy class & vet social visit
-- **[Week 10 Schedule]({{ "/week-10/" | relative_url }})** – Groomer "happy visit" week
-- **[Week 11-12 Schedule]({{ "/week-11-12/" | relative_url }})** – Outdoor adventures ramp up
+## 🔗 Integration with Weekly Training Schedules
 
-> 💡 **Tip:** Use a high-value treat bank (chopped chicken, cheese) in a side pouch; replenish at each new environment to keep encounters rewarding. 
+### **Week-by-Week Socialization Focus**
+
+| Week | Training Focus | Socialization Opportunities | Safety Protocols |
+|------|----------------|----------------------------|------------------|
+| **[Week 7]({{ "/week-7/" | relative_url }})** | Homecoming foundation | Home visitors only | Private spaces only |
+| **[Week 8]({{ "/week-8/" | relative_url }})** | Equipment conditioning | Friends/family + demographics | Controlled environments |
+| **[Week 9]({{ "/week-9/" | relative_url }})** | Urban exposure | **Noe Valley Farmers Market** | Concrete surfaces, carry over grass |
+| **[Week 10]({{ "/week-10/" | relative_url }})** | Grooming preparation | Professional groomer visit | Elevated surfaces, handling |
+| **[Week 11-12]({{ "/week-11-12/" | relative_url }})** | Independence building | Extended urban adventures | Advanced public spaces |
+
+### **Location-Specific Protocols**
+
+**Noe Valley Farmers Market (Week 9):**
+- **Demographics**: Vendors, families, elderly, children with parents
+- **Surfaces**: Concrete walkways, brick areas (avoid grass vendor areas)
+- **Sounds**: Live music, vendor calls, cart wheels, crowd conversation
+- **Safety**: Thunder carried over any grass, walking on pavement only
+
+**SF Urban Locations (Week 10+):**
+- **Castro District**: Diverse adult demographics, café culture
+- **Mission District**: Multi-cultural exposure, street art/music
+- **Dolores Park**: Controlled outdoor observation (periphery only)
+- **Valencia Street**: Skateboard/bike desensitization, storefront variety
+
+### **Pre-Vaccination Surface Safety Map**
+
+| Location Type | Week 8 | Week 9 | Week 10 | Week 11+ |
+|---------------|--------|--------|---------|----------|
+| **Home/Private Yards** | ✅ Full access | ✅ Full access | ✅ Full access | ✅ Full access |
+| **Concrete Sidewalks** | ✅ Center walking | ✅ Center walking | ✅ Center walking | ✅ Full access |
+| **Farmers Market** | ❌ Too early | ✅ Pavement only | ✅ Pavement only | ✅ Pavement only |
+| **Public Grass** | ❌ Avoid | ❌ Carried only | ❌ Carried only | ⚠️ Limited access |
+| **Parks** | ❌ Avoid | ✅ Carried only | ✅ Periphery only | ✅ Controlled access |
+
+> 💡 **High-Value Treat Strategy:** Use chopped chicken, cheese, and freeze-dried liver in a side pouch. Replenish at each new environment to maintain reward value throughout long socialization sessions. 
 
 ## 🌳 Controlled Environments & Calm Walks
 

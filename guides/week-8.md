@@ -1,209 +1,283 @@
 ---
 layout: page
 title: "Week 8"
-description: "First full week with Thunder at home (July 14-20, 2025)"
+description: "First full week with Thunder - Full-time owner training (July 14-20, 2025)"
 permalink: /week-8/
 nav_order: 3
 ---
 
-# Thunder's Week 8: First Full Week
+# Thunder's Week 8: Full-Time Owner Training
 **Monday, July 14 – Sunday, July 20, 2025**  
-*(Building on Susan Garrett's homecoming weekend foundation)*
+*Building on homecoming weekend foundation with intensive daily training*
 
-## 🧠 Susan Garrett's Purpose:
+## 🧠 Week Overview:
 Continue the consistent daily routine that teaches Thunder:  
 **crate → potty → training → crate**,  
 while using **classical conditioning** to build positive associations and **high-rate reinforcement** to prevent problems before they start.
 
-> 📘 **Need a full crate-training protocol?** See the dedicated [Crate Training Guide]({{ "/crate-training/" | relative_url }}) for step-by-step introduction games, overnight routine, and troubleshooting. Use it alongside the schedule below.
+**Your Schedule:**
+- **Monday-Tuesday:** Full availability for intensive training
+- **Wednesday-Thursday:** Work from home with training integration
+- **Friday:** First day with nanny (reference Week 9 guide)
+- **Weekend:** Advanced training and socialization
 
-> 🚽 **Potty specifics** (signals, accelerated method, overnight strategy) live in the [Potty Training Guide]({{ "/potty-training/" | relative_url }}). Follow its rules while executing the schedule here.
+> 📘 **Need crate-training specifics?** See the [Crate Training Guide]({{ "/crate-training/" | relative_url }}) for detailed protocols
+> 🚽 **Potty training details** are in the [Potty Training Guide]({{ "/potty-training/" | relative_url }})
 
 ---
 
-## 🔑 Susan Garrett's Foundational Rules:
+## 🔑 Core Training Principles:
 - **Crate = Good**: Calm, predictable, **reward-rich**—never punishment  
 - **Earn Your Freedom**: All freedom or play must be **earned by potty success**
 - **75/25 Feeding**: 75% of daily kibble through training, 25% in bowl
 - **Classical Conditioning**: Make everything Thunder needs = "good"
 - **Prevention Over Correction**: Structure prevents problems
-- **Be a PEZ Dispenser**: High-rate reinforcement for new behaviors
+- **High-Rate Reinforcement**: Build confidence through success
 
 ---
 
-## ⏱️ Daily Visit Flow (3x Daily with Susan's Games)
+## 📅 Monday-Tuesday: Intensive Foundation Days
 
-### 1. **Arrival → Potty First (Susan's Cue Conditioning)**
-- Quietly open crate and take Thunder **straight to his potty zone**
-- Use **"potty, potty, potty"** cue as he eliminates
-- Wait up to 3–5 minutes
+### Daily Schedule (Full Availability)
 
-#### ✔️ If Thunder pees:
-- **"Yes!"** the moment he finishes + high-value treat
-- **Be a PEZ Dispenser**: 3-4 rapid treats for success
-- Proceed to supervised training session
+**6:00 AM - Morning Routine**
+- Potty success → high-value jackpot
+- Back to crate → 30 minutes while you prep
+- Breakfast training session (45 minutes total)
 
-#### ❌ If Thunder doesn't pee:
-- Calmly return him to the crate for 10–15 minutes  
-- **Try again** after that window
-- **No training until successful potty**
+**Morning Training Session (7:00-7:45 AM)**
+1. **Potty Protocol** (5 min)
+   - "Potty" cue conditioning 
+   - Success = PEZ dispenser treats + praise
+2. **Core Games Rotation** (25 min)
+   - Game 1: Training is Fun (crate targeting)
+   - Game 2: Name Recognition with eye contact
+   - Game 3: Place training (mat work)
+   - Game 4: Break/Release cue
+   - Game 5: Four on Floor (impulse control)
+3. **Equipment Conditioning** (15 min)
+   - Collar targeting and wearing
+   - Brush introduction and comfort building
+   - Leash clip conditioning
 
-> 💬 "No wee, no play." – Steve Mann + Susan Garrett's "Earning Freedom" philosophy
+**Mid-Morning Break (8:00-10:00 AM)**
+- Crate nap with frozen KONG
+- Thunder rests, you prep for day
 
----
+**10:00 AM - Second Training Session**
+- Potty success → treats
+- Advanced equipment work (20 minutes)
+- Free time in kitchen ex-pen (30 minutes)
+- Potty → crate nap
 
-### 2. **Susan's Training Games (15–25 min)**
+**12:00 PM - Lunch Training**
+- Potty success → jackpot
+- Lunch portion through training games
+- Focus on problem prevention protocols
+- Extended crate time (2 hours)
 
-When potty is successful, provide **structured, confidence-building games** with 75% of meal portion:
+**3:00 PM - Afternoon Session**
+- Potty success → treats
+- Socialization prep work indoors
+- Visitor protocol practice
+- Terminal association prevention
 
-#### 🎲 Susan's 5 Games - Week 8 Progression:
+**6:00 PM - Evening Training**
+- Potty success → celebration
+- Dinner training session
+- Advanced game combinations
+- Grooming conditioning (brushing)
 
-**Game 1 - Training is Fun (Advanced):**
-- Throw treats in crate **while Thunder is out** → he runs in to get them
-- Build **"crate" cue**: point to crate → Thunder enters → "Yes!" → treat toss
-- Goal: Thunder **chooses** to go to crate when pointed
+**8:30 PM - Wind Down**
+- Final potty with "potty" cue
+- Calm settling in crate
+- White noise, lights out
 
-**Game 2 - Name Recognition (Duration):**
-- "Thunder!" → eye contact → **"Good" (duration marker)** for 2-3 seconds → "Yes!" → treat
-- Add movement: "Thunder!" from different positions in room
-- **Never repeat** the name - one cue, one response
+### Specific Training Goals (Mon-Tue)
 
-**Game 3 - This Place (Bed/Mat Targeting):**
-- Place mat 3 feet away → "place" → Thunder goes to mat → "Yes!" → treat on mat
-- Build **duration**: "place" → Thunder settles → "good...good..." → "break!" → release
-- **Goal**: 10-second settled stay on mat
+**Equipment Mastery:**
+- [ ] Collar: Happy to wear for 30+ minutes
+- [ ] Brush: 10+ strokes without stress signals
+- [ ] Leash: Clip on/off without resistance
+- [ ] Crate: Enters on first "crate" cue
 
-**Game 4 - Break/Release Word:**
-- "Break" = permission to move from any position
-- Practice: sit → "good...good..." → "break!" → play
-- **Essential** for preventing frustration
-
-**Game 5 - Four on Floor (Impulse Control):**
-- Hold treats visible → Thunder sits automatically → "Yes!" → treat
-- **No jumping** for attention, food, or greetings
-- If Thunder jumps → treats disappear → try again
-
-#### ✅ Equipment Conditioning Games (Week 8):
-**Grooming Tools Conditioning:**
-1. **Brush in bowl** → treats → targeting brush
-2. **Brush touches body** → "Yes!" → treat
-3. **One brush stroke** → "Yes!" → treat
-4. **Build to 5 strokes** without stress signals
-
-**Leash/Collar Advanced:**
-1. **Clip leash on** → "Yes!" → treat → **immediately remove** → play continues
-2. **Repeat 3-5 times** per session (prevent terminal association)
-3. **Build duration**: leash on for 30 seconds → 1 minute → 2 minutes
-
----
-
-### 3. **Crate Return → Susan's Method**
-- **Wind down** with 2-3 calm pets
-- **Pre-load crate** with frozen KONG (part of 25% bowl portion)
-- **"Crate"** cue → Thunder enters → "Yes!" → second chew item
-- **Close door calmly** - no fanfare or goodbye rituals
-- **Crate = jackpot location**
+**Behavior Foundations:**
+- [ ] Name response: 9/10 times with eye contact
+- [ ] Potty cue: 85%+ success rate
+- [ ] Place command: Goes to mat and stays 15 seconds
+- [ ] Four on floor: Never jumps for attention
 
 ---
 
-## 📅 Week 8 Susan Garrett Specific Goals
+## 📅 Wednesday-Thursday: Work From Home Integration
 
-### Monday-Tuesday: Equipment Mastery
-- **Collar/leash conditioning**: No resistance to handling
-- **Brush game**: 5 strokes without stress
-- **Name response**: 9/10 times with eye contact
-- **Crate cue**: Enters on first request
+### Modified Schedule (WFH Days)
 
-### Wednesday-Thursday: Prevent Terminal Associations
-- **Visitor protocol**: Guest arrives → treats → guest leaves → more treats (prevent "guests = fun ends")
-- **Car conditioning**: In car → treats → out of car → play continues
-- **Sound desensitization**: Vacuum sound → treat scatter during entire sound
+**6:00 AM - Standard Morning Routine**
+- Same as Mon-Tue schedule
+- Extended breakfast training to tire Thunder before work
 
-### Friday-Sunday: Advanced Confidence
-- **Extended training sessions**: 20-25 minutes with multiple games
-- **Chained behaviors**: "Thunder" → sit → "place" → "break" sequence
-- **Public introduction**: Carrier rides with positive associations
+**8:00 AM - Work Setup**
+- Thunder in office ex-pen with puzzle toy
+- Frozen KONG for first hour of work
+- Brief potty breaks every 90 minutes
 
----
+**Work Day Training Breaks:**
+- **10:00 AM**: Potty + 10-minute training session
+- **12:00 PM**: Lunch training + extended play
+- **2:30 PM**: Potty + equipment conditioning
+- **4:00 PM**: Socialization games + grooming practice
 
-## 🚫 Susan's Problem Prevention Strategy
+**5:00 PM - Work Day Wind Down**
+- Extended training session to release energy
+- Advanced game combinations
+- Prepare for next day's challenges
 
-### Attention-Seeking Prevention:
-- **Never respond** to whining, barking, or pawing for attention
-- **Only reward calm behavior** - be boring when Thunder is demanding
-- **Teach "quiet" cue**: When Thunder stops barking → "quiet" → "Yes!" → treat
-
-### Bite Inhibition (Susan's Backup Plan):
-- **Consent to console**: Practice gentle restraint with treat rewards
-- **Collar grab game**: Hold collar gently → "Yes!" → treat → release
-- **Redirect to appropriate chews** immediately
-
-### Terminal Association Prevention:
-- **Rehearse endings**: Put leash on → treat → remove leash → continue playing
-- **Practice departures**: Pick up keys → treat → put keys down
-- **Visitor protocol**: Guest arrives → treat party → guest stays → more treats
+### Work From Home Success Tips:
+1. **Pre-load entertainment**: Multiple frozen KONGs, puzzle toys
+2. **Scheduled breaks**: Set alarms for potty/training breaks
+3. **Office setup**: Ex-pen positioned where you can supervise
+4. **Energy management**: Intensive morning session = calmer work day
+5. **Problem prevention**: Address any whining/barking immediately
 
 ---
 
-## 📋 Susan's Daily Tracking Template
+## 📅 Friday: Nanny Introduction Day
 
-### Record Per Visit:
-- **Potty Success**: ✅ or ❌ (with "potty" cue)
-- **Training Games**: Which of the 5 games practiced
-- **Equipment Conditioning**: Brush, collar, leash comfort level
-- **Classical Conditioning**: What was made "good" today
-- **Problem Prevention**: Any terminal associations rehearsed
-- **Mood**: Calm, confident, overstimulated, fearful
+**Morning Handoff (8:30 AM)**
+- Complete Week 8 morning routine
+- Brief nanny orientation using [Week 9]({{ "/week-9/" | relative_url }}) protocols
+- Demonstrate current training level
+- Leave detailed notes on Thunder's progress
 
----
-
-## 🎯 End of Week 8 Susan Garrett Milestones:
-
-### Classical Conditioning Established:
-- [ ] **Crate = Awesome**: Enters eagerly, settles immediately
-- [ ] **Brush = Treats**: 10+ strokes without avoidance
-- [ ] **Collar/Leash = Good**: No resistance to handling
-- [ ] **"Potty" Cue**: Eliminates on command 85%+ of time
-
-### Game Mastery:
-- [ ] **Name Recognition**: 95% response with eye contact
-- [ ] **Place Command**: Goes to mat and stays 10 seconds
-- [ ] **Four on Floor**: Never jumps for attention
-- [ ] **Break/Release**: Understands permission to move
-
-### Problem Prevention:
-- [ ] **No Terminal Associations**: Enjoys equipment handling
-- [ ] **Bite Inhibition**: Appropriate chew choices
-- [ ] **Calm Confidence**: Settles quickly in new situations
-- [ ] **Impulse Control**: Waits for permission
+**Your Friday Focus:**
+- Observe nanny-Thunder interaction
+- Note any behavior changes
+- Evening assessment and adjustment
+- Weekend planning based on progress
 
 ---
 
-## 📘 Susan Garrett Principles Applied:
+## 📅 Weekend: Advanced Training & Socialization
 
-### "Everything is Either Good, Bad, or Meaningless"
-- **Make it Good**: Use treats, play, attention to condition positive responses
-- **Avoid Bad**: Never punish, scold, or create fear associations  
-- **Eliminate Meaningless**: Every cue should predict something great
+### Saturday: Urban Confidence Building
 
-### "Prevention is Worth a Pound of Cure"
-- **Structure prevents problems** before they develop
-- **High-rate reinforcement** builds confidence faster than correction
-- **Rehearse endings** to prevent terminal associations
+**Morning Adventure (9:00 AM - 12:00 PM)**
+- **Carrier training**: Start with 15-minute sessions
+- **Local café visit**: Thunder in carrier, people watching
+- **Sound conditioning**: Urban noise + treat pairing
+- **Surface exploration**: Different textures with rewards
 
-### "My Puppy is Doing Their Best"
-- **Adjust environment** if Thunder struggles
-- **Increase reinforcement rate** rather than repeating commands
-- **Build on success** rather than correcting failure
+**Afternoon Training (1:00 - 3:00 PM)**
+- **Advanced equipment work**: Nail board introduction
+- **Grooming session**: Extended brushing + nail touch
+- **Visitor protocol**: Practice with family/friends
+- **Terminal prevention**: Multiple leash on/off sessions
+
+### Sunday: Skills Consolidation
+
+**Morning Assessment (9:00 AM)**
+- Test all Week 8 goals
+- Identify areas needing work
+- Advanced game combinations
+- Problem-solving any challenges
+
+**Afternoon Prep (1:00 PM)**
+- **Week 9 preparation**: Practice nanny routine
+- **Equipment mastery check**: All items = positive
+- **Independence building**: Brief alone time practice
+- **Success celebration**: Photo/video documentation
+
+---
+
+## 🎯 Advanced Training Games - Week 8
+
+### **Equipment Conditioning Progression:**
+1. **Visual conditioning**: Show item → "Yes!" → treat
+2. **Contact conditioning**: Item touches body → "Yes!" → treat  
+3. **Brief use**: 1-2 seconds → "Yes!" → treat
+4. **Duration building**: Gradually increase to 30+ seconds
+5. **Positive association**: Item = good things happen
+
+### **Problem Prevention Protocols:**
+
+**Attention-Seeking Prevention:**
+- Never respond to whining, barking, or pawing
+- Only reward calm, quiet behavior
+- Teach "quiet" cue: barking stops → "quiet" → "Yes!" → treat
+
+**Terminal Association Prevention:**
+- Rehearse all endings multiple times
+- Leash on → treat → leash off → play continues
+- Visitor arrives → treats → visitor stays → more treats
+- Equipment → treats → equipment removed → still more treats
+
+**Bite Inhibition Training:**
+- Collar grab game with treats
+- Gentle restraint conditioning
+- Redirect to appropriate chews immediately
+- "Consent to console" practice
+
+---
+
+## 📊 Week 8 Success Metrics
+
+### **Must-Achieve Goals:**
+- [ ] **Potty Training**: 90%+ success with "potty" cue
+- [ ] **Crate Love**: Enters eagerly, settles immediately  
+- [ ] **Name Response**: 95%+ with eye contact
+- [ ] **Equipment Comfort**: All items conditioned as positive
+- [ ] **Basic Commands**: Sit, place, break, four-on-floor reliable
+- [ ] **Marker Understanding**: Clear "Yes!" = treat coming
+
+### **Advanced Goals:**
+- [ ] **15+ minutes calm alone** in crate/ex-pen
+- [ ] **Brush tolerance**: 20+ strokes without stress
+- [ ] **Leash conditioning**: Happy to see leash appear
+- [ ] **Urban readiness**: Takes treats during city sounds
+- [ ] **Social confidence**: Calm with new people (distance)
+
+### **Problem Prevention Success:**
+- [ ] **No attention-seeking behaviors** developing
+- [ ] **No equipment fear or avoidance**
+- [ ] **No terminal associations** formed
+- [ ] **Bite inhibition** progressing appropriately
+
+---
+
+## 🔗 Daily Tracking Template
+
+**Morning Assessment:**
+- Potty success: ✅/❌ with "potty" cue  
+- Energy level: High/Medium/Low
+- Appetite for training: Excellent/Good/Fair
+
+**Training Sessions Completed:**
+- Core games: 1□ 2□ 3□ 4□ 5□
+- Equipment conditioning: Collar□ Brush□ Leash□
+- Problem prevention: Attention□ Terminal□ Bite□
+
+**Evening Notes:**
+- Challenges encountered: ________________
+- Breakthroughs achieved: ________________
+- Tomorrow's focus: ________________
+
+---
+
+## 🔗 Integration with Specialized Guides
+
+- **[Command Vocabulary & Markers]({{ "/command-vocabulary/" | relative_url }})** — Consistent cue usage [[memory:5108396497891493681]]
+- **[Crate Training Guide]({{ "/crate-training/" | relative_url }})** — Classical conditioning approach
+- **[Potty Training Guide]({{ "/potty-training/" | relative_url }})** — Cue conditioning method
+- **[Nutrition Guide]({{ "/nutrition-guide/" | relative_url }})** — 75/25 feeding split explained
+- **[Grooming Reference Guide]({{ "/grooming-reference/" | relative_url }})** — Conditioning protocol integration
 
 ---
 
 ## 🔗 Next: [Week 9]({{ "/week-9/" | relative_url }})
-Continue building on Susan's foundation with expanded socialization and environmental confidence.
 
-## Related Guides Enhanced with Susan's Methods
-- [Command Vocabulary & Markers]({{ "/command-vocabulary/" | relative_url }}) — Susan's specific marker system
-- [Crate Training Guide]({{ "/crate-training/" | relative_url }}) — Classical conditioning approach
-- [Potty Training Guide]({{ "/potty-training/" | relative_url }}) — Cue conditioning method
-- [Nutrition Guide]({{ "/nutrition-guide/" | relative_url }}) — 75/25 feeding split explained
-- [Grooming Reference Guide]({{ "/grooming-reference/" | relative_url }}) — Conditioning protocol integration 
+Week 9 introduces nanny support and expanded socialization. Use this guide to train your nanny on Thunder's established routines and continue building on the solid foundation you've created this week.
+
+---
+
+*Remember: These intensive training days are building the foundation for Thunder's entire life. Every positive association you create now prevents problems later. Stay consistent, be patient, and celebrate the small wins!* 
