@@ -25,78 +25,14 @@ nav_order: 5
 | 15   | 23 weeks   | 2025-10-14   | 1 mid-day    | Physical challenges (hiking, agility) |
 | 16   | 24 weeks   | 2025-10-21   | 1 mid-day    | Final comprehensive assessment |
 
----
 
-## 🏠 Adoption Planning
-
-### Puppy Selection
-- **Source**: Reputable AKC breeders within 100 miles of San Francisco
-- **Focus**: Health clearances, temperament testing, early socialization
-- **Preparation**: Home puppy-proofing, supply gathering
-
-### Essential Supplies
-- **Safety**: Crate, exercise pen, puppy gates
-- **Comfort**: Bedding, toys, comfort items
-- **Training**: Treats, clicker, leash and harness
-- **Health**: Food, water bowls, first aid supplies
-
----
-
-## 🎯 Development Phases
-
-### Phase 1: Foundation (Weeks 8-12)
-**Goal**: Establish basic routines and socialization
-- House training and crate training
-- Basic commands and recall
-- Socialization with people and environments
-- Veterinary care and vaccinations
-
-### Phase 2: Skill Development (Weeks 13-16)
-**Goal**: Advanced training and independence
-- Complex command sequences
-- Extended socialization experiences
-- Problem-solving and confidence building
-- Travel and carrier training
-
-### Phase 3: Integration (Weeks 17-24)
-**Goal**: Mature behavior and lifestyle integration
-- Reduced supervision requirements
-- Advanced training and tricks
-- Physical challenges and exercise
-- Full household integration
-
----
-
-## 🏥 Health & Veterinary Schedule
-
-### Vaccination Timeline
-- **8 weeks**: First puppy vaccines
-- **11 weeks**: Second puppy vaccines  
-- **14 weeks**: Third puppy vaccines
-- **16 weeks**: Final puppy vaccines
-
-### Health Checkpoints
-- **Initial exam**: Baseline health assessment
-- **Monthly visits**: Growth monitoring and preventive care
-- **Spay/neuter consultation**: Around 6 months
-- **Adult transition**: 12-18 months
-
----
-
-## 📚 Training Philosophy Integration
-
-This timeline integrates with our core training principles:
-- **Consistency**: Same schedule and expectations daily
-- **Positive Reinforcement**: Reward-based learning throughout
-- **Patience**: Gradual progression respecting puppy development
-- **Professional Support**: Expert guidance when needed
 
 ---
 
 ## 🔗 Related Resources
 
 - **[Week-by-Week Guides]({{ "/" | relative_url }})** - Detailed training schedules
-- **[Comprehensive Guide]({{ "/comprehensive-guide/" | relative_url }})** - Training philosophy
+- **[Week 8]({{ "/week-8/" | relative_url }})** - Begin training journey
 - **[Vet Reference]({{ "/vet-reference/" | relative_url }})** - Health milestones
 - **[Nutrition Guide]({{ "/nutrition-guide/" | relative_url }})** - Feeding schedules
 

@@ -14,25 +14,22 @@ This comprehensive guide provides everything you need to know about raising and 
 ## 🚀 Getting Started
 
 **New to puppy training?** Start here:
-1. **[📖 Overview]({{ "/comprehensive-guide/" | relative_url }})** - Read the complete training philosophy and approach
-2. **[💰 Timeline & Budget]({{ "/adoption-plan/" | relative_url }})** - Understand the full commitment and costs
-3. **[🐕 Week 8-10 Schedule]({{ "/puppy-schedule/" | relative_url }})** - Begin with your first week routine
+1. **[🐕 Week 8]({{ "/week-8/" | relative_url }})** - Begin with your first week routine
+2. **[🐕 Week 9]({{ "/week-9/" | relative_url }})** - Continue building foundations
 
 ---
 
 ## 📅 Training Timeline
 
-Follow Thunder's journey week by week:
-
-### 🐣 Early Weeks (8-12 weeks)
-- **[Week 8-10]({{ "/puppy-schedule/" | relative_url }})** - Foundation training and potty schedule
-- **[Week 11-12]({{ "/week-11-12/" | relative_url }})** - Vaccination and socialization expansion
-
-### 🎓 Training Intensive (13-16 weeks)  
-- **[Week 13-16]({{ "/week-13-16/" | relative_url }})** - Board & Train program period
-
-### 🏠 Home Integration (17-24 weeks)
-- **[Week 17-24]({{ "/week-17-24/" | relative_url }})** - Advanced training and independence
+| Week | Age | Vaccination Status | Training Focus | Socialization Targets | Key Milestones |
+|------|-----|-------------------|----------------|----------------------|----------------|
+| **[Week 7]({{ "/week-7/" | relative_url }})** | 7 weeks | Pre-arrival | Homecoming preparation | Setup & planning | Puppy arrival prep |
+| **[Week 8]({{ "/week-8/" | relative_url }})** | 8 weeks | 1st shots (partial) | Foundation & potty schedule | 8-10 people, 1-2 dogs | Crate training, basic commands |
+| **[Week 9]({{ "/week-9/" | relative_url }})** | 9 weeks | 1st shots (partial) | Building confidence & routines | 12-15 people, 2-3 dogs | Farmers market introduction |
+| **[Week 10]({{ "/week-10/" | relative_url }})** | 10 weeks | 2nd shots (partial) | Expanding socialization | 15-20 people, 3-4 dogs | Professional handling (vet/groomer) |
+| **[Week 11-12]({{ "/week-11-12/" | relative_url }})** | 11-12 weeks | 2nd shots complete | Urban socialization expansion | 45+ people, 10+ dogs | Advanced urban exposure |
+| **[Week 13-16]({{ "/week-13-16/" | relative_url }})** | 13-16 weeks | Fully vaccinated | Advanced training & skill development | Continued exposure | Public grass access, advanced commands |
+| **[Week 17-24]({{ "/week-17-24/" | relative_url }})** | 17-24 weeks | Fully vaccinated | Independence & mastery | Full socialization | Travel readiness, advanced skills |
 
 ---
 
@@ -52,6 +49,11 @@ Follow Thunder's journey week by week:
 - **[🛁 Grooming Reference Guide]({{ "/grooming-reference/" | relative_url }})** - Coat care, nail trims & handling prep
 - **[🍽️ Nutrition Guide]({{ "/nutrition-guide/" | relative_url }})** - Feeding schedules and dietary tips
 - **[🩺 Vet Quick Reference Guide]({{ "/vet-reference/" | relative_url }})** - Vaccination schedule & checkup prep
+
+### Training Resources
+- **[⚡ Command Vocabulary & Marker Cues]({{ "/command-vocabulary/" | relative_url }})** - Complete reference for training commands and markers
+- **[🐾 Socialization Tracker]({{ "/socialization-tracker/" | relative_url }})** - Track exposure to people, dogs, and environments
+- **[📋 Adoption Plan]({{ "/adoption-plan/" | relative_url }})** - Overall training philosophy and approach
 
 ---
 
@@ -75,9 +77,9 @@ This guide emphasizes four core principles:
 - Celebrate small victories
 
 ### 👨‍🏫 **Professional Support**
-- Board & Train programs for intensive learning
 - Professional nanny services for consistency
 - Veterinary guidance for health milestones
+- Expert training guidance when needed
 
 ---
 
@@ -90,4 +92,4 @@ This guide emphasizes four core principles:
 
 ---
 
-*Ready to begin? Start with the [📖 Overview]({{ "/comprehensive-guide/" | relative_url }}) to understand the complete training approach.* 
+*Ready to begin? Start with [🐕 Week 8]({{ "/week-8/" | relative_url }}) to begin your training journey.* 

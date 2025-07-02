@@ -183,7 +183,7 @@ Notes: ___________
 ### **Related Guides**
 - **[Carrier Familiarization]({{ "/carrier-familiarization/" | relative_url }})** - Safe transport
 - **[Noise Desensitization]({{ "/noise-desensitization/" | relative_url }})** - Sound conditioning
-- **[Comprehensive Guide]({{ "/comprehensive-guide/" | relative_url }})** - Training philosophy
+- **[Adoption Plan]({{ "/adoption-plan/" | relative_url }})** - Training philosophy
 
 ---
 
