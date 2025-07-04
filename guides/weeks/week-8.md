@@ -102,17 +102,11 @@ while using **classical conditioning** to build positive associations and **high
 
 ## 📅 Friday: Nanny Introduction Day
 
-**Morning Handoff (8:30 AM)**
-- Complete Week 8 morning routine
-- Brief nanny orientation using [Week 9]({{ "/week-9/" | relative_url }}) protocols
-- Demonstrate current training level
-- Leave detailed notes on Thunder's progress
-
-**Your Friday Focus:**
-- Observe nanny-Thunder interaction
-- Note any behavior changes
-- Evening assessment and adjustment
-- Weekend planning based on progress
+#### Friday Schedule
+| Time                         | Activity |
+|------------------------------|----------|
+| 8:30 AM – Morning Handoff      | Complete Week 8 morning routine<br>Brief nanny orientation using [Week 9]({{ "/week-9/" | relative_url }}) protocols<br>Demonstrate current training level<br>Leave detailed notes on Thunder's progress |
+| All Day – Friday Focus        | Observe nanny–Thunder interaction<br>Note any behavior changes<br>Evening assessment and adjustment<br>Weekend planning based on progress |
 
 ---
 
@@ -120,31 +114,19 @@ while using **classical conditioning** to build positive associations and **high
 
 ### Saturday: Urban Confidence Building
 
-**Morning Adventure (9:00 AM - 12:00 PM)**
-- **Carrier training**: Start with 15-minute sessions
-- **Local café visit**: Thunder in carrier, people watching
-- **Sound conditioning**: Urban noise + treat pairing
-- **Surface exploration**: Different textures with rewards
-
-**Afternoon Training (1:00 - 3:00 PM)**
-- **Advanced equipment work**: Nail board introduction
-- **Grooming session**: Extended brushing + nail touch
-- **Visitor protocol**: Practice with family/friends
-- **Terminal prevention**: Multiple leash on/off sessions
+#### Saturday Schedule
+| Time                                              | Activity |
+|---------------------------------------------------|----------|
+| 9:00 AM – 12:00 PM – Morning Adventure             | Carrier training: Start with 15-minute sessions<br>Local café visit: Thunder in carrier, people watching<br>Sound conditioning: Urban noise + treat pairing<br>Surface exploration: Different textures with rewards |
+| 1:00 – 3:00 PM – Afternoon Training               | Advanced equipment work: Nail board introduction<br>Grooming session: Extended brushing + nail touch<br>Visitor protocol: Practice with family/friends<br>Terminal prevention: Multiple leash on/off sessions |
 
 ### Sunday: Skills Consolidation
 
-**Morning Assessment (9:00 AM)**
-- Test all Week 8 goals
-- Identify areas needing work
-- Advanced game combinations
-- Problem-solving any challenges
-
-**Afternoon Prep (1:00 PM)**
-- **Week 9 preparation**: Practice nanny routine
-- **Equipment mastery check**: All items = positive
-- **Independence building**: Brief alone time practice
-- **Success celebration**: Photo/video documentation
+#### Sunday Schedule
+| Time                         | Activity |
+|------------------------------|----------|
+| 9:00 AM – Morning Assessment   | Test all Week 8 goals<br>Identify areas needing work<br>Advanced game combinations<br>Problem-solving any challenges |
+| 1:00 PM – Afternoon Prep       | Week 9 preparation: Practice nanny routine<br>Equipment mastery check: All items = positive<br>Independence building: Brief alone time practice<br>Success celebration: Photo/video documentation |
 
 ---
 
