@@ -2,6 +2,7 @@
 title: "Vet Quick Reference Guide"
 description: "Vaccination timeline, health checks, and emergency signs for Pomeranian puppies"
 nav_order: 11
+permalink: /vet-reference/
 ---
 
 # 🩺 Vet Visit Quick Reference Guide

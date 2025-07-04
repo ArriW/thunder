@@ -3,6 +3,7 @@ layout: page
 title: "Carrier Familiarization & Simulated Travel Routines"
 description: "Complete guide to preparing Thunder for air travel through carrier training and travel simulation"
 nav_order: 9
+permalink: /carrier-familiarization/
 ---
 
 # Carrier Familiarization & Simulated Travel Routines ✈️

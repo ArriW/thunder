@@ -2,6 +2,7 @@
 title: "Nutrition Guide"
 description: "Feeding schedules, portion sizes, and nutritional guidelines for Pomeranian puppies"
 nav_order: 10
+permalink: /nutrition-guide/
 ---
 
 # 🍽️ Pomeranian Puppy Nutrition Guide

@@ -20,25 +20,17 @@ This critical 72-hour period sets the foundation for Thunder's entire life. We'l
 
 | Day | Date | Focus |
 |-----|------|-------|
-| **Friday** | July 11 | Arrival day – high-rate reinforcement, first potty success, crate = good |
-| **Saturday** | July 12 | Establish rhythm, equipment conditioning games, marker training |
-| **Sunday** | July 13 | Solidify schedule, core training games, prep for Week 8 |
+| **Friday** | July 11 | Arrival day – high-rate reinforcement, [first potty success](/potty-training/), [crate = good](/crate-training/) |
+| **Saturday** | July 12 | Establish rhythm, [equipment conditioning games](/training-games/), [marker training](/command-vocabulary/) |
+| **Sunday** | July 13 | Solidify schedule, [core training games](/training-games/), prep for Week 8 |
 
 ---
 
 ## 🛠️ Pre-Arrival Setup (Complete by Thursday, July 10)
-
-### 🏡 Puppy Zones
-
-| Location | Purpose | Setup |
-|----------|---------|-------|
-| **Outdoor Potty Pen** | Fast elimination + cue conditioning | 4×4 ft ex-pen on designated grass spot |
-| **Kitchen Ex-Pen** | Supervised time + training games | 48" tall pen with washable mat |
-| **Office Ex-Pen** | Work-from-home supervision | Second pen to avoid moving |
-| **Bedroom Crate** | Overnight & naps = **good place** | 24" crate beside bed |
-
-
----
+- Review the [Crate Training Guide](/crate-training/) and prepare the crate environment:
+  - Gather crate cover, vet-bed or towel, and frozen KONG.
+  - Stage 1 (Open-Door Buffet): scatter treats just inside the doorway.
+  - Stage 2 (Marker Training): practice the "crate" cue with treats through the door.
 
 ## 🌟 Day 1: Friday, July 11 – Arrival Day
 
@@ -56,7 +48,7 @@ This critical 72-hour period sets the foundation for Thunder's entire life. We'l
 5. **First crate nap** with frozen KONG
 
 ### 🔄 Puppy Cycle (Every 60-90 minutes)
-1. **Sleep** (crate with chew)
+1. **Sleep** (crate with chew; see [Crate Training Guide](/crate-training/) for step-by-step crate familiarization protocol)
 2. **Out** (potty first, condition cue words)
 3. **Training** (75% of meal fed through games)
 4. **Out** (brief potty check)
@@ -65,6 +57,7 @@ This critical 72-hour period sets the foundation for Thunder's entire life. We'l
 7. **Back to Sleep**
 
 ### Equipment Conditioning - Day 1
+#### 🛠️ Equipment Conditioning
 
 **[Bowl Game]({{ "/training-games/" | relative_url }})** with food bowl introduction (see full protocol in Training Games Reference)
 
@@ -90,7 +83,7 @@ This critical 72-hour period sets the foundation for Thunder's entire life. We'l
 
 | Time | Activity | Focus |
 |------|----------|-------|
-| 6:00 AM | Potty → Back to crate | "Potty" cue conditioning |
+| 6:00 AM | [Potty](/potty-training/) → [Crate](/crate-training/) | "Potty" cue conditioning |
 | 7:30 AM | Potty → Breakfast training | **[Game 1: Training is Fun]({{ "/training-games/" | relative_url }})** |
 | 8:00 AM | Supervised play | **[Game 2: Name Recognition]({{ "/training-games/" | relative_url }})** |
 | 8:30 AM | Crate nap | Positive crate = good things happen |
@@ -137,8 +130,8 @@ This critical 72-hour period sets the foundation for Thunder's entire life. We'l
 
 | Time | Activity | Focus |
 |------|----------|-------|
-| 6:00 AM | Potty → Back to crate | "Potty" cue reliability |
-| 7:30 AM | Potty → Morning training | 5 Core Games integration |
+| 6:00 AM | [Potty](/potty-training/) → [Crate](/crate-training/) | "Potty" cue reliability |
+| 7:30 AM | [Potty](/potty-training/) → Morning training | 5 Core Games integration |
 | 8:30 AM | Crate nap | Recovery time |
 | 10:00 AM | **Carrier adventure prep** | Equipment conditioning |
 | 10:30 AM | **First neighborhood walk** | Controlled outdoor exposure |
@@ -155,9 +148,10 @@ This critical 72-hour period sets the foundation for Thunder's entire life. We'l
 
 ---
 
-### 🎒 First Carrier Adventure (10:30-11:30 AM)
+### 🎲 First Carrier Adventure (10:30-11:30 AM)
 
 **Pre-Adventure Setup (10:00-10:30 AM):**
+- Apply classical conditioning principles from the [Crate Training Guide](/crate-training/) to the carrier as a mini-crate.
 1. **Carrier conditioning games** (5 min):
    - Show carrier → "Yes!" → treat
    - Put treats inside → Thunder enters → more treats
@@ -239,22 +233,6 @@ Practice all **[5 Core Games]({{ "/training-games/" | relative_url }})** in sequ
 - ✅ **Clean area** - no other animal waste
 - ✅ **Supervised** every moment
 
----
-
-### 📊 Sunday Success Metrics
-
-- [ ] **Carrier adventure completed** without stress signals
-- [ ] **2-3 safe zone put-downs** with positive associations
-- [ ] **All 5 core games** practiced with high success rate
-- [ ] **Leash conditioning** progressed without resistance
-- [ ] **Evening exploration** completed calmly
-- [ ] **Adventure recovery** - normal eating/playing resumed
-
-### Special Notes for Sunday
-- **Energy management**: Balance adventure with rest periods
-- **Stress monitoring**: Watch for panting, loss of appetite, excessive sleeping
-- **Success celebration**: Extra high-value treats for adventure milestones
-- **Week 8 preparation**: Assess Thunder's confidence for expanded training
 
 ---
 
@@ -278,10 +256,6 @@ By Sunday evening, Thunder should demonstrate:
 - [ ] **Ex-pen settling** with appropriate chew items
 - [ ] **3+ hour overnight sleep** stretches
 
-### **Prevention Success** 
-- [ ] **No terminal associations** formed (equipment removal = play continues)
-- [ ] **No attention-seeking behaviors** developing
-- [ ] **No overwhelm signs** (maintains appetite, normal energy)
 
 ---
 

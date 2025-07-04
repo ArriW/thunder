@@ -2,6 +2,7 @@
 title: "Grooming Reference Guide"
 description: "Step-by-step grooming and coat care routines for Pomeranian puppies"
 nav_order: 9
+permalink: /grooming-reference/
 ---
 
 # 🛁 Pomeranian Grooming Reference Guide

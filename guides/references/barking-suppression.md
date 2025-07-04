@@ -2,6 +2,7 @@
 title: "Barking Suppression Guide"
 description: "Comprehensive guide for training Thunder to become a low-barking companion"
 nav_order: 8
+permalink: /barking-suppression/
 ---
 
 # 🧭 Pomeranian Barking Suppression Guide

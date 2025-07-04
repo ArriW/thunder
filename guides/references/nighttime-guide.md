@@ -2,6 +2,7 @@
 title: "Nighttime Potty Guide"
 description: "Complete overnight potty training system for accident-free nights"
 nav_order: 4
+permalink: /nighttime-guide/
 ---
 
 # 🌙 Nighttime Potty Training Guide

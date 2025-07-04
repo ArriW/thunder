@@ -2,6 +2,7 @@
 title: "Adoption Plan"
 description: "Timeline and milestones for adopting and raising a Pomeranian puppy"
 nav_order: 5
+permalink: /adoption-plan/
 ---
 
 # Pomeranian Puppy Adoption & Development Plan (Weeks 8–24)

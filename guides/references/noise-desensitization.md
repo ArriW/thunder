@@ -3,6 +3,7 @@ layout: page
 title: "Noise Desensitization"
 description: "Systematic approach to building Thunder's tolerance for travel sounds and movement"
 nav_order: 10
+permalink: /noise-desensitization/
 ---
 
 # Motion & Noise Desensitization 🔊
