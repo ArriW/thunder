@@ -22,12 +22,13 @@ while using **classical conditioning** to build positive associations and **high
 - **Weekend:** Advanced training and socialization
 
 ## Timeline Overview
-| Day                 | Focus                                |
-|---------------------|--------------------------------------|
-| Monday-Tuesday      | Intensive Foundation Days            |
-| Wednesday-Thursday  | Work From Home Integration           |
-| Friday              | Nanny Introduction Day               |
-| Weekend             | Advanced Training & Socialization    |
+
+| Day | Focus |
+|-----|-------|
+| Monday-Tuesday | Intensive Foundation Days |
+| Wednesday-Thursday | Work From Home Integration |
+| Friday | Nanny Introduction Day |
+| Weekend | Advanced Training & Socialization |
 
 > 📘 **Need crate-training specifics?** See the [Crate Training Guide]({{ "/crate-training/" | relative_url }}) for detailed protocols
 > 🚽 **Potty training details** are in the [Potty Training Guide]({{ "/potty-training/" | relative_url }})
@@ -49,16 +50,17 @@ while using **classical conditioning** to build positive associations and **high
 ### Daily Schedule (Full Availability)
 
 #### Full Availability Schedule
-| Time                             | Activity |
-|----------------------------------|----------|
-| 6:00 AM – Morning Routine        | Potty success → high-value jackpot<br>Back to crate → 30 minutes while you prep<br>Breakfast training session (45 minutes total) |
-| 7:00 – 7:45 AM – Morning Training Session | Potty Protocol (5 min)<br>Core Games Rotation (25 min)<br>Equipment Conditioning (15 min) |
-| 8:00 – 10:00 AM – Mid-Morning Break | Crate nap with frozen KONG<br>Thunder rests, you prep for day |
-| 10:00 AM – Second Training Session | Potty success → treats<br>Advanced equipment work (20 minutes)<br>Free time in kitchen ex-pen (30 minutes)<br>Potty → crate nap |
-| 12:00 PM – Lunch Training         | Potty success → jackpot<br>Lunch portion through training games<br>Focus on problem prevention protocols<br>Extended crate time (2 hours) |
-| 3:00 PM – Afternoon Session      | Potty success → treats<br>Socialization prep work indoors<br>Visitor protocol practice<br>Terminal association prevention |
-| 6:00 PM – Evening Training       | Potty success → celebration<br>Dinner training session<br>Advanced game combinations<br>Grooming conditioning (brushing) |
-| 8:30 PM – Wind Down              | Final potty with "potty" cue<br>Calm settling in crate<br>White noise, lights out |
+
+| Time | Activity |
+|------|----------|
+| **6:00 AM** | **Morning Routine**<br>• Potty success → high-value jackpot<br>• Back to crate → 30 minutes while you prep<br>• Breakfast training session (45 minutes total) |
+| **7:00 AM** | **Morning Training Session**<br>• Potty Protocol (5 min)<br>• Core Games Rotation (25 min)<br>• Equipment Conditioning (15 min) |
+| **8:00 AM** | **Mid-Morning Break**<br>• Crate nap with frozen KONG<br>• Thunder rests, you prep for day |
+| **10:00 AM** | **Second Training Session**<br>• Potty success → treats<br>• Advanced equipment work (20 minutes)<br>• Free time in kitchen ex-pen (30 minutes)<br>• Potty → crate nap |
+| **12:00 PM** | **Lunch Training**<br>• Potty success → jackpot<br>• Lunch portion through training games<br>• Focus on problem prevention protocols<br>• Extended crate time (2 hours) |
+| **3:00 PM** | **Afternoon Session**<br>• Potty success → treats<br>• Socialization prep work indoors<br>• Visitor protocol practice<br>• Terminal association prevention |
+| **6:00 PM** | **Evening Training**<br>• Potty success → celebration<br>• Dinner training session<br>• Advanced game combinations<br>• Grooming conditioning (brushing) |
+| **8:30 PM** | **Wind Down**<br>• Final potty with "potty" cue<br>• Calm settling in crate<br>• White noise, lights out |
 
 ### Specific Training Goals (Mon-Tue)
 
@@ -81,15 +83,16 @@ while using **classical conditioning** to build positive associations and **high
 ### Modified Schedule (WFH Days)
 
 #### WFH Days Schedule
-| Time     | Activity |
-|----------|----------|
-| 6:00 AM  | Standard Morning Routine:<br>Same as Mon-Tue schedule<br>Extended breakfast training to tire Thunder before work |
-| 8:00 AM  | Work Setup:<br>Thunder in office ex-pen with puzzle toy<br>Frozen KONG for first hour of work<br>Brief potty breaks every 90 minutes |
-| 10:00 AM | Potty + 10-minute training session |
-| 12:00 PM | Lunch training + extended play |
-| 2:30 PM  | Potty + equipment conditioning |
-| 4:00 PM  | Socialization games + grooming practice |
-| 5:00 PM  | Work Day Wind Down:<br>Extended training session to release energy<br>Advanced game combinations<br>Prepare for next day's challenges |
+
+| Time | Activity |
+|------|----------|
+| **6:00 AM** | **Standard Morning Routine**<br>• Same as Mon-Tue schedule<br>• Extended breakfast training to tire Thunder before work |
+| **8:00 AM** | **Work Setup**<br>• Thunder in office ex-pen with puzzle toy<br>• Frozen KONG for first hour of work<br>• Brief potty breaks every 90 minutes |
+| **10:00 AM** | **Mid-Morning Break**<br>• Potty + 10-minute training session |
+| **12:00 PM** | **Lunch Break**<br>• Lunch training + extended play |
+| **2:30 PM** | **Afternoon Break**<br>• Potty + equipment conditioning |
+| **4:00 PM** | **Late Afternoon**<br>• Socialization games + grooming practice |
+| **5:00 PM** | **Work Day Wind Down**<br>• Extended training session to release energy<br>• Advanced game combinations<br>• Prepare for next day's challenges |
 
 ### Work From Home Success Tips:
 1. **Pre-load entertainment**: Multiple frozen KONGs, puzzle toys
@@ -103,10 +106,11 @@ while using **classical conditioning** to build positive associations and **high
 ## 📅 Friday: Nanny Introduction Day
 
 #### Friday Schedule
-| Time                         | Activity |
-|------------------------------|----------|
-| 8:30 AM – Morning Handoff      | Complete Week 8 morning routine<br>Brief nanny orientation using [Week 9]({{ "/week-9/" | relative_url }}) protocols<br>Demonstrate current training level<br>Leave detailed notes on Thunder's progress |
-| All Day – Friday Focus        | Observe nanny–Thunder interaction<br>Note any behavior changes<br>Evening assessment and adjustment<br>Weekend planning based on progress |
+
+| Time | Activity |
+|------|----------|
+| **8:30 AM** | **Morning Handoff**<br>• Complete Week 8 morning routine<br>• Brief nanny orientation using [Week 9]({{ "/week-9/" | relative_url }}) protocols<br>• Demonstrate current training level<br>• Leave detailed notes on Thunder's progress |
+| **All Day** | **Friday Focus**<br>• Observe nanny–Thunder interaction<br>• Note any behavior changes<br>• Evening assessment and adjustment<br>• Weekend planning based on progress |
 
 ---
 
@@ -115,18 +119,20 @@ while using **classical conditioning** to build positive associations and **high
 ### Saturday: Urban Confidence Building
 
 #### Saturday Schedule
-| Time                                              | Activity |
-|---------------------------------------------------|----------|
-| 9:00 AM – 12:00 PM – Morning Adventure             | Carrier training: Start with 15-minute sessions<br>Local café visit: Thunder in carrier, people watching<br>Sound conditioning: Urban noise + treat pairing<br>Surface exploration: Different textures with rewards |
-| 1:00 – 3:00 PM – Afternoon Training               | Advanced equipment work: Nail board introduction<br>Grooming session: Extended brushing + nail touch<br>Visitor protocol: Practice with family/friends<br>Terminal prevention: Multiple leash on/off sessions |
+
+| Time | Activity |
+|------|----------|
+| **9:00 AM - 12:00 PM** | **Morning Adventure**<br>• Carrier training: Start with 15-minute sessions<br>• Local café visit: Thunder in carrier, people watching<br>• Sound conditioning: Urban noise + treat pairing<br>• Surface exploration: Different textures with rewards |
+| **1:00 - 3:00 PM** | **Afternoon Training**<br>• Advanced equipment work: Nail board introduction<br>• Grooming session: Extended brushing + nail touch<br>• Visitor protocol: Practice with family/friends<br>• Terminal prevention: Multiple leash on/off sessions |
 
 ### Sunday: Skills Consolidation
 
 #### Sunday Schedule
-| Time                         | Activity |
-|------------------------------|----------|
-| 9:00 AM – Morning Assessment   | Test all Week 8 goals<br>Identify areas needing work<br>Advanced game combinations<br>Problem-solving any challenges |
-| 1:00 PM – Afternoon Prep       | Week 9 preparation: Practice nanny routine<br>Equipment mastery check: All items = positive<br>Independence building: Brief alone time practice<br>Success celebration: Photo/video documentation |
+
+| Time | Activity |
+|------|----------|
+| **9:00 AM** | **Morning Assessment**<br>• Test all Week 8 goals<br>• Identify areas needing work<br>• Advanced game combinations<br>• Problem-solving any challenges |
+| **1:00 PM** | **Afternoon Prep**<br>• Week 9 preparation: Practice nanny routine<br>• Equipment mastery check: All items = positive<br>• Independence building: Brief alone time practice<br>• Success celebration: Photo/video documentation |
 
 ---
 
@@ -168,23 +174,6 @@ while using **classical conditioning** to build positive associations and **high
 - [ ] **Bite inhibition** progressing appropriately
 
 ---
-
-## 🔗 Daily Tracking Template
-
-**Morning Assessment:**
-- Potty success: ✅/❌ with "potty" cue  
-- Energy level: High/Medium/Low
-- Appetite for training: Excellent/Good/Fair
-
-**Training Sessions Completed:**
-- Core games: 1□ 2□ 3□ 4□ 5□
-- Equipment conditioning: Collar□ Brush□ Leash□
-- Problem prevention: Attention□ Terminal□ Bite□
-
-**Evening Notes:**
-- Challenges encountered: ________________
-- Breakthroughs achieved: ________________
-- Tomorrow's focus: ________________
 
 ---
 
