@@ -27,7 +27,7 @@ Proper nutrition fuels Thunder's growth, training performance, and coat quality.
 
 ### 75% Training Portion
 **Uses:**
-- Marker training rewards ("Yes!" → treat)
+- Marker training rewards ("Good!" → treat)
 - Susan's 5 Games sessions
 - Equipment conditioning (collar, leash, brush)
 - Cue building and reinforcement
@@ -167,7 +167,7 @@ When changing kibble brands:
 
 ### Training Progress Slow?
 - **Increase reward rate** - be more generous initially
-- **Check treat timing** - "Yes!" then treat immediately
+- **Check treat timing** - "Good!" then treat immediately
 - **Verify hunger level** - reduce bowl portion if needed
 
 ---

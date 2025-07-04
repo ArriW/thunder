@@ -24,7 +24,7 @@ Susan Garrett's systematic approach to puppy training through **positive associa
 2. **Throw treats into crate** → Thunder runs in to get them
 3. **Thunder comes back out** → throw more treats in
 4. **Repeat 8-10 times** until Thunder gets excited seeing the crate
-5. **Add "Cookie" cue**: Say "Cookie" → throw treat → Thunder retrieves
+5. **Add "Treat" cue**: Say "Treat" → throw treat → Thunder retrieves
 
 **Success Indicators:**
 - Thunder runs eagerly to crate when treats are thrown
@@ -39,7 +39,7 @@ Susan Garrett's systematic approach to puppy training through **positive associa
 **Method:**
 1. **Say "Thunder"** in happy voice
 2. **Wait for eye contact** (even brief)
-3. **"Yes!" marker** the instant eyes connect
+3. **"Good!" marker** the instant eyes connect
 4. **Toss treat** away from you
 5. **Thunder returns** → repeat sequence
 6. **Goal**: Name = look at handler + good things happen
@@ -55,15 +55,15 @@ Susan Garrett's systematic approach to puppy training through **positive associa
 **Purpose:** Create location value and impulse control
 
 **Method:**
-1. **Point to mat/bed** → Thunder investigates → "Yes!" → treat
-2. **Lure Thunder onto mat** → "Yes!" → treat
-3. **Add "Place" cue** → Thunder goes to mat → "Yes!" → treat
-4. **Build duration**: "Good...Good..." while Thunder stays
+1. **Point to mat/bed** → Thunder investigates → "Good!" → treat
+2. **Lure Thunder onto mat** → "Good!" → treat
+3. **Add "Place" cue** → Thunder goes to mat → "Good!" → treat
+4. **Build duration**: "Yes...Yes..." while Thunder stays
 5. **Release with "Break"** → Thunder can leave → play continues
 
 **Success Indicators:**
 - Thunder goes to mat on first "Place" cue
-- Stays calmly for 15+ seconds with "Good" markers
+- Stays calmly for 15+ seconds with "Yes" markers
 - Waits for "Break" before leaving
 
 ---
@@ -73,7 +73,7 @@ Susan Garrett's systematic approach to puppy training through **positive associa
 
 **Method:**
 1. **Thunder in any position** (sit, place, etc.)
-2. **"Good...Good..." duration markers** to maintain
+2. **"Yes...Yes..." duration markers** to maintain
 3. **"Break!" with enthusiasm** → Thunder can move
 4. **Immediate play/treats** after "Break"
 5. **Practice with all commands** to build understanding
@@ -90,7 +90,7 @@ Susan Garrett's systematic approach to puppy training through **positive associa
 
 **Method:**
 1. **Hold treats visible** → Thunder will likely jump
-2. **Wait silently** → the moment all four paws hit ground → "Yes!" → treat
+2. **Wait silently** → the moment all four paws hit ground → "Good!" → treat
 3. **Repeat** → Thunder learns jumping = nothing, sitting = rewards
 4. **No verbal cue needed** → automatic behavior
 5. **Apply to all interactions** → people, feeding, play
@@ -108,9 +108,9 @@ Susan Garrett's systematic approach to puppy training through **positive associa
 **Purpose:** Make all equipment handling positive and voluntary
 
 **Core Method:**
-1. **Show equipment** → "Yes!" → treat
-2. **Equipment touches Thunder** → "Yes!" → treat  
-3. **Brief equipment use** → "Yes!" → treat
+1. **Show equipment** → "Good!" → treat
+2. **Equipment touches Thunder** → "Good!" → treat  
+3. **Brief equipment use** → "Good!" → treat
 4. **Gradually increase duration** → continuous rewards
 5. **Real use with rewards** → equipment = good things
 
@@ -127,8 +127,8 @@ Susan Garrett's systematic approach to puppy training through **positive associa
 1. **Put collar in food bowl** with treats
 2. **Thunder eats from bowl** → positive association
 3. **Remove collar from bowl**, place on ground
-4. **Thunder targets collar** → "Yes!" → treat
-5. **Hold collar up** → Thunder puts nose through → "Yes!" → jackpot
+4. **Thunder targets collar** → "Good!" → treat
+5. **Hold collar up** → Thunder puts nose through → "Good!" → jackpot
 6. **Brief wearing** → continuous treats → remove → play continues
 
 **Success Indicators:**
@@ -140,11 +140,11 @@ Susan Garrett's systematic approach to puppy training through **positive associa
 
 ### **Bowl Game with Brush**
 **Specific Protocol:**
-1. **Show brush** → "Yes!" → treat
-2. **Brush touches Thunder's body** → "Yes!" → treat
-3. **One brush stroke** → "Yes!" → treat
-4. **Three brush strokes** → "Yes!" → treat each stroke
-5. **10+ strokes** → continuous "Good...Good..." → big reward
+1. **Show brush** → "Good!" → treat
+2. **Brush touches Thunder's body** → "Good!" → treat
+3. **One brush stroke** → "Good!" → treat
+4. **Three brush strokes** → "Good!" → treat each stroke
+5. **10+ strokes** → continuous "Yes...Yes..." → big reward
 
 **Success Indicators:**
 - Thunder approaches brush eagerly
@@ -155,9 +155,9 @@ Susan Garrett's systematic approach to puppy training through **positive associa
 
 ### **Bowl Game with Leash**
 **Specific Protocol:**
-1. **Show leash** → "Yes!" → treat
-2. **Leash touches collar** → "Yes!" → treat
-3. **Clip leash on** → "Yes!" → treat → **immediately unclip**
+1. **Show leash** → "Good!" → treat
+2. **Leash touches collar** → "Good!" → treat
+3. **Clip leash on** → "Good!" → treat → **immediately unclip**
 4. **Repeat clipping** → treat → unclip → play continues
 5. **Gradually increase** attached duration
 
@@ -171,10 +171,10 @@ Susan Garrett's systematic approach to puppy training through **positive associa
 
 ### **Bowl Game with Harness**
 **Specific Protocol:**
-1. **Show harness** → "Yes!" → treat
-2. **Harness touches body** → "Yes!" → treat
-3. **Put head through opening** → "Yes!" → jackpot
-4. **Clip chest buckle** → "Yes!" → treat → unclip
+1. **Show harness** → "Good!" → treat
+2. **Harness touches body** → "Good!" → treat
+3. **Put head through opening** → "Good!" → jackpot
+4. **Clip chest buckle** → "Good!" → treat → unclip
 5. **Full wearing** → continuous treats → remove
 
 **Success Indicators:**
@@ -189,7 +189,7 @@ Susan Garrett's systematic approach to puppy training through **positive associa
 **Critical Rule:** Never let equipment = end of fun
 
 **Prevention Protocol:**
-1. **Put equipment on** → "Yes!" → treat
+1. **Put equipment on** → "Good!" → treat
 2. **Brief positive interaction** → more treats
 3. **Remove equipment** → **play continues**
 4. **Repeat multiple times** → equipment ≠ terminal
@@ -246,21 +246,21 @@ Susan Garrett's systematic approach to puppy training through **positive associa
 - [Week 8: First Full Week]({{ "/week-8/" | relative_url }}) - Building reliability
 - [Week 9]({{ "/week-9/" | relative_url }}) - Adding complexity
 - [Week 10]({{ "/week-10/" | relative_url }}) - Real-world application
-- [Command Vocabulary]({{ "/command-vocabulary/" | relative_url }}) - Cue integration
+- [Susan's Marker System]({{ "/command-vocabulary/" | relative_url }}#susan-garretts-marker-system) - Cue integration
 
 **Integration with:**
-- [Crate Training Guide]({{ "/crate-training/" | relative_url }}) - Game 1 foundation
+- [Susan's Classical Conditioning]({{ "/crate-training/" | relative_url }}#susan-garretts-classical-conditioning-approach) - Game 1 foundation
 - [Grooming Reference]({{ "/grooming-reference/" | relative_url }}) - Equipment conditioning
-- [Nutrition Guide]({{ "/nutrition-guide/" | relative_url }}) - 75/25 feeding method
+- [Susan's 75/25 Method]({{ "/nutrition-guide/" | relative_url }}#susans-7525-method-explained) - 75/25 feeding method
 
 ---
 
 ## 🎯 Advanced Training Games
 
 ### Equipment Conditioning Progression:
-1. **Visual conditioning**: Show item → "Yes!" → treat
-2. **Contact conditioning**: Item touches body → "Yes!" → treat
-3. **Brief use**: 1-2 seconds → "Yes!" → treat
+1. **Visual conditioning**: Show item → "Good!" → treat
+2. **Contact conditioning**: Item touches body → "Good!" → treat
+3. **Brief use**: 1-2 seconds → "Good!" → treat
 4. **Duration building**: Gradually increase to 30+ seconds
 5. **Positive association**: Item = good things happen
 
@@ -269,7 +269,7 @@ Susan Garrett's systematic approach to puppy training through **positive associa
 #### Attention-Seeking Prevention:
 - Never respond to whining, barking, or pawing
 - Only reward calm, quiet behavior
-- Teach "quiet" cue: barking stops → "quiet" → "Yes!" → treat
+- Teach "quiet" cue: barking stops → "quiet" → "Good!" → treat
 
 #### Terminal Association Prevention:
 - Rehearse all endings multiple times

@@ -6,6 +6,8 @@ permalink: /week-8/
 nav_order: 3
 ---
 
+{% include toc.html %}
+
 # Thunder's Week 8: Full-Time Owner Training
 **Monday, July 14 – Sunday, July 20, 2025**  
 *Building on homecoming weekend foundation with intensive daily training*
@@ -138,6 +140,12 @@ while using **classical conditioning** to build positive associations and **high
 - [Terminal Association Prevention]({{ "/training-games/" | relative_url }}#terminal-association-prevention)  
 - [Bite Inhibition Training]({{ "/training-games/" | relative_url }}#bite-inhibition-training)  
 
+💡 **Quick Links to This Week's Key Sections:**  
+- [Monday-Tuesday Foundation Days](#monday-tuesday-intensive-foundation-days)  
+- [Work From Home Schedule](#wednesday-thursday-work-from-home-integration)  
+- [Weekend Adventures](#weekend-advanced-training--socialization)  
+- [Success Metrics](#week-8-success-metrics)  
+
 ## 📊 Week 8 Success Metrics
 
 ### **Must-Achieve Goals:**
@@ -146,7 +154,7 @@ while using **classical conditioning** to build positive associations and **high
 - [ ] **Name Response**: 95%+ with eye contact
 - [ ] **Equipment Comfort**: All items conditioned as positive
 - [ ] **Basic Commands**: Sit, place, break, four-on-floor reliable
-- [ ] **Marker Understanding**: Clear "Yes!" = treat coming
+- [ ] **Marker Understanding**: Clear "Good!" = treat coming
 
 ### **Advanced Goals:**
 - [ ] **15+ minutes calm alone** in crate/ex-pen
@@ -184,10 +192,10 @@ while using **classical conditioning** to build positive associations and **high
 
 ## 🔗 Integration with Specialized Guides
 
-- **[Command Vocabulary & Markers]({{ "/command-vocabulary/" | relative_url }})** — Consistent cue usage [[memory:5108396497891493681]]
-- **[Crate Training Guide]({{ "/crate-training/" | relative_url }})** — Classical conditioning approach
-- **[Potty Training Guide]({{ "/potty-training/" | relative_url }})** — Cue conditioning method
-- **[Nutrition Guide]({{ "/nutrition-guide/" | relative_url }})** — 75/25 feeding split explained
+- **[Susan's Marker System]({{ "/command-vocabulary/" | relative_url }}#susan-garretts-marker-system)** — Consistent cue usage [[memory:5108396497891493681]]
+- **[Susan's Classical Conditioning]({{ "/crate-training/" | relative_url }}#susan-garretts-classical-conditioning-approach)** — Classical conditioning approach
+- **[6-Step Potty Routine]({{ "/potty-training/" | relative_url }}#6-step-outdoor-potty-routine)** — Cue conditioning method
+- **[Susan's 75/25 Method]({{ "/nutrition-guide/" | relative_url }}#susans-7525-method-explained)** — 75/25 feeding split explained
 - **[Grooming Reference Guide]({{ "/grooming-reference/" | relative_url }})** — Conditioning protocol integration
 
 ---

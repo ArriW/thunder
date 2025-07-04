@@ -218,8 +218,8 @@ Master overnight potty training with Thunder using a structured, age-appropriate
 
 ## 🔗 Related Resources
 
-- **[Crate Training Guide]({{ "/crate-training/" | relative_url }})** - Complete crate setup and training
-- **[Potty Training Guide]({{ "/potty-training/" | relative_url }})** - Daytime house training protocols
+- **[Susan's Classical Conditioning]({{ "/crate-training/" | relative_url }}#susan-garretts-classical-conditioning-approach)** - Complete crate setup and training
+- **[6-Step Potty Routine]({{ "/potty-training/" | relative_url }}#6-step-outdoor-potty-routine)** - Daytime house training protocols
 - **[Week 8 Schedule]({{ "/week-8/" | relative_url }})** - Integration with daily routines
 - **[Adoption Plan]({{ "/adoption-plan/" | relative_url }})** - Overall training philosophy
 

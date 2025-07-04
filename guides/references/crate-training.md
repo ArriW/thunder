@@ -51,12 +51,12 @@ Following **Susan Garrett's classical conditioning philosophy**, a well-introduc
 - Scatter 10-15 treats just inside the doorway
 - **Give lots of treats**: rapid-fire treats when Thunder investigates
 - Let puppy **choose** to walk in/out
-- **Say "Yes!" and give bonus treat** each time he enters
+- **Say "Good!" and give bonus treat** each time he enters
 - **No door closing** yet - just building positive associations
 
 ### Stage 2: **Hand-Delivered Rewards + Marker Training**
-- Toss treat at the back; when pup goes in, **"Yes!" + treat through bars**
-- **Add "crate" cue**: point to crate → Thunder enters → "Yes!" → treat
+- Toss treat at the back; when pup goes in, **"Good!" + treat through bars**
+- **Add "crate" cue**: point to crate → Thunder enters → "Good!" → treat
 - **Practice 8-10 repetitions** per session
 - End session before pup loses interest
 
@@ -64,13 +64,13 @@ Following **Susan Garrett's classical conditioning philosophy**, a well-introduc
 - Place Thunder's **food bowl inside crate** (part of 25% bowl portion)
 - Once pup settles to eat, gently close door **for 10-30 sec**
 - **Open before whining starts** - prevent "crate = trapped" association
-- **"Yes!" when door opens** - make exit positive too
+- **"Good!" when door opens** - make exit positive too
 
 ### Stage 4: **Door-Closed Breaks + Classical Conditioning**
 - Gradually increase: 1 min → 3 min → 5 min → 10 min
 - **Sit nearby** reading - don't abandon him
 - **Random treat delivery** through bars for calm behavior
-- **"Quiet" cue conditioning**: If barking stops → "Yes!" → treat
+- **"Quiet" cue conditioning**: If barking stops → "Good!" → treat
 
 ### Stage 5: **Out-of-Sight + "Crate is Awesome" Maintenance**
 - Begin leaving room with door closed
@@ -128,9 +128,9 @@ Following **Susan Garrett's classical conditioning philosophy**, a well-introduc
 ## 🎯 Susan's Advanced Crate Games
 
 ### **"Crate" Cue Building:**
-1. **Point to crate** → Thunder looks → "Yes!" → treat
-2. **Point to crate** → Thunder steps toward → "Yes!" → treat  
-3. **Point to crate** → Thunder enters → "Yes!" → jackpot treats
+1. **Point to crate** → Thunder looks → "Good!" → treat
+2. **Point to crate** → Thunder steps toward → "Good!" → treat
+3. **Point to crate** → Thunder enters → "Good!" → jackpot treats
 4. **Add verbal "crate"** once visual cue is reliable
 
 ### **"Place" vs. "Crate" Distinction:**
@@ -162,7 +162,7 @@ Following **Susan Garrett's classical conditioning philosophy**, a well-introduc
 Referenced in:
 - [Week 7: Homecoming Weekend]({{ "/week-7/" | relative_url }}) - Initial conditioning games
 - [Week 8: First Full Week]({{ "/week-8/" | relative_url }}) - Building reliability
-- [Command Vocabulary & Markers]({{ "/command-vocabulary/" | relative_url }}) - "Crate" cue specifics
-- [Nutrition Guide]({{ "/nutrition-guide/" | relative_url }}) - 25% bowl portion in crate
+- [Cue Conditioning Method]({{ "/command-vocabulary/" | relative_url }}#how-to-introduce-a-new-cue-susans-method) - "Crate" cue specifics
+- [Susan's 75/25 Method]({{ "/nutrition-guide/" | relative_url }}#25-bowl-portion) - 25% bowl portion in crate
 
 **Susan's Final Thought**: "If your dog doesn't love their crate, you haven't made it valuable enough. Keep playing the games until they choose to go there on their own."

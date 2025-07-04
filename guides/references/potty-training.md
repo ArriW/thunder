@@ -112,4 +112,4 @@ Aim for **3-day moving average above 80 %** before reducing supervision.
 * [Nighttime Potty Guide]({{ "/nighttime-guide/" | relative_url }}) – detailed overnight plan.
 
 ---
-*[Back to Week Schedules]({{ "/puppy-schedule/" | relative_url }})* 
+*[Back to Training Timeline]({{ "/" | relative_url }})* 

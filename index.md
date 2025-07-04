@@ -36,10 +36,10 @@ This comprehensive guide provides everything you need to know about raising and 
 ## 🎯 Reference Guides
 
 ### Essential Skills
-- **[🌙 Nighttime Potty Guide]({{ "/nighttime-guide/" | relative_url }})** - Master overnight potty training
+- **[🌙 Overnight Strategy]({{ "/nighttime-guide/" | relative_url }}#overnight-strategy)** - Master overnight potty training
 - **[🔇 Barking Suppression Guide]({{ "/barking-suppression/" | relative_url }})** - Create a calm, quiet companion
-- **[🏠 Crate Training Guide]({{ "/crate-training/" | relative_url }})** - Step-by-step crate introduction & troubleshooting
-- **[🚽 Potty Training Guide]({{ "/potty-training/" | relative_url }})** - Day & night toilet training protocol
+- **[🏠 Susan's Classical Conditioning]({{ "/crate-training/" | relative_url }}#susan-garretts-classical-conditioning-approach)** - Step-by-step crate introduction & troubleshooting
+- **[🚽 6-Step Potty Routine]({{ "/potty-training/" | relative_url }}#6-step-outdoor-potty-routine)** - Day & night toilet training protocol
 
 ### Travel Preparation
 - **[✈️ Carrier Familiarization & Simulated Travel Routines]({{ "/carrier-familiarization/" | relative_url }})** - Prepare for air travel and carrier training
@@ -51,45 +51,10 @@ This comprehensive guide provides everything you need to know about raising and 
 - **[🩺 Vet Quick Reference Guide]({{ "/vet-reference/" | relative_url }})** - Vaccination schedule & checkup prep
 
 ### Training Resources
-- **[⚡ Command Vocabulary & Marker Cues]({{ "/command-vocabulary/" | relative_url }})** - Complete reference for training commands and markers
+- **[⚡ Susan's Marker System]({{ "/command-vocabulary/" | relative_url }}#susan-garretts-marker-system)** - Complete reference for training commands and markers
 - **[🐾 Socialization Tracker]({{ "/socialization-tracker/" | relative_url }})** - Track exposure to people, dogs, and environments
 - **[📋 Adoption Plan]({{ "/adoption-plan/" | relative_url }})** - Overall training philosophy and approach
 
 ---
 
-## 💡 Training Success Principles
-
-This guide emphasizes four core principles:
-
-### 🎯 **Consistency**
-- Same schedule every day
-- Same commands and cues
-- Same expectations from all family members
-
-### 🏆 **Positive Reinforcement** 
-- Reward good behavior immediately
-- Use high-value treats and praise
-- Make training fun and engaging
-
-### ⏰ **Patience**
-- Puppies learn at their own pace
-- Expect setbacks and accidents
-- Celebrate small victories
-
-### 👨‍🏫 **Professional Support**
-- Professional nanny services for consistency
-- Veterinary guidance for health milestones
-- Expert training guidance when needed
-
----
-
-## 🔗 Navigation Tips
-
-- **Use the navigation menu above** to jump between sections
-- **Follow the week-by-week progression** for best results  
-- **Bookmark specialized guides** for quick reference
-- **Check the floating menu (📚)** for quick access anywhere
-
----
-
-*Ready to begin? Start with [🐕 Week 8]({{ "/week-8/" | relative_url }}) to begin your training journey.* 
+*Ready to begin? Start with [�� Week 8]({{ "/week-8/" | relative_url }}) to begin your training journey.* 

@@ -35,7 +35,7 @@ permalink: /adoption-plan/
 - **[Week-by-Week Guides]({{ "/" | relative_url }})** - Detailed training schedules
 - **[Week 8]({{ "/week-8/" | relative_url }})** - Begin training journey
 - **[Vet Reference]({{ "/vet-reference/" | relative_url }})** - Health milestones
-- **[Nutrition Guide]({{ "/nutrition-guide/" | relative_url }})** - Feeding schedules
+- **[Susan's 75/25 Method]({{ "/nutrition-guide/" | relative_url }}#susans-7525-method-explained)** - Feeding schedules
 
 ---
 

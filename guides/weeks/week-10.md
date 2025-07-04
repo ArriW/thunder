@@ -34,7 +34,7 @@ nav_order: 5
 #### **Morning Routine (8:45-10:00am)**
 1. **Potty Success** → "Potty" cue conditioning → Multiple treats
 2. **Grooming Tools Conditioning**:
-   - **[Bowl Game with Brush]({{ "/training-games/" | relative_url }})** - progressive conditioning
+   - **[Bowl Game with Brush]({{ "/training-games/" | relative_url }}#bowl-game-with-brush)** - progressive conditioning
    - Goal: 10 calm strokes by Friday
 3. **Susan's "Consent to Console"**: Gentle collar hold → treat → release
 4. **Carrier Duration**: 25 minutes with frozen KONG
@@ -42,8 +42,8 @@ nav_order: 5
 
 #### **Midday Session (12:00-1:00pm)**
 1. **Potty + "Get Busy" cue** conditioning (if appropriate)
-2. **Nail Board Game**: **[Bowl Game]({{ "/training-games/" | relative_url }})** with nail board
-3. **Touch Conditioning**: **[Bowl Game]({{ "/training-games/" | relative_url }})** with handling
+2. **Nail Board Game**: **[Bowl Game with Nail Board]({{ "/training-games/" | relative_url }}#equipment-conditioning-protocols)** with nail board
+3. **Touch Conditioning**: **[Bowl Game Foundation]({{ "/training-games/" | relative_url }}#bowl-game-foundation)** with handling
 4. **Sound Desensitization**: Blow dryer sound (low volume) + treat scatter
 5. **Advanced "Place" Game**: 15-second stays with "Good...Good..." markers
 
@@ -73,7 +73,7 @@ nav_order: 5
 - **High-value treat prep**: Chicken/cheese for class challenges
 
 **Class Goals (5:00pm):**
-- **Proof [5 Core Games]({{ "/training-games/" | relative_url }})** with distractions present
+- **Proof [5 Core Games]({{ "/training-games/" | relative_url }}#susan-garretts-5-core-games)** with distractions present
 - **Practice loose leash** foundation (if introduced)
 - **Calm behavior** during other dogs' grooming demonstrations
 - **Advanced socialization**: Multiple handlers giving treats
@@ -131,7 +131,7 @@ nav_order: 5
 ## 🎲 Susan's Advanced Games - Week 10
 
 ### **Grooming Conditioning Protocol:**
-See **[Training Games Reference]({{ "/training-games/" | relative_url }})** for complete **[Bowl Game]({{ "/training-games/" | relative_url }})** protocols with all grooming tools.
+See **[Training Games Reference]({{ "/training-games/" | relative_url }}#equipment-conditioning-protocols)** for complete **[Bowl Game Foundation]({{ "/training-games/" | relative_url }}#bowl-game-foundation)** protocols with all grooming tools.
 
 ### **Advanced Equipment Games:**
 1. **Nail Clippers**: Show → click in air → treat

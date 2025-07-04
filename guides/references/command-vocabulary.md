@@ -17,9 +17,9 @@ A concise lookup table of every word Thunder hears in training. Following **Susa
 
 | Word | Type | When to Use | Susan's Method |
 |------|------|-------------|----------------|
-| **Yes** | Event Marker | The **exact moment** Thunder performs the desired behavior | Mark the instant behavior happens → treat immediately |
-| **Good** | Duration Marker | While Thunder *maintains* the behavior | "Good...Good..." during stays, keeps behavior going |
-| **Okay** | Alternative Marker | Can be used as alternative to "Yes" | Same timing as "Yes" - instant behavior marking |
+| **Good** | Event Marker | The **exact moment** Thunder performs the desired behavior | Mark the instant behavior happens → treat immediately |
+| **Yes** | Duration Marker | While Thunder *maintains* the behavior | "Yes...Yes..." during stays, keeps behavior going |
+| **Okay** | Alternative Marker | Can be used as alternative to "Good" | Same timing as "Good" - instant behavior marking |
 | **Break** | Release Word | To end the current behavior & give permission to move | Clear release from any command - prevents frustration |
 
 > 💡 **Key Principle**: Stick to these three words. Susan emphasizes that mixing markers confuses timing and weakens the conditioned response.
@@ -30,7 +30,7 @@ A concise lookup table of every word Thunder hears in training. Following **Susa
 | Cue | Behavior | Susan's Training Notes |
 |-----|----------|------------------------|
 | **Thunder** | Name Recognition | Should mean "focus on me and await next cue" - never meaningless |
-| **Sit** | Sit until released | Build with "Yes!" marker, maintain with "Good," release with "Break" |
+| **Sit** | Sit until released | Build with "Good!" marker, maintain with "Yes," release with "Break" |
 | **Down** | Lie down until released | Introduce after 17 weeks when confidence is solid |
 | **Touch** | Nose-target handler's hand | Perfect for redirecting attention and building engagement |
 | **Come** | Recall to front position | **Most important cue** - always highest value reward |
@@ -42,7 +42,7 @@ A concise lookup table of every word Thunder hears in training. Following **Susa
 
 - **❌ Never repeat a cue** - If Thunder doesn't respond, the behavior isn't conditioned yet
 - **❌ Never use the name meaninglessly** - Don't say "Thunder" constantly or it becomes background noise  
-- **❌ Never use markers inconsistently** - "Yes" always means the same thing
+- **❌ Never use markers inconsistently** - "Good" always means the same thing
 - **❌ Never call Thunder for something unpleasant** - Name should always predict good things
 - **❌ Never give a command you can't enforce** - Set Thunder up for success
 
@@ -51,10 +51,10 @@ A concise lookup table of every word Thunder hears in training. Following **Susa
 
 | Cue | Purpose | Conditioning Method |
 |-----|---------|-------------------|
-| **Potty** | Elimination command | Say while Thunder is going → "Yes!" → treat |
+| **Potty** | Elimination command | Say while Thunder is going → "Good!" → treat |
 | **Get Busy** | Defecation command | Say during the act → build association |
-| **Quiet** | Stop barking | Only say when barking stops → "Yes!" → treat |
-| **Cookie** | Look for treats on ground | Say word → throw treat → builds floor search |
+| **Quiet** | Stop barking | Only say when barking stops → "Good!" → treat |
+| **Treat** | Look for treats on ground | Say word → throw treat → builds floor search |
 
 > 📘 **Susan's Philosophy**: These aren't traditional "commands" but **conditioned responses** - the word predicts what's about to happen.
 
@@ -65,20 +65,20 @@ See **[Training Games Reference]({{ "/training-games/" | relative_url }})** for 
 
 | Game | Associated Cues | Purpose |
 |------|----------------|---------|
-| **Training is Fun** | "Cookie" (treat toss) | Builds positive training associations |
+| **Training is Fun** | "Treat" (treat toss) | Builds positive training associations |
 | **Name Recognition** | "Thunder" | Makes name meaningful and valuable |
 | **This Place** | "Place," "Break" | Creates location value and impulse control |
-| **Permission** | "Break," "Cookie" | Teaches when movement is allowed |
+| **Permission** | "Break," "Treat" | Teaches when movement is allowed |
 | **Four on Floor** | (No verbal cue) | Automatic sit for attention/rewards |
 
 ---
 ## 🚀 How to Introduce a New Cue (Susan's Method)
 
 1. **Get the behavior first** - Lure, capture, or shape the action
-2. **Mark the instant it happens** - "Yes!" at the perfect moment
+2. **Mark the instant it happens** - "Good!" at the perfect moment
 3. **Reward immediately** - High-value treat follows marker
 4. **Repeat 5-10 times** - Build the pattern without the cue word
-5. **Add the cue** - Say word → behavior happens → "Yes!" → treat
+5. **Add the cue** - Say word → behavior happens → "Good!" → treat
 6. **Never repeat** - One cue, one response, always
 
 > 🎯 **Susan's Success Tip**: "If your dog knows it, they'll do it on the first cue every time."
@@ -90,10 +90,10 @@ Following Susan's method of making everything "good":
 
 | Equipment | Conditioning Cue | Method |
 |-----------|------------------|--------|
-| **Collar** | (Visual cue) | Collar appears → "Yes!" → treat |
-| **Leash** | (Visual cue) | Leash clips on → "Yes!" → treat → **remove leash** |
-| **Brush** | "Brush" | Say word → show brush → "Yes!" → treat |
-| **Car** | "Car" | Say word → approach car → "Yes!" → treat |
+| **Collar** | (Visual cue) | Collar appears → "Good!" → treat |
+| **Leash** | (Visual cue) | Leash clips on → "Good!" → treat → **remove leash** |
+| **Brush** | "Brush" | Say word → show brush → "Good!" → treat |
+| **Car** | "Car" | Say word → approach car → "Good!" → treat |
 
 > 🔄 **Terminal Prevention**: Always end on a positive note and rehearse endings multiple times.
 

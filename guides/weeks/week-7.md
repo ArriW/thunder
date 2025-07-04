@@ -59,7 +59,7 @@ This critical 72-hour period sets the foundation for Thunder's entire life. We'l
 ### Equipment Conditioning - Day 1
 #### 🛠️ Equipment Conditioning
 
-**[Bowl Game]({{ "/training-games/" | relative_url }})** with food bowl introduction (see full protocol in Training Games Reference)
+**[Bowl Game Foundation]({{ "/training-games/" | relative_url }}#bowl-game-foundation)** with food bowl introduction (see full protocol in Training Games Reference)
 
 **Key Times:**
 - **2:00 PM**: Lunch (75% through training games, 25% in bowl)
@@ -84,17 +84,17 @@ This critical 72-hour period sets the foundation for Thunder's entire life. We'l
 | Time | Activity | Focus |
 |------|----------|-------|
 | 6:00 AM | [Potty](/potty-training/) → [Crate](/crate-training/) | "Potty" cue conditioning |
-| 7:30 AM | Potty → Breakfast training | **[Game 1: Training is Fun]({{ "/training-games/" | relative_url }})** |
-| 8:00 AM | Supervised play | **[Game 2: Name Recognition]({{ "/training-games/" | relative_url }})** |
+| 7:30 AM | Potty → Breakfast training | **[Game 1: Training is Fun]({{ "/training-games/" | relative_url }}#game-1-training-is-fun)** |
+| 8:00 AM | Supervised play | **[Game 2: Name Recognition]({{ "/training-games/" | relative_url }}#game-2-name-recognition)** |
 | 8:30 AM | Crate nap | Positive crate = good things happen |
 | 10:00 AM | Potty → Training | Focus + marker practice |
-| 10:30 AM | Kitchen time with family | **[Game 3: This Place]({{ "/training-games/" | relative_url }})** |
-| 11:00 AM | Potty → Crate | **[Bowl Game]({{ "/training-games/" | relative_url }})** with collar |
-| 12:00 PM | Potty → Lunch training | **[Game 4: Break/Release]({{ "/training-games/" | relative_url }})** |
+| 10:30 AM | Kitchen time with family | **[Game 3: This Place]({{ "/training-games/" | relative_url }}#game-3-this-place-place-training)** |
+| 11:00 AM | Potty → Crate | **[Bowl Game]({{ "/training-games/" | relative_url }}#bowl-game-with-collar)** with collar |
+| 12:00 PM | Potty → Lunch training | **[Game 4: Break/Release]({{ "/training-games/" | relative_url }}#game-4-breakrelease-word)** |
 | 12:30 PM | Backyard exploration | New surfaces, treat scatter |
 | 1:00 PM | Long crate nap | Frozen KONG = crate is awesome |
-| 2:30 PM | Potty → Play | **[Game 5: Four on Floor]({{ "/training-games/" | relative_url }})** |
-| 3:00 PM | Equipment conditioning | **[Bowl Game]({{ "/training-games/" | relative_url }})** with collar |
+| 2:30 PM | Potty → Play | **[Game 5: Four on Floor]({{ "/training-games/" | relative_url }}#game-5-four-on-floor)** |
+| 3:00 PM | Equipment conditioning | **[Bowl Game]({{ "/training-games/" | relative_url }}#bowl-game-with-collar)** with collar |
 | 3:30 PM | Family time | Gentle handling with treat rewards |
 | 4:00 PM | Quiet crate time | |
 | 5:30 PM | Final potty → Bed prep | |
@@ -104,14 +104,14 @@ This critical 72-hour period sets the foundation for Thunder's entire life. We'l
 
 ### Equipment Conditioning - Day 2
 
-**[Bowl Game with Collar]({{ "/training-games/" | relative_url }})** - full conditioning protocol (see Training Games Reference for step-by-step method)
+**[Bowl Game with Collar]({{ "/training-games/" | relative_url }}#bowl-game-with-collar)** - full conditioning protocol (see Training Games Reference for step-by-step method)
 
 **Night Schedule:** Same as Day 1
 
 ### New Introductions
 - Dishwasher sound (during crate time with high-value chews)
 - Different floor textures (reward investigation)
-- Gentle brushing (3 strokes + "Yes!" + treat each stroke)
+- Gentle brushing (3 strokes + "Good!" + treat each stroke)
 
 ---
 
@@ -153,7 +153,7 @@ This critical 72-hour period sets the foundation for Thunder's entire life. We'l
 **Pre-Adventure Setup (10:00-10:30 AM):**
 - Apply classical conditioning principles from the [Crate Training Guide](/crate-training/) to the carrier as a mini-crate.
 1. **Carrier conditioning games** (5 min):
-   - Show carrier → "Yes!" → treat
+   - Show carrier → "Good!" → treat
    - Put treats inside → Thunder enters → more treats
    - Practice in/out 3-4 times with rewards
 2. **Load carrier essentials**: High-value treats, small water dish, comfort item
@@ -188,7 +188,7 @@ This critical 72-hour period sets the foundation for Thunder's entire life. We'l
 ### 🎲 5 Core Training Games Integration
 
 **Morning Session (7:30-8:30 AM):**
-Practice all **[5 Core Games]({{ "/training-games/" | relative_url }})** in sequence:
+Practice all **[5 Core Games]({{ "/training-games/" | relative_url }}#susan-garretts-5-core-games)** in sequence:
 1. **Training is Fun** (10 min)
 2. **Name Recognition** (10 min) 
 3. **This Place** (5 min)
@@ -206,7 +206,7 @@ Practice all **[5 Core Games]({{ "/training-games/" | relative_url }})** in sequ
 
 ### 🔗 Leash Conditioning (Enhanced)
 
-**[Bowl Game with Leash]({{ "/training-games/" | relative_url }})** - complete conditioning protocol
+**[Bowl Game with Leash]({{ "/training-games/" | relative_url }}#bowl-game-with-leash)** - complete conditioning protocol
 
 **Success indicators:**
 - Thunder shows interest in leash appearance
@@ -245,7 +245,7 @@ By Sunday evening, Thunder should demonstrate:
 - [ ] **Name recognition**: Thunder → eye contact → treat chain reliable
 - [ ] **Crate = positive space**: Enters willingly, settles with enrichment
 - [ ] **Equipment conditioning**: Bowl, collar, leash all = good things
-- [ ] **Marker understanding**: "Yes!" → treat connection clear
+- [ ] **Marker understanding**: "Good!" → treat connection clear
 - [ ] **75/25 feeding split**: Most food earned through training games
 - [ ] **First outdoor adventure**: Carrier walk completed successfully
 

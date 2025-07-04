@@ -31,30 +31,30 @@ nav_order: 4
 - **Nanny Instructions** - Focus on repetition and positive associations:
 
 #### **Morning Routine (8:45-10:00am)**
-1. **Potty Success** → "Yes!" → Multiple treats (3-4 treats)
-2. **[Training is Fun]({{ "/training-games/" | relative_url }})**: Throw treats in crate
-3. **[Name Recognition]({{ "/training-games/" | relative_url }})**: "Thunder!" → eye contact → treat
-4. **Equipment Conditioning**: **[Bowl Game]({{ "/training-games/" | relative_url }})** with collar
+1. **Potty Success** → "Good!" → Multiple treats (3-4 treats)
+2. **[Training is Fun]({{ "/training-games/" | relative_url }}#game-1-training-is-fun)**: Throw treats in crate
+3. **[Name Recognition]({{ "/training-games/" | relative_url }}#game-2-name-recognition)**: "Thunder!" → eye contact → treat
+4. **Equipment Conditioning**: **[Bowl Game]({{ "/training-games/" | relative_url }}#bowl-game-with-collar)** with collar
 5. **Crate time** with frozen KONG (25% bowl portion)
 
 #### **Midday Check (12:00-1:00pm)**
 1. **Potty Success** → Classical conditioning with "potty" cue
-2. **[This Place Game]({{ "/training-games/" | relative_url }})**: Mat targeting with duration
-3. **Brush Conditioning**: **[Bowl Game]({{ "/training-games/" | relative_url }})** with brush
+2. **[This Place Game]({{ "/training-games/" | relative_url }}#game-3-this-place-place-training)**: Mat targeting with duration
+3. **Brush Conditioning**: **[Bowl Game]({{ "/training-games/" | relative_url }}#bowl-game-with-brush)** with brush
 4. **Lunch training** (part of 75% portion): Basic sit/touch games
 5. **Supervised pen time** with appropriate chew
 
 #### **Afternoon Session (3:30-5:00pm)**
 1. **Potty Success** → High-value treat reward
-2. **[Four on Floor Game]({{ "/training-games/" | relative_url }})**: Impulse control training
+2. **[Four on Floor Game]({{ "/training-games/" | relative_url }}#game-5-four-on-floor)**: Impulse control training
 3. **Sound Desensitization**: Play doorbell sound → treat scatter during sound
-4. **Crate Game**: "Crate" cue → Thunder enters → "Yes!" → treat toss
+4. **Crate Game**: "Crate" cue → Thunder enters → "Good!" → treat toss
 5. **Evening crate** preparation with chew toy
 
 #### Nanny Days Schedule
 | Time                             | Activity                                                                                                                   |
 |----------------------------------|----------------------------------------------------------------------------------------------------------------------------|
-| 8:45–10:00 AM – Morning Routine  | Potty success → "Yes!" → multiple treats (3-4)<br>[Training is Fun] → toss treats into crate<br>[Name Recognition] → "Thunder!" + eye contact → treat<br>Equipment Conditioning: [Bowl Game with collar] → treats<br>Crate time with frozen KONG (25% bowl portion) |
+| 8:45–10:00 AM – Morning Routine  | Potty success → "Good!" → multiple treats (3-4)<br>[Training is Fun] → toss treats into crate<br>[Name Recognition] → "Thunder!" + eye contact → treat<br>Equipment Conditioning: [Bowl Game with collar] → treats<br>Crate time with frozen KONG (25% bowl portion) |
 | 12:00–1:00 PM – Midday Check     | Potty success → treat (potty cue conditioning)<br>[This Place Game] → mat targeting + duration<br>Brush Conditioning: [Bowl Game with brush]<br>Lunch training: sit/touch games<br>Supervised pen time with chew |
 | 3:30–5:00 PM – Afternoon Session| Potty success → high-value treat<br>[Four on Floor Game] → impulse control<br>Sound Desensitization: doorbell → treat scatter<br>Crate Game: "Crate" cue → treat toss<br>Evening crate prep with chew toy |
 
@@ -152,7 +152,7 @@ nav_order: 4
 **12:00pm - Friend's House Visit:**
 1. **New environment protocol**: Explore → treat → settle
 2. **Consent to console practice**: Gentle restraint + treats
-3. **Collar grab game**: Hold collar → "Yes!" → treat → release
+3. **Collar grab game**: Hold collar → "Good!" → treat → release
 4. **Multiple surface exploration** with positive associations
 
 **Evening:**
@@ -163,7 +163,7 @@ nav_order: 4
 | Time                                    | Activity                                                                                          |
 |-----------------------------------------|---------------------------------------------------------------------------------------------------|
 | 10:00 AM – Valencia Street Exposure      | Sidewalk café sitting in carrier → observe + treat<br>Diverse people conditioning → treat<br>Skateboard/bike desensitization → treat<br>"Focus" cue conditioning amid distractions |
-| 12:00 PM – Friend's House Visit          | Explore new environment → treat → settle<br>Consent to console practice: gentle restraint + treats<br>Collar grab game: hold collar → "Yes!" → treat → release<br>Surface exploration with positive associations |
+| 12:00 PM – Friend's House Visit          | Explore new environment → treat → settle<br>Consent to console practice: gentle restraint + treats<br>Collar grab game: hold collar → "Good!" → treat → release<br>Surface exploration with positive associations |
 | Evening                                 | Grooming session: 5-10 brush strokes + treats each stroke<br>Nail board introduction: scratching surface → rewards                             |
 
 ---
@@ -203,7 +203,7 @@ Following AVSAB and Puppy Culture guidelines for Thunder's critical socializatio
 >- [Carrier Familiarization & Simulated Travel Routines]({{ "/carrier-familiarization/" | relative_url }})  
 >- [Noise Desensitization]({{ "/noise-desensitization/" | relative_url }})  
 >- [Barking Suppression Guide]({{ "/barking-suppression/" | relative_url }})  
->- [Command Vocabulary & Marker Cues]({{ "/command-vocabulary/" | relative_url }})
+>- [Susan's Marker System]({{ "/command-vocabulary/" | relative_url }}#susan-garretts-marker-system)
 
 ---
 

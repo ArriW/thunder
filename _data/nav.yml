@@ -48,4 +48,6 @@ sections:
       - label: "🍽️ Nutrition Guide"
         url: "/nutrition-guide/"
       - label: "🩺 Vet Reference"
-        url: "/vet-reference/" 
+        url: "/vet-reference/"
+      - label: "🔗 Linking Guide"
+        url: "/linking-guide/" 

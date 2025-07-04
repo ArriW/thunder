@@ -1,0 +1,155 @@
+<!-- Table of Contents Generator -->
+<div class="table-of-contents">
+  <h3>📋 Table of Contents</h3>
+  <div id="toc-content">
+    <!-- TOC will be generated here by JavaScript -->
+  </div>
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const tocContent = document.getElementById('toc-content');
+  if (!tocContent) return;
+  
+  // Find all headers (h2 and below, excluding h1)
+  const headers = document.querySelectorAll('h2, h3, h4, h5, h6');
+  
+  if (headers.length === 0) {
+    tocContent.innerHTML = '<p><em>No sections found in this page.</em></p>';
+    return;
+  }
+  
+  // Create TOC structure
+  const tocList = document.createElement('ul');
+  tocList.className = 'toc-list';
+  
+  headers.forEach(function(header) {
+    // Ensure header has an ID
+    if (!header.id) {
+      const text = header.textContent.trim();
+      const id = text
+        .toLowerCase()
+        .replace(/[^\w\s-]/g, '')
+        .replace(/\s+/g, '-')
+        .replace(/--+/g, '-')
+        .replace(/^-+|-+$/g, '');
+      header.id = id;
+    }
+    
+    // Create TOC item
+    const listItem = document.createElement('li');
+    listItem.className = 'toc-item toc-' + header.tagName.toLowerCase();
+    
+    const link = document.createElement('a');
+    link.href = '#' + header.id;
+    link.textContent = header.textContent.replace('🔗', '').trim();
+    link.className = 'toc-link';
+    
+    // Add smooth scrolling
+    link.addEventListener('click', function(e) {
+      e.preventDefault();
+      document.getElementById(header.id).scrollIntoView({
+        behavior: 'smooth',
+        block: 'start'
+      });
+      history.pushState(null, null, '#' + header.id);
+    });
+    
+    listItem.appendChild(link);
+    tocList.appendChild(listItem);
+  });
+  
+  tocContent.appendChild(tocList);
+});
+</script>
+
+<style>
+.table-of-contents {
+  background: #f8f9fa;
+  border: 1px solid #e9ecef;
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin: 1rem 0 2rem 0;
+  position: sticky;
+  top: 1rem;
+  z-index: 100;
+}
+
+.table-of-contents h3 {
+  margin: 0 0 1rem 0;
+  font-size: 1.1rem;
+  color: #495057;
+}
+
+.toc-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.toc-item {
+  margin: 0.25rem 0;
+  padding-left: 0;
+}
+
+.toc-item.toc-h2 {
+  font-weight: 600;
+  margin-top: 0.75rem;
+}
+
+.toc-item.toc-h3 {
+  padding-left: 1rem;
+  font-weight: 500;
+}
+
+.toc-item.toc-h4 {
+  padding-left: 2rem;
+  font-weight: 400;
+}
+
+.toc-item.toc-h5,
+.toc-item.toc-h6 {
+  padding-left: 3rem;
+  font-weight: 400;
+  font-size: 0.9rem;
+}
+
+.toc-link {
+  color: #007bff;
+  text-decoration: none;
+  display: block;
+  padding: 0.25rem 0;
+  transition: color 0.2s ease;
+}
+
+.toc-link:hover {
+  color: #0056b3;
+  text-decoration: underline;
+}
+
+/* Hide TOC on mobile to save space */
+@media (max-width: 768px) {
+  .table-of-contents {
+    position: static;
+    margin: 0.5rem 0 1rem 0;
+    padding: 1rem;
+  }
+  
+  .table-of-contents h3 {
+    font-size: 1rem;
+  }
+  
+  .toc-item.toc-h3 {
+    padding-left: 0.5rem;
+  }
+  
+  .toc-item.toc-h4 {
+    padding-left: 1rem;
+  }
+  
+  .toc-item.toc-h5,
+  .toc-item.toc-h6 {
+    padding-left: 1.5rem;
+  }
+}
+</style> 
