@@ -6,8 +6,6 @@ permalink: /week-8/
 nav_order: 3
 ---
 
-{% include toc.html %}
-
 # Thunder's Week 8: Full-Time Owner Training
 **Monday, July 14 – Sunday, July 20, 2025**  
 *Building on homecoming weekend foundation with intensive daily training*

@@ -128,133 +128,24 @@ This critical 72-hour period sets the foundation for Thunder's entire life. We'l
 
 ### 📅 Detailed Sunday Schedule
 
-| Time | Activity | Focus |
-|------|----------|-------|
+| Time | Activity | Focus & Details |
+|------|----------|-----------------|
 | 6:00 AM | [Potty](/potty-training/) → [Crate](/crate-training/) | "Potty" cue reliability |
-| 7:30 AM | [Potty](/potty-training/) → Morning training | 5 Core Games integration |
+| 7:30 AM | [Potty](/potty-training/) → Morning training | **[5 Core Games]({{ "/training-games/" | relative_url }}#susan-garretts-5-core-games)** sequence: Training is Fun (10 min), Name Recognition (10 min), This Place (5 min), Break Word (3 min), Four on Floor (2 min) |
 | 8:30 AM | Crate nap | Recovery time |
-| 10:00 AM | **Carrier adventure prep** | Equipment conditioning |
-| 10:30 AM | **First neighborhood walk** | Controlled outdoor exposure |
-| 11:30 AM | Home decompression | Process new experiences |
-| 12:00 PM | Potty → Lunch training | Continued core games |
+| 10:00 AM | **Carrier adventure prep** | [Carrier conditioning games](/training-games/) - show carrier → treat, practice in/out, load essentials |
+| 10:30 AM | **First neighborhood walk** | Controlled outdoor exposure - carrier observation, safe zone put-downs (friend's yard, concrete sidewalk, front steps), treat delivery for new experiences |
+| 11:30 AM | Home decompression | Immediate potty opportunity, quiet settling, process new experiences |
+| 12:00 PM | Potty → Lunch training | Continue core games practice |
 | 1:00 PM | Long crate nap | Rest after adventure |
-| 3:00 PM | Potty → Indoor training | Leash conditioning focus |
-| 4:00 PM | Family time | Gentle handling practice |
+| 3:00 PM | Potty → Indoor training | **[Bowl Game with Leash](/training-games/)** - complete leash conditioning protocol |
+| 4:00 PM | Family time | Gentle handling practice with treats |
 | 5:00 PM | Quiet time | Preparation for evening |
-| 6:00 PM | Potty → Dinner training | All 5 games review |
-| 7:30 PM | **Evening backyard exploration** | Safe surface variety |
+| 6:00 PM | Potty → Dinner training | **[5 Core Games]({{ "/training-games/" | relative_url }}#susan-garretts-5-core-games)** review with higher energy, adventure integration, confidence building |
+| 7:30 PM | **Evening backyard exploration** | Surface introduction (grass, deck, stones), scent exploration, sound conditioning, outdoor potty with "potty" cue |
 | 8:45 PM | Final potty | Minimal interaction |
 | 9:00 PM | Bedtime | White noise, settled routine |
 
----
-
-### 🎲 First Carrier Adventure (10:30-11:30 AM)
-
-**Pre-Adventure Setup (10:00-10:30 AM):**
-- Apply classical conditioning principles from the [Crate Training Guide](/crate-training/) to the carrier as a mini-crate.
-1. **Carrier conditioning games** (5 min):
-   - Show carrier → "Good!" → treat
-   - Put treats inside → Thunder enters → more treats
-   - Practice in/out 3-4 times with rewards
-2. **Load carrier essentials**: High-value treats, small water dish, comfort item
-3. **Your prep**: Treats in pocket, route planned, backup plan ready
-
-**Neighborhood Walk Protocol (10:30-11:00 AM):**
-1. **Start close to home** - just to end of block initially
-2. **Carrier observation**: Thunder watches world from safety
-3. **Safe zone put-downs** (3-5 minutes each):
-   - **Friend's front yard** (known dogs vaccinated)
-   - **Concrete sidewalk area** (center, away from corners)
-   - **Your own front steps/porch**
-4. **Treat delivery**: Person appears → treat, sound occurs → treat
-5. **Back to carrier**: "Crate" cue → Thunder enters → treat
-
-**Safe Zone Selection Criteria:**
-- ✅ **Private property** with permission
-- ✅ **Clean concrete/brick surfaces**
-- ✅ **Low foot traffic** areas
-- ✅ **Easy retreat** to carrier
-- ❌ **Public grass** or dog-frequented areas
-- ❌ **Busy intersections** or loud areas
-
-**Post-Adventure Decompression (11:00-11:30 AM):**
-1. **Home arrival**: Immediate potty opportunity
-2. **Success celebration**: High-value treats for good behavior
-3. **Quiet settling**: Calm voice, gentle praise
-4. **Process time**: Let Thunder decompress in familiar space
-
----
-
-### 🎲 5 Core Training Games Integration
-
-**Morning Session (7:30-8:30 AM):**
-Practice all **[5 Core Games]({{ "/training-games/" | relative_url }}#susan-garretts-5-core-games)** in sequence:
-1. **Training is Fun** (10 min)
-2. **Name Recognition** (10 min) 
-3. **This Place** (5 min)
-4. **Break Word** (3 min)
-5. **Four on Floor** (2 min)
-
-**Afternoon Session (6:00-7:00 PM) - Post-Adventure Review:**
-- **All 5 games** with higher energy and enthusiasm
-- **Adventure integration**: Use new experiences as context for games
-- **Confidence building**: Extra rewards for trying new things
-
-> 📘 **See [Training Games Reference]({{ "/training-games/" | relative_url }})** for detailed protocols and troubleshooting
-
----
-
-### 🔗 Leash Conditioning (Enhanced)
-
-**[Bowl Game with Leash]({{ "/training-games/" | relative_url }}#bowl-game-with-leash)** - complete conditioning protocol
-
-**Success indicators:**
-- Thunder shows interest in leash appearance
-- No pulling away from clip approach
-- Calm behavior when leash attached
-- Maintains play energy after removal
-
-> 📘 **See [Training Games Reference]({{ "/training-games/" | relative_url }})** for step-by-step leash conditioning method
-
----
-
-### 🌅 Evening Backyard Exploration (7:30-8:00 PM)
-
-**If you have a private backyard:**
-1. **Surface introduction**: Grass, deck, patio stones
-2. **Scent exploration**: Natural outdoor smells with supervision
-3. **Sound conditioning**: Neighbor activities, birds, distant traffic
-4. **Potty opportunity**: Outdoor elimination with "potty" cue
-5. **Adventure wrap-up**: Return inside with treats
-
-**Safety protocols:**
-- ✅ **Fully enclosed** yard only
-- ✅ **No access** to neighbor dogs/cats
-- ✅ **Clean area** - no other animal waste
-- ✅ **Supervised** every moment
-
-
----
-
-## 📊 Week 7 Success Metrics
-
-By Sunday evening, Thunder should demonstrate:
-
-### **Core Foundation Established**
-- [ ] **Potty cue conditioning**: 80%+ success with "potty" command
-- [ ] **Name recognition**: Thunder → eye contact → treat chain reliable
-- [ ] **Crate = positive space**: Enters willingly, settles with enrichment
-- [ ] **Equipment conditioning**: Bowl, collar, leash all = good things
-- [ ] **Marker understanding**: "Good!" → treat connection clear
-- [ ] **75/25 feeding split**: Most food earned through training games
-- [ ] **First outdoor adventure**: Carrier walk completed successfully
-
-### **Behavior Foundations**
-- [ ] **2-minute potty success** when taken to designated area  
-- [ ] **7/10 name response** with enthusiasm
-- [ ] **Gentle treat taking** without grabbing
-- [ ] **Ex-pen settling** with appropriate chew items
-- [ ] **3+ hour overnight sleep** stretches
 
 
 ---
