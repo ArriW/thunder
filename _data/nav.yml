@@ -27,6 +27,8 @@ sections:
     items:
       - label: "🗣️ Commands & Markers"
         url: "/command-vocabulary/"
+      - label: "🎲 Training Games"
+        url: "/training-games/"
       - label: "🏠 Crate Training"
         url: "/crate-training/"
       - label: "🚽 Potty Training"

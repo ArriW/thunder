@@ -19,6 +19,7 @@ A concise lookup table of every word Thunder hears in training. Following **Susa
 |------|------|-------------|----------------|
 | **Yes** | Event Marker | The **exact moment** Thunder performs the desired behavior | Mark the instant behavior happens → treat immediately |
 | **Good** | Duration Marker | While Thunder *maintains* the behavior | "Good...Good..." during stays, keeps behavior going |
+| **Okay** | Alternative Marker | Can be used as alternative to "Yes" | Same timing as "Yes" - instant behavior marking |
 | **Break** | Release Word | To end the current behavior & give permission to move | Clear release from any command - prevents frustration |
 
 > 💡 **Key Principle**: Stick to these three words. Susan emphasizes that mixing markers confuses timing and weakens the conditioned response.
@@ -28,12 +29,12 @@ A concise lookup table of every word Thunder hears in training. Following **Susa
 
 | Cue | Behavior | Susan's Training Notes |
 |-----|----------|------------------------|
-| **Thunder** | Name Recognition | Should mean "look at me and await next cue" - never meaningless |
+| **Thunder** | Name Recognition | Should mean "focus on me and await next cue" - never meaningless |
 | **Sit** | Sit until released | Build with "Yes!" marker, maintain with "Good," release with "Break" |
 | **Down** | Lie down until released | Introduce after 17 weeks when confidence is solid |
 | **Touch** | Nose-target handler's hand | Perfect for redirecting attention and building engagement |
 | **Come** | Recall to front position | **Most important cue** - always highest value reward |
-| **Place** | Go to bed/mat & stay | Susan's "This Place Game" - makes location meaningful |
+| **Focus** | Look at handler | Preferred cue for attention/eye contact |
 | **Crate** | Enter crate willingly | Condition as **positive** - crate = good things happen |
 
 ---
@@ -59,6 +60,8 @@ A concise lookup table of every word Thunder hears in training. Following **Susa
 
 ---
 ## 🎲 Susan's 5 Games Integration
+
+See **[Training Games Reference]({{ "/training-games/" | relative_url }})** for complete protocols and methods.
 
 | Game | Associated Cues | Purpose |
 |------|----------------|---------|

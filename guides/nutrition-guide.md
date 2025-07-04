@@ -107,7 +107,7 @@ Beyond daily kibble, use these for **jackpot rewards** and **challenging trainin
 |------|-------------------------|-------------|
 | **Cooked chicken** | 10% | First successful behaviors, recall training |
 | **Cheese cubes** | 5% | Equipment conditioning, grooming desensitization |
-| **Freeze-dried liver** | 5% | "Be a PEZ dispenser" moments |
+| **Freeze-dried liver** | 5% | High-value reward moments |
 | **Training treats** | 10% | Public outings, high-distraction training |
 
 > 💡 **Susan's Tip**: "Save your highest value treats for the behaviors you need most. Don't waste them on easy stuff."
@@ -160,7 +160,7 @@ When changing kibble brands:
 - **Check feeding method** - never free-feed if you want food motivation
 
 ### Thunder Too Food Obsessed?
-- **Slow the rewards** - don't be a constant PEZ dispenser
+- **Slow the rewards** - don't give constant treats
 - **Add impulse control** - "four on floor" before treats
 - **Use puzzle toys** - make him work for bowl portion
 

@@ -48,17 +48,13 @@ while using **classical conditioning** to build positive associations and **high
 **Morning Training Session (7:00-7:45 AM)**
 1. **Potty Protocol** (5 min)
    - "Potty" cue conditioning 
-   - Success = PEZ dispenser treats + praise
+   - Success = multiple treats + praise
 2. **Core Games Rotation** (25 min)
-   - Game 1: Training is Fun (crate targeting)
-   - Game 2: Name Recognition with eye contact
-   - Game 3: Place training (mat work)
-   - Game 4: Break/Release cue
-   - Game 5: Four on Floor (impulse control)
+   - **[5 Core Games]({{ "/training-games/" | relative_url }})** - complete rotation
+   - See Training Games Reference for detailed protocols
 3. **Equipment Conditioning** (15 min)
-   - Collar targeting and wearing
-   - Brush introduction and comfort building
-   - Leash clip conditioning
+   - **[Bowl Game]({{ "/training-games/" | relative_url }})** with collar, brush, and leash
+   - See Training Games Reference for conditioning protocols
 
 **Mid-Morning Break (8:00-10:00 AM)**
 - Crate nap with frozen KONG

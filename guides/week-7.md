@@ -37,12 +37,6 @@ This critical 72-hour period sets the foundation for Thunder's entire life. We'l
 | **Office Ex-Pen** | Work-from-home supervision | Second pen to avoid moving |
 | **Bedroom Crate** | Overnight & naps = **good place** | 24" crate beside bed |
 
-### 🎲 Training Game Supplies
-- **Metal food bowl** (for conditioning games)
-- **Collar & leash** (for positive targeting)
-- **High-value treats** (cooked chicken, cheese)
-- **Clicker or verbal "Yes"** marker
-- **Daily kibble portions** pre-measured
 
 ---
 
@@ -58,7 +52,7 @@ This critical 72-hour period sets the foundation for Thunder's entire life. We'l
 1. **Direct to potty pen** – no greetings, no detours
 2. Wait up to 5 minutes for elimination
 3. **When successful**: Begin conditioning with "potty, potty, potty" while he's going + high-value treat
-4. **Be a PEZ Dispenser**: 5-6 treats rapid-fire for this first success
+4. **Give lots of treats**: 5-6 treats rapid-fire for this first success
 5. **First crate nap** with frozen KONG
 
 ### 🔄 Puppy Cycle (Every 60-90 minutes)
@@ -72,10 +66,7 @@ This critical 72-hour period sets the foundation for Thunder's entire life. We'l
 
 ### Equipment Conditioning - Day 1
 
-**Bowl Game:**
-1. Put treat in bowl → Thunder eats → "Yes!" → second treat
-2. Put empty bowl down → Thunder investigates → "Yes!" → drop treat in bowl
-3. Repeat 5-6 times during each meal
+**[Bowl Game]({{ "/training-games/" | relative_url }})** with food bowl introduction (see full protocol in Training Games Reference)
 
 **Key Times:**
 - **2:00 PM**: Lunch (75% through training games, 25% in bowl)
@@ -87,9 +78,9 @@ This critical 72-hour period sets the foundation for Thunder's entire life. We'l
 
 | Time | Activity | Notes |
 |------|----------|-------|
-| 12:00 AM | Night potty | Silent, use "potty" cue, no PEZ dispenser |
-| 2:00 AM | Night potty | Silent, use "potty" cue, no PEZ dispenser |
-| 4:00 AM | Night potty | Silent, use "potty" cue, no PEZ dispenser |
+| 12:00 AM | Night potty | Silent, use "potty" cue, single treat only |
+| 2:00 AM | Night potty | Silent, use "potty" cue, single treat only |
+| 4:00 AM | Night potty | Silent, use "potty" cue, single treat only |
 
 ---
 
@@ -100,17 +91,17 @@ This critical 72-hour period sets the foundation for Thunder's entire life. We'l
 | Time | Activity | Focus |
 |------|----------|-------|
 | 6:00 AM | Potty → Back to crate | "Potty" cue conditioning |
-| 7:30 AM | Potty → Breakfast training | **Game 1: Training is Fun** (throw treats in crate) |
-| 8:00 AM | Supervised play | **Game 2: Name Game** (Thunder + cookie toss) |
+| 7:30 AM | Potty → Breakfast training | **[Game 1: Training is Fun]({{ "/training-games/" | relative_url }})** |
+| 8:00 AM | Supervised play | **[Game 2: Name Recognition]({{ "/training-games/" | relative_url }})** |
 | 8:30 AM | Crate nap | Positive crate = good things happen |
 | 10:00 AM | Potty → Training | Focus + marker practice |
-| 10:30 AM | Kitchen time with family | **Game 3: This Place Game** (bed/mat targeting) |
-| 11:00 AM | Potty → Crate | Bowl + collar conditioning |
-| 12:00 PM | Potty → Lunch training | **Game 4: Break/Release** word introduction |
+| 10:30 AM | Kitchen time with family | **[Game 3: This Place]({{ "/training-games/" | relative_url }})** |
+| 11:00 AM | Potty → Crate | **[Bowl Game]({{ "/training-games/" | relative_url }})** with collar |
+| 12:00 PM | Potty → Lunch training | **[Game 4: Break/Release]({{ "/training-games/" | relative_url }})** |
 | 12:30 PM | Backyard exploration | New surfaces, treat scatter |
 | 1:00 PM | Long crate nap | Frozen KONG = crate is awesome |
-| 2:30 PM | Potty → Play | **Game 5: Four on Floor** (wait for rewards) |
-| 3:00 PM | Equipment conditioning | Collar in bowl → collar alone → collar on neck |
+| 2:30 PM | Potty → Play | **[Game 5: Four on Floor]({{ "/training-games/" | relative_url }})** |
+| 3:00 PM | Equipment conditioning | **[Bowl Game]({{ "/training-games/" | relative_url }})** with collar |
 | 3:30 PM | Family time | Gentle handling with treat rewards |
 | 4:00 PM | Quiet crate time | |
 | 5:30 PM | Final potty → Bed prep | |
@@ -120,12 +111,7 @@ This critical 72-hour period sets the foundation for Thunder's entire life. We'l
 
 ### Equipment Conditioning - Day 2
 
-**Collar Game:**
-1. Put collar in bowl with treats
-2. Thunder puts nose in → "Yes!" → treat goes in collar
-3. Remove collar from bowl, put on ground
-4. Thunder targets collar → "Yes!" → treat
-5. Hold collar up → Thunder puts nose through → "Yes!" → jackpot
+**[Bowl Game with Collar]({{ "/training-games/" | relative_url }})** - full conditioning protocol (see Training Games Reference for step-by-step method)
 
 **Night Schedule:** Same as Day 1
 
@@ -208,33 +194,33 @@ This critical 72-hour period sets the foundation for Thunder's entire life. We'l
 ### 🎲 5 Core Training Games Integration
 
 **Morning Session (7:30-8:30 AM):**
-1. **Game 1 - Training is Fun** (10 min): High-rate treat delivery, throw cookies in crate
-2. **Game 2 - Name Recognition** (10 min): "Thunder" → eye contact → cookie toss → return
-3. **Game 3 - This Place** (5 min): Mat/bed targeting with "Good...Good..." duration
-4. **Game 4 - Break Word** (3 min): "Break" → "cookie" → permission to move
-5. **Game 5 - Four on Floor** (2 min): Wait for rewards, impulse control
+Practice all **[5 Core Games]({{ "/training-games/" | relative_url }})** in sequence:
+1. **Training is Fun** (10 min)
+2. **Name Recognition** (10 min) 
+3. **This Place** (5 min)
+4. **Break Word** (3 min)
+5. **Four on Floor** (2 min)
 
 **Afternoon Session (6:00-7:00 PM) - Post-Adventure Review:**
 - **All 5 games** with higher energy and enthusiasm
 - **Adventure integration**: Use new experiences as context for games
 - **Confidence building**: Extra rewards for trying new things
 
+> 📘 **See [Training Games Reference]({{ "/training-games/" | relative_url }})** for detailed protocols and troubleshooting
+
 ---
 
 ### 🔗 Leash Conditioning (Enhanced)
 
-**Building on previous conditioning:**
-1. **Leash visual conditioning**: Show leash → "Yes!" → treat
-2. **Leash targeting**: Put leash on ground → Thunder touches → treat
-3. **Clip approach**: Move clip toward collar → "Yes!" → treat
-4. **Brief attachment**: Clip on → treat → **immediately remove** → play continues
-5. **Repeat 5-7 times** - leash attachment ≠ terminal ending
+**[Bowl Game with Leash]({{ "/training-games/" | relative_url }})** - complete conditioning protocol
 
 **Success indicators:**
 - Thunder shows interest in leash appearance
 - No pulling away from clip approach
 - Calm behavior when leash attached
 - Maintains play energy after removal
+
+> 📘 **See [Training Games Reference]({{ "/training-games/" | relative_url }})** for step-by-step leash conditioning method
 
 ---
 

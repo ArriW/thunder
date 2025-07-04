@@ -47,9 +47,9 @@ Following **Susan Garrett's classical conditioning philosophy**, a well-introduc
 ---
 ## 🚀 Enhanced 5-Stage Introduction (Steve Mann + Susan Garrett)
 
-### Stage 1: **Open-Door Buffet (Susan's "PEZ Dispenser" Method)**
+### Stage 1: **Open-Door Buffet (Rapid Treat Method)**
 - Scatter 10-15 treats just inside the doorway
-- **Be a PEZ dispenser**: rapid-fire treats when Thunder investigates
+- **Give lots of treats**: rapid-fire treats when Thunder investigates
 - Let puppy **choose** to walk in/out
 - **Say "Yes!" and give bonus treat** each time he enters
 - **No door closing** yet - just building positive associations

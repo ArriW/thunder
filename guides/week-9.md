@@ -31,22 +31,22 @@ nav_order: 4
 **Nanny Instructions** - Focus on repetition and positive associations:
 
 #### **Morning Routine (8:45-10:00am)**
-1. **Potty Success** → "Yes!" → PEZ dispenser (3-4 treats)
-2. **Susan's Game 1 - Training is Fun**: Throw 10 treats in crate, Thunder retrieves
-3. **Susan's Game 2 - Name Recognition**: "Thunder!" → eye contact → treat → repeat 5x
-4. **Equipment Conditioning**: Show collar → "Yes!" → treat (5 repetitions)
+1. **Potty Success** → "Yes!" → Multiple treats (3-4 treats)
+2. **[Training is Fun]({{ "/training-games/" | relative_url }})**: Throw treats in crate
+3. **[Name Recognition]({{ "/training-games/" | relative_url }})**: "Thunder!" → eye contact → treat
+4. **Equipment Conditioning**: **[Bowl Game]({{ "/training-games/" | relative_url }})** with collar
 5. **Crate time** with frozen KONG (25% bowl portion)
 
 #### **Midday Check (12:00-1:00pm)**
 1. **Potty Success** → Classical conditioning with "potty" cue
-2. **Susan's Game 3 - Place**: Point to mat → Thunder goes → "Good...Good..." → "Break!"
-3. **Brush Conditioning**: Show brush → "Yes!" → treat → 1 brush stroke → treat
+2. **[This Place Game]({{ "/training-games/" | relative_url }})**: Mat targeting with duration
+3. **Brush Conditioning**: **[Bowl Game]({{ "/training-games/" | relative_url }})** with brush
 4. **Lunch training** (part of 75% portion): Basic sit/touch games
 5. **Supervised pen time** with appropriate chew
 
 #### **Afternoon Session (3:30-5:00pm)**
 1. **Potty Success** → High-value treat reward
-2. **Susan's Game 5 - Four on Floor**: Hold treats → Thunder sits → reward
+2. **[Four on Floor Game]({{ "/training-games/" | relative_url }})**: Impulse control training
 3. **Sound Desensitization**: Play doorbell sound → treat scatter during sound
 4. **Crate Game**: "Crate" cue → Thunder enters → "Yes!" → treat toss
 5. **Evening crate** preparation with chew toy
@@ -169,9 +169,10 @@ Following AVSAB and Puppy Culture guidelines for Thunder's critical socializatio
 ## 🎲 Susan's Advanced Games - Week 9
 
 ### **Equipment Conditioning Progression:**
-1. **Brush**: Show → touch body → 1 stroke → 3 strokes → 5 strokes
-2. **Nail clippers**: Show → "Yes!" → treat (visual conditioning only)
-3. **Car**: Approach → sit in → engine sounds → short drives
+See **[Training Games Reference]({{ "/training-games/" | relative_url }})** for detailed protocols:
+1. **Brush**: **[Bowl Game with Brush]({{ "/training-games/" | relative_url }})** progression
+2. **Nail clippers**: **[Bowl Game]({{ "/training-games/" | relative_url }})** with clippers (visual conditioning)
+3. **Car**: **[Bowl Game]({{ "/training-games/" | relative_url }})** with car approach
 4. **Carrier**: Enhanced duration - 10min → 15min → 20min
 
 ### **Travel Preparation Foundation:**
