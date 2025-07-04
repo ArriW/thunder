@@ -18,8 +18,16 @@ while using **classical conditioning** to build positive associations and **high
 **Your Schedule:**
 - **Monday-Tuesday:** Full availability for intensive training
 - **Wednesday-Thursday:** Work from home with training integration
-- **Friday:** First day with nanny (reference Week 9 guide)
+- **Friday:** First day with nanny (reference [Week 9]({{ "/week-9/" | relative_url }}))
 - **Weekend:** Advanced training and socialization
+
+## Timeline Overview
+| Day                 | Focus                                |
+|---------------------|--------------------------------------|
+| Monday-Tuesday      | Intensive Foundation Days            |
+| Wednesday-Thursday  | Work From Home Integration           |
+| Friday              | Nanny Introduction Day               |
+| Weekend             | Advanced Training & Socialization    |
 
 > 📘 **Need crate-training specifics?** See the [Crate Training Guide]({{ "/crate-training/" | relative_url }}) for detailed protocols
 > 🚽 **Potty training details** are in the [Potty Training Guide]({{ "/potty-training/" | relative_url }})
@@ -40,54 +48,17 @@ while using **classical conditioning** to build positive associations and **high
 
 ### Daily Schedule (Full Availability)
 
-**6:00 AM - Morning Routine**
-- Potty success → high-value jackpot
-- Back to crate → 30 minutes while you prep
-- Breakfast training session (45 minutes total)
-
-**Morning Training Session (7:00-7:45 AM)**
-1. **Potty Protocol** (5 min)
-   - "Potty" cue conditioning 
-   - Success = multiple treats + praise
-2. **Core Games Rotation** (25 min)
-   - **[5 Core Games]({{ "/training-games/" | relative_url }})** - complete rotation
-   - See Training Games Reference for detailed protocols
-3. **Equipment Conditioning** (15 min)
-   - **[Bowl Game]({{ "/training-games/" | relative_url }})** with collar, brush, and leash
-   - See Training Games Reference for conditioning protocols
-
-**Mid-Morning Break (8:00-10:00 AM)**
-- Crate nap with frozen KONG
-- Thunder rests, you prep for day
-
-**10:00 AM - Second Training Session**
-- Potty success → treats
-- Advanced equipment work (20 minutes)
-- Free time in kitchen ex-pen (30 minutes)
-- Potty → crate nap
-
-**12:00 PM - Lunch Training**
-- Potty success → jackpot
-- Lunch portion through training games
-- Focus on problem prevention protocols
-- Extended crate time (2 hours)
-
-**3:00 PM - Afternoon Session**
-- Potty success → treats
-- Socialization prep work indoors
-- Visitor protocol practice
-- Terminal association prevention
-
-**6:00 PM - Evening Training**
-- Potty success → celebration
-- Dinner training session
-- Advanced game combinations
-- Grooming conditioning (brushing)
-
-**8:30 PM - Wind Down**
-- Final potty with "potty" cue
-- Calm settling in crate
-- White noise, lights out
+#### Full Availability Schedule
+| Time                             | Activity |
+|----------------------------------|----------|
+| 6:00 AM – Morning Routine        | Potty success → high-value jackpot<br>Back to crate → 30 minutes while you prep<br>Breakfast training session (45 minutes total) |
+| 7:00 – 7:45 AM – Morning Training Session | Potty Protocol (5 min)<br>Core Games Rotation (25 min)<br>Equipment Conditioning (15 min) |
+| 8:00 – 10:00 AM – Mid-Morning Break | Crate nap with frozen KONG<br>Thunder rests, you prep for day |
+| 10:00 AM – Second Training Session | Potty success → treats<br>Advanced equipment work (20 minutes)<br>Free time in kitchen ex-pen (30 minutes)<br>Potty → crate nap |
+| 12:00 PM – Lunch Training         | Potty success → jackpot<br>Lunch portion through training games<br>Focus on problem prevention protocols<br>Extended crate time (2 hours) |
+| 3:00 PM – Afternoon Session      | Potty success → treats<br>Socialization prep work indoors<br>Visitor protocol practice<br>Terminal association prevention |
+| 6:00 PM – Evening Training       | Potty success → celebration<br>Dinner training session<br>Advanced game combinations<br>Grooming conditioning (brushing) |
+| 8:30 PM – Wind Down              | Final potty with "potty" cue<br>Calm settling in crate<br>White noise, lights out |
 
 ### Specific Training Goals (Mon-Tue)
 
@@ -109,25 +80,16 @@ while using **classical conditioning** to build positive associations and **high
 
 ### Modified Schedule (WFH Days)
 
-**6:00 AM - Standard Morning Routine**
-- Same as Mon-Tue schedule
-- Extended breakfast training to tire Thunder before work
-
-**8:00 AM - Work Setup**
-- Thunder in office ex-pen with puzzle toy
-- Frozen KONG for first hour of work
-- Brief potty breaks every 90 minutes
-
-**Work Day Training Breaks:**
-- **10:00 AM**: Potty + 10-minute training session
-- **12:00 PM**: Lunch training + extended play
-- **2:30 PM**: Potty + equipment conditioning
-- **4:00 PM**: Socialization games + grooming practice
-
-**5:00 PM - Work Day Wind Down**
-- Extended training session to release energy
-- Advanced game combinations
-- Prepare for next day's challenges
+#### WFH Days Schedule
+| Time     | Activity |
+|----------|----------|
+| 6:00 AM  | Standard Morning Routine:<br>Same as Mon-Tue schedule<br>Extended breakfast training to tire Thunder before work |
+| 8:00 AM  | Work Setup:<br>Thunder in office ex-pen with puzzle toy<br>Frozen KONG for first hour of work<br>Brief potty breaks every 90 minutes |
+| 10:00 AM | Potty + 10-minute training session |
+| 12:00 PM | Lunch training + extended play |
+| 2:30 PM  | Potty + equipment conditioning |
+| 4:00 PM  | Socialization games + grooming practice |
+| 5:00 PM  | Work Day Wind Down:<br>Extended training session to release energy<br>Advanced game combinations<br>Prepare for next day's challenges |
 
 ### Work From Home Success Tips:
 1. **Pre-load entertainment**: Multiple frozen KONGs, puzzle toys
