@@ -130,35 +130,13 @@ while using **classical conditioning** to build positive associations and **high
 
 ---
 
-## 🎯 Advanced Training Games - Week 8
+> 🎲 **For equipment conditioning progressions and problem prevention protocols, see the [Training Games Reference]({{ "/training-games/" | relative_url }}).**
 
-### **Equipment Conditioning Progression:**
-1. **Visual conditioning**: Show item → "Yes!" → treat
-2. **Contact conditioning**: Item touches body → "Yes!" → treat  
-3. **Brief use**: 1-2 seconds → "Yes!" → treat
-4. **Duration building**: Gradually increase to 30+ seconds
-5. **Positive association**: Item = good things happen
-
-### **Problem Prevention Protocols:**
-
-**Attention-Seeking Prevention:**
-- Never respond to whining, barking, or pawing
-- Only reward calm, quiet behavior
-- Teach "quiet" cue: barking stops → "quiet" → "Yes!" → treat
-
-**Terminal Association Prevention:**
-- Rehearse all endings multiple times
-- Leash on → treat → leash off → play continues
-- Visitor arrives → treats → visitor stays → more treats
-- Equipment → treats → equipment removed → still more treats
-
-**Bite Inhibition Training:**
-- Collar grab game with treats
-- Gentle restraint conditioning
-- Redirect to appropriate chews immediately
-- "Consent to console" practice
-
----
+🎯 **This Week's Training Game Tasks:**  
+- [Equipment Conditioning Progression]({{ "/training-games/" | relative_url }}#equipment-conditioning-progression)  
+- [Attention-Seeking Prevention]({{ "/training-games/" | relative_url }}#attention-seeking-prevention)  
+- [Terminal Association Prevention]({{ "/training-games/" | relative_url }}#terminal-association-prevention)  
+- [Bite Inhibition Training]({{ "/training-games/" | relative_url }}#bite-inhibition-training)  
 
 ## 📊 Week 8 Success Metrics
 

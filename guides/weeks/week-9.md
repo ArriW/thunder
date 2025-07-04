@@ -28,7 +28,7 @@ nav_order: 4
 
 ### 🏠 **Nanny Days (M/W/Th/F) - Simple & Consistent**
 
-**Nanny Instructions** - Focus on repetition and positive associations:
+- **Nanny Instructions** - Focus on repetition and positive associations:
 
 #### **Morning Routine (8:45-10:00am)**
 1. **Potty Success** → "Yes!" → Multiple treats (3-4 treats)
@@ -51,6 +51,13 @@ nav_order: 4
 4. **Crate Game**: "Crate" cue → Thunder enters → "Yes!" → treat toss
 5. **Evening crate** preparation with chew toy
 
+#### Nanny Days Schedule
+| Time                             | Activity                                                                                                                   |
+|----------------------------------|----------------------------------------------------------------------------------------------------------------------------|
+| 8:45–10:00 AM – Morning Routine  | Potty success → "Yes!" → multiple treats (3-4)<br>[Training is Fun] → toss treats into crate<br>[Name Recognition] → "Thunder!" + eye contact → treat<br>Equipment Conditioning: [Bowl Game with collar] → treats<br>Crate time with frozen KONG (25% bowl portion) |
+| 12:00–1:00 PM – Midday Check     | Potty success → treat (potty cue conditioning)<br>[This Place Game] → mat targeting + duration<br>Brush Conditioning: [Bowl Game with brush]<br>Lunch training: sit/touch games<br>Supervised pen time with chew |
+| 3:30–5:00 PM – Afternoon Session| Potty success → high-value treat<br>[Four on Floor Game] → impulse control<br>Sound Desensitization: doorbell → treat scatter<br>Crate Game: "Crate" cue → treat toss<br>Evening crate prep with chew toy |
+
 **Nanny Success Metrics:**
 - Thunder responds to name 95%+ of time
 - Enters crate on first "crate" cue
@@ -61,10 +68,10 @@ nav_order: 4
 
 ### 🎓 **Tuesday - Puppy Class Night**
 
-**Pre-Class Prep (4:00pm):**
-- Light meal (not from training portion)
-- **Carrier conditioning**: In carrier → treats → out → play continues
-- **Travel to class**: Practice Susan's terminal prevention - arrival ≠ fun ends
+- **Pre-Class Prep (4:00pm):**
+- - Light meal (not from training portion)
+- - **Carrier conditioning**: In carrier → treats → out → play continues
+- - **Travel to class**: Practice Susan's terminal prevention - arrival ≠ fun ends
 
 **Class Goals (5:00pm):**
 - **Apply Susan's marker system** with class distractions
@@ -76,6 +83,13 @@ nav_order: 4
 - **Immediate decompression**: Quiet car ride with calming music
 - **Home arrival protocol**: Potty → treats → calm settling
 - **Jackpot reward** for good class behavior
+
+#### Puppy Class Night Schedule
+| Time                    | Activity                                                                                                                             |
+|-------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| 4:00 PM – Pre-Class Prep| Light meal (non-training portion)<br>Carrier conditioning → treats + play<br>Travel to class: terminal prevention drills                  |
+| 5:00 PM – Class Goals   | Apply marker system in class distractions<br>Practice "Thunder" cue in group<br>Socialization: new people → treats<br>Carrier calmness |
+| 6:30 PM – Post-Class    | Immediate decompression: quiet car ride with calming music<br>Home arrival: potty → treats → calm settling<br>Jackpot reward          |
 
 ---
 
@@ -117,6 +131,15 @@ nav_order: 4
 3. **Advanced surface confidence**: Use market confidence on grass/deck
 4. **Terminal association prevention**: Guest leaves → more treats + play continues
 
+#### Saturday Schedule
+| Time                                  | Activity                                                                                          |
+|---------------------------------------|---------------------------------------------------------------------------------------------------|
+| 8:00 AM – Backyard Confidence Building| Private surface mastery (grass, deck, stones) + treats<br>Controlled visitor protocol<br>Dog introduction prep<br>Sound conditioning (lawnmowers, kids, birds) + treats<br>Outdoor potty: "Potty" cue + jackpot                                                                                         |
+| 9:30 AM – Farmers Market Arrival      | Carrier observation from distance<br>Demographic diversity exposure + treats<br>Market sound conditioning + treats<br>"Settle" in carrier: 10+ min calm observation                         |
+| 10:30 AM – Market Perimeter Walk      | People exposure protocol (15+ in 30 min)<br>Sound desensitization: live music, carts + treats<br>Surface variety: concrete, brick, rubber mats                                 |
+| 11:30 AM – Controlled Market Integration| Vendor interactions → treats<br>"Focus" cue development amid distractions<br>Dog sightings → treat pairing<br>"Look at that" game: notice dog → treat                        |
+| 1:00 PM – Backyard Recovery & Integration| Home decompression: quiet backyard time<br>Friends visit protocol: treat party<br>Advanced surface confidence<br>Terminal prevention: guest leaves → treats + play  |
+
 #### **Sunday - Mission District Adventure**
 **Focus: Advanced Socialization & Handling Prep**
 
@@ -135,6 +158,13 @@ nav_order: 4
 **Evening:**
 - **Grooming session**: 5-10 brush strokes with treats each stroke
 - **Nail board introduction**: Scratching surface with rewards
+
+#### Sunday Schedule
+| Time                                    | Activity                                                                                          |
+|-----------------------------------------|---------------------------------------------------------------------------------------------------|
+| 10:00 AM – Valencia Street Exposure      | Sidewalk café sitting in carrier → observe + treat<br>Diverse people conditioning → treat<br>Skateboard/bike desensitization → treat<br>"Focus" cue conditioning amid distractions |
+| 12:00 PM – Friend's House Visit          | Explore new environment → treat → settle<br>Consent to console practice: gentle restraint + treats<br>Collar grab game: hold collar → "Yes!" → treat → release<br>Surface exploration with positive associations |
+| Evening                                 | Grooming session: 5-10 brush strokes + treats each stroke<br>Nail board introduction: scratching surface → rewards                             |
 
 ---
 
@@ -168,18 +198,12 @@ Following AVSAB and Puppy Culture guidelines for Thunder's critical socializatio
 
 ## 🎲 Susan's Advanced Games - Week 9
 
-### **Equipment Conditioning Progression:**
-See **[Training Games Reference]({{ "/training-games/" | relative_url }})** for detailed protocols:
-1. **Brush**: **[Bowl Game with Brush]({{ "/training-games/" | relative_url }})** progression
-2. **Nail clippers**: **[Bowl Game]({{ "/training-games/" | relative_url }})** with clippers (visual conditioning)
-3. **Car**: **[Bowl Game]({{ "/training-games/" | relative_url }})** with car approach
-4. **Carrier**: Enhanced duration - 10min → 15min → 20min
-
-### **Travel Preparation Foundation:**
-1. **Motion conditioning**: Carrier on lap with gentle rocking
-2. **Sound library**: Play airplane sounds during meal times
-3. **Handling prep**: Touch paws, ears, mouth with treats
-4. **"Settle" cue**: In carrier → calm behavior → continuous treats
+> 🎲 **For detailed protocols on equipment conditioning, carrier familiarization, noise desensitization, and barking suppression, see the reference guides:**  
+>- [Training Games Reference]({{ "/training-games/" | relative_url }})  
+>- [Carrier Familiarization & Simulated Travel Routines]({{ "/carrier-familiarization/" | relative_url }})  
+>- [Noise Desensitization]({{ "/noise-desensitization/" | relative_url }})  
+>- [Barking Suppression Guide]({{ "/barking-suppression/" | relative_url }})  
+>- [Command Vocabulary & Marker Cues]({{ "/command-vocabulary/" | relative_url }})
 
 ---
 
