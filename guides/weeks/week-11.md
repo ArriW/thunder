@@ -18,6 +18,8 @@ Final puppy class graduation while developing extended independence skills and c
 
 ### **Monday – Nanny Day**
 
+<!-- Table: Monday Schedule -->
+
 | Time | Activity | Focus/Notes |
 |------|----------|-------------|
 | 8:45 AM | Morning potty + breakfast training | Independence building – 5 min alone |
@@ -35,6 +37,9 @@ Final puppy class graduation while developing extended independence skills and c
 | 5:00 PM | Evening settling | Calm music routine |
 
 ### **Tuesday – Nanny Day + Puppy Class #4 (Final Class)**
+
+<!-- Table: Tuesday Schedule -->
+
 | Time | Activity | Focus/Notes |
 |------|----------|-------------|
 | 8:45 AM | Morning routine | Independence building – 10 min alone |
@@ -54,6 +59,9 @@ Final puppy class graduation while developing extended independence skills and c
 | 8:00 PM | Evening routine | Celebration dinner |
 
 ### **Wednesday – Nanny Day**
+
+<!-- Table: Wednesday Schedule -->
+
 | Time | Activity | Focus/Notes |
 |------|----------|-------------|
 | 8:45 AM | Morning routine | Advanced independence – 15 min alone |
@@ -71,6 +79,9 @@ Final puppy class graduation while developing extended independence skills and c
 | 5:00 PM | Evening assessment | Mid-week progress review |
 
 ### **Thursday – Nanny Day**
+
+<!-- Table: Thursday Schedule -->
+
 | Time | Activity | Focus/Notes |
 |------|----------|-------------|
 | 8:45 AM | Morning excellence | Advanced cue reliability |
@@ -88,6 +99,9 @@ Final puppy class graduation while developing extended independence skills and c
 | 5:00 PM | Evening routine | Success consolidation |
 
 ### **Friday – Nanny Day (Assessment)**
+
+<!-- Table: Friday Schedule -->
+
 | Time | Activity | Focus/Notes |
 |------|----------|-------------|
 | 8:45 AM | Morning assessment | All skills demonstration |
@@ -102,6 +116,9 @@ Final puppy class graduation while developing extended independence skills and c
 | 5:00 PM | Week 11 completion | Preparation for next phase |
 
 ### **Saturday – Multi-Stop Urban Journey**
+
+<!-- Table: Saturday Schedule -->
+
 | Time | Activity | Focus/Notes |
 |------|----------|-------------|
 | 9:00 AM | Morning prep | Standard routine |
@@ -115,6 +132,9 @@ Final puppy class graduation while developing extended independence skills and c
 | 7:00 PM | Evening assessment | Day's achievements review |
 
 ### **Sunday – Flight Readiness Final Test**
+
+<!-- Table: Sunday Schedule -->
+
 | Time | Activity | Focus/Notes |
 |------|----------|-------------|
 | 8:00 AM | Morning routine | Limited water protocol |
@@ -149,6 +169,9 @@ Final puppy class graduation while developing extended independence skills and c
 ---
 
 ## 🌙 Week 11 Nighttime Schedule
+
+<!-- Table: Nighttime Schedule -->
+
 | Time      | Activity                | Notes                                 |
 |-----------|-------------------------|---------------------------------------|
 | 9:00 PM   | Bedtime in crate        | Thunder settles for the night         |

@@ -18,6 +18,8 @@ Developing complex command sequences and problem-solving skills while extending 
 
 ### **Monday – Nanny Day**
 
+<!-- Table: Monday Schedule -->
+
 | Time | Activity | Focus/Notes |
 |------|----------|-------------|
 | 8:45 AM | Morning routine | Extended independence – 25 min alone |
@@ -35,6 +37,9 @@ Developing complex command sequences and problem-solving skills while extending 
 | 5:00 PM | Evening routine | Advanced settling skills |
 
 ### **Tuesday – Advanced Training Day**
+
+<!-- Table: Tuesday Schedule -->
+
 | Time | Activity | Focus/Notes |
 |------|----------|-------------|
 | 8:00 AM | Morning prep | Potty + structured breakfast |
@@ -53,6 +58,9 @@ Developing complex command sequences and problem-solving skills while extending 
 | 5:00 PM | Evening assessment | Day's progress review |
 
 ### **Wednesday – Nanny Day**
+
+<!-- Table: Wednesday Schedule -->
+
 | Time | Activity | Focus/Notes |
 |------|----------|-------------|
 | 8:45 AM | Morning mastery | 30-min independence success |
@@ -70,6 +78,9 @@ Developing complex command sequences and problem-solving skills while extending 
 | 5:00 PM | Evening routine | Calm confidence settling |
 
 ### **Thursday – Nanny Day**
+
+<!-- Table: Thursday Schedule -->
+
 | Time | Activity | Focus/Notes |
 |------|----------|-------------|
 | 8:45 AM | Morning excellence | Advanced morning routine |
@@ -87,6 +98,9 @@ Developing complex command sequences and problem-solving skills while extending 
 | 5:00 PM | Week wrap-up | Progress celebration |
 
 ### **Friday – Nanny Day**
+
+<!-- Table: Friday Schedule -->
+
 | Time | Activity | Focus/Notes |
 |------|----------|-------------|
 | 8:45 AM | Morning assessment | All skills demonstration |
@@ -104,6 +118,9 @@ Developing complex command sequences and problem-solving skills while extending 
 | 5:00 PM | Next week prep | Week 14 planning |
 
 ### **Saturday – Advanced Urban Confidence**
+
+<!-- Table: Saturday Schedule -->
+
 | Time | Activity | Focus/Notes |
 |------|----------|-------------|
 | 9:00 AM | Morning prep | Standard routine |
@@ -117,6 +134,9 @@ Developing complex command sequences and problem-solving skills while extending 
 | 5:00 PM | Evening assessment | Day's achievements review |
 
 ### **Sunday – Skills Integration**
+
+<!-- Table: Sunday Schedule -->
+
 | Time | Activity | Focus/Notes |
 |------|----------|-------------|
 | 8:00 AM | Morning routine | Standard excellence |
@@ -153,6 +173,9 @@ Developing complex command sequences and problem-solving skills while extending 
 ---
 
 ## 🌙 Week 13 Nighttime Schedule
+
+<!-- Table: Nighttime Schedule -->
+
 | Time      | Activity                | Notes                                 |
 |-----------|-------------------------|---------------------------------------|
 | 9:00 PM   | Bedtime in crate        | Thunder settles for the night         |

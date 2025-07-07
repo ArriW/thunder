@@ -18,6 +18,8 @@ Intensive foundation building with full-time owner training, first puppy class, 
 
 ### **Monday – Foundation Building Day**
 
+<!-- Table: Monday Schedule -->
+
 | Time | Activity | Focus/Notes |
 |------|----------|-------------|
 | 6:00 AM | Morning Routine | Potty success → high-value jackpot; crate while you prep; breakfast training session |

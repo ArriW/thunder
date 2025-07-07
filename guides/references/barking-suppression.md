@@ -5,6 +5,8 @@
 
 ## Universal Response Protocol
 
+<!-- Table: Universal Response Protocol -->
+
 | Step | Action |
 |------|--------|
 | Freeze | Do not talk, touch, or look at your dog. Remove attention entirely. |
@@ -16,6 +18,9 @@
 ---
 
 ## Daily Anti-Barking Habits
+
+<!-- Table: Daily Anti-Barking Habits -->
+
 | Behavior | Description |
 |----------|-------------|
 | Sound desensitization | Play doorbells, knocks, dogs barking, etc. at low volume during meals/treats. |
@@ -29,6 +34,9 @@
 ---
 
 ## Trigger-Specific Protocols
+
+<!-- Table: Trigger-Specific Protocols -->
+
 | Trigger | Proactive Behavior |
 |---------|-------------------|
 | Door knock | Teach "place" cue before knocking sound. Practice daily with paired treats. |

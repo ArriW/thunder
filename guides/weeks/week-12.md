@@ -18,6 +18,8 @@ Consolidating all skills from puppy class graduation with reduced supervision an
 
 ### **Monday – Nanny Day**
 
+<!-- Table: Monday Schedule -->
+
 | Time | Activity | Focus/Notes |
 |------|----------|-------------|
 | 8:45 AM | Morning routine | Advanced independence – 20 min alone |
@@ -35,6 +37,9 @@ Consolidating all skills from puppy class graduation with reduced supervision an
 | 5:00 PM | Evening routine | Carrier choice mastery |
 
 ### **Tuesday – Nanny Day**
+
+<!-- Table: Tuesday Schedule -->
+
 | Time | Activity | Focus/Notes |
 |------|----------|-------------|
 | 8:45 AM | Morning routine | Advanced independence – 20 min alone |
@@ -52,6 +57,9 @@ Consolidating all skills from puppy class graduation with reduced supervision an
 | 5:00 PM | Evening routine | Carrier choice mastery |
 
 ### **Wednesday – Nanny Day**
+
+<!-- Table: Wednesday Schedule -->
+
 | Time | Activity | Focus/Notes |
 |------|----------|-------------|
 | 8:45 AM | Morning mastery | 25-min independence success |
@@ -69,6 +77,9 @@ Consolidating all skills from puppy class graduation with reduced supervision an
 | 5:00 PM | Evening assessment | Mid-week progress review |
 
 ### **Thursday – Nanny Day**
+
+<!-- Table: Thursday Schedule -->
+
 | Time | Activity | Focus/Notes |
 |------|----------|-------------|
 | 8:45 AM | Morning excellence | Advanced cue reliability |
@@ -86,6 +97,9 @@ Consolidating all skills from puppy class graduation with reduced supervision an
 | 5:00 PM | Evening routine | Success consolidation |
 
 ### **Friday – Nanny Day (Assessment)**
+
+<!-- Table: Friday Schedule -->
+
 | Time | Activity | Focus/Notes |
 |------|----------|-------------|
 | 8:45 AM | Morning assessment | All skills demonstration |
@@ -100,6 +114,9 @@ Consolidating all skills from puppy class graduation with reduced supervision an
 | 5:00 PM | Week 12 completion | Preparation for next phase |
 
 ### **Saturday – Extended Independence Testing**
+
+<!-- Table: Saturday Schedule -->
+
 | Time | Activity | Focus/Notes |
 |------|----------|-------------|
 | 9:00 AM | Morning prep | Standard routine |
@@ -113,6 +130,9 @@ Consolidating all skills from puppy class graduation with reduced supervision an
 | 8:00 PM | Evening assessment | Day's achievements review |
 
 ### **Sunday – Urban Living Mastery**
+
+<!-- Table: Sunday Schedule -->
+
 | Time | Activity | Focus/Notes |
 |------|----------|-------------|
 | 8:00 AM | Morning routine | Standard protocol |
@@ -147,6 +167,9 @@ Consolidating all skills from puppy class graduation with reduced supervision an
 ---
 
 ## 🌙 Week 12 Nighttime Schedule
+
+<!-- Table: Nighttime Schedule -->
+
 | Time      | Activity                | Notes                                 |
 |-----------|-------------------------|---------------------------------------|
 | 9:00 PM   | Bedtime in crate        | Thunder settles for the night         |

@@ -18,6 +18,8 @@ Comprehensive final assessment of all foundational skills with 45+ minute indepe
 
 ### **Monday – Nanny Day (Final Assessment Week)**
 
+<!-- Table: Monday Schedule -->
+
 | Time | Activity | Focus/Notes |
 |------|----------|-------------|
 | 8:45 AM | Morning assessment | 45-min independence mastery |
@@ -35,6 +37,9 @@ Comprehensive final assessment of all foundational skills with 45+ minute indepe
 | 5:00 PM | Evening assessment | Perfect settling mastery |
 
 ### **Tuesday – Comprehensive Evaluation Day**
+
+<!-- Table: Tuesday Schedule -->
+
 | Time | Activity | Focus/Notes |
 |------|----------|-------------|
 | 8:00 AM | Morning evaluation | Complete routine mastery |
@@ -53,6 +58,9 @@ Comprehensive final assessment of all foundational skills with 45+ minute indepe
 | 5:00 PM | Day evaluation | Comprehensive progress review |
 
 ### **Wednesday – Nanny Day (Mastery Confirmation)**
+
+<!-- Table: Wednesday Schedule -->
+
 | Time | Activity | Focus/Notes |
 |------|----------|-------------|
 | 8:45 AM | Morning confirmation | 45+ min independence excellence |
@@ -70,6 +78,9 @@ Comprehensive final assessment of all foundational skills with 45+ minute indepe
 | 5:00 PM | Evening confirmation | Perfect settling excellence |
 
 ### **Thursday – Nanny Day (Final Mastery Assessment)**
+
+<!-- Table: Thursday Schedule -->
+
 | Time | Activity | Focus/Notes |
 |------|----------|-------------|
 | 8:45 AM | Final morning assessment | Advanced excellence confirmation |
@@ -87,6 +98,9 @@ Comprehensive final assessment of all foundational skills with 45+ minute indepe
 | 5:00 PM | Phase completion | Excellence achievement celebration |
 
 ### **Friday – Nanny Day (Graduation Day)**
+
+<!-- Table: Friday Schedule -->
+
 | Time | Activity | Focus/Notes |
 |------|----------|-------------|
 | 8:45 AM | Graduation morning | Complete mastery demonstration |
@@ -104,6 +118,9 @@ Comprehensive final assessment of all foundational skills with 45+ minute indepe
 | 5:00 PM | Next phase preparation | Week 17-24 advanced planning |
 
 ### **Saturday – Mastery Celebration Journey**
+
+<!-- Table: Saturday Schedule -->
+
 | Time | Activity | Focus/Notes |
 |------|----------|-------------|
 | 9:00 AM | Celebration prep | Perfect morning excellence |
@@ -117,6 +134,9 @@ Comprehensive final assessment of all foundational skills with 45+ minute indepe
 | 6:30 PM | Evening celebration | Complete mastery acknowledgment |
 
 ### **Sunday – Phase Integration and Future Planning**
+
+<!-- Table: Sunday Schedule -->
+
 | Time | Activity | Focus/Notes |
 |------|----------|-------------|
 | 8:00 AM | Integration morning | Ultimate routine perfection |
@@ -153,6 +173,9 @@ Comprehensive final assessment of all foundational skills with 45+ minute indepe
 ---
 
 ## 🌙 Week 16 Nighttime Schedule
+
+<!-- Table: Nighttime Schedule -->
+
 | Time      | Activity                | Notes                                 |
 |-----------|-------------------------|---------------------------------------|
 | 9:00 PM   | Bedtime in crate        | Thunder settles for the night         |

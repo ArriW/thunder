@@ -16,6 +16,8 @@ nav_order: 5
 
 ### **Monday – Nanny Day**
 
+<!-- Table: Monday Schedule -->
+
 | Time | Activity | Focus/Notes |
 |------|----------|-------------|
 | 8:45-10:00 AM | Potty success & "Potty" cue conditioning. Bowl Game with Brush ([see Training Games Reference]({{ "/training-games/" | relative_url }}#equipment-conditioning-protocols)). "Consent to Console" protocol. Carrier duration with frozen KONG. Crate choice time. | Grooming Tools Conditioning |
@@ -23,6 +25,9 @@ nav_order: 5
 | 3:30-5:00 PM | Potty success & reinforcement. Mock Grooming Session. Name Game Advancement. Carrier Game. Calm settling with city sounds. | Mock Grooming & Generalization |
 
 ### **Tuesday – Puppy Class #3**
+
+<!-- Table: Tuesday Schedule -->
+
 | Time | Activity | Focus/Notes |
 |------|----------|-------------|
 | 4:00 PM | Grooming confidence test. Carrier loading practice. High-value treat prep. | Pre-Class Prep |
@@ -30,6 +35,9 @@ nav_order: 5
 | 6:30 PM | Grooming success reward. Urban walk home practicing "Focus" cue. | Post-Class Reinforcement |
 
 ### **Wednesday – Nanny Day**
+
+<!-- Table: Wednesday Schedule -->
+
 | Time | Activity | Focus/Notes |
 |------|----------|-------------|
 | 8:45-10:00 AM | Potty success & "Potty" cue conditioning. Bowl Game with Brush. "Consent to Console" protocol. Carrier duration with frozen KONG. Crate choice time. | Grooming Tools Conditioning |
@@ -37,6 +45,9 @@ nav_order: 5
 | 3:30-5:00 PM | Potty success & reinforcement. Mock Grooming Session. Name Game Advancement. Carrier Game. Calm settling with city sounds. | Mock Grooming & Generalization |
 
 ### **Thursday – Nanny Day**
+
+<!-- Table: Thursday Schedule -->
+
 | Time | Activity | Focus/Notes |
 |------|----------|-------------|
 | 8:45-10:00 AM | Potty success & "Potty" cue conditioning. Bowl Game with Brush. "Consent to Console" protocol. Carrier duration with frozen KONG. Crate choice time. | Grooming Tools Conditioning |
@@ -44,6 +55,9 @@ nav_order: 5
 | 3:30-5:00 PM | Potty success & reinforcement. Mock Grooming Session. Name Game Advancement. Carrier Game. Calm settling with city sounds. | Mock Grooming & Generalization |
 
 ### **Friday – Nanny Day**
+
+<!-- Table: Friday Schedule -->
+
 | Time | Activity | Focus/Notes |
 |------|----------|-------------|
 | 8:45-10:00 AM | Potty success & "Potty" cue conditioning. Bowl Game with Brush. "Consent to Console" protocol. Carrier duration with frozen KONG. Crate choice time. | Grooming Tools Conditioning |
@@ -51,6 +65,9 @@ nav_order: 5
 | 3:30-5:00 PM | Potty success & reinforcement. Mock Grooming Session. Name Game Advancement. Carrier Game. Calm settling with city sounds. | Mock Grooming & Generalization |
 
 ### **Saturday – Mission District Deep Dive**
+
+<!-- Table: Saturday Schedule -->
+
 | Time | Activity | Focus/Notes |
 |------|----------|-------------|
 | 9:00 AM | Grooming salon "Happy Visit". Table conditioning. Tool exposure. Mock handling by groomer. | Professional Groomer Visit |
@@ -58,6 +75,9 @@ nav_order: 5
 | Afternoon | Controlled cat intro. Surface exploration. TV desensitization. | Generalization & Desensitization |
 
 ### **Sunday – Dolores Park & Castro Expansion**
+
+<!-- Table: Sunday Schedule -->
+
 | Time | Activity | Focus/Notes |
 |------|----------|-------------|
 | 10:00 AM | "Place" training on picnic blanket. Dog observation. Recall foundation. Positive association with surfaces. | Dolores Park Perimeter Training |
@@ -85,6 +105,9 @@ nav_order: 5
 ---
 
 ## 🌙 Week 10 Nighttime Schedule
+
+<!-- Table: Nighttime Schedule -->
+
 | Time         | Activity         | Notes                                 |
 |--------------|------------------|---------------------------------------|
 | 9:00 PM      | Bedtime in crate | Thunder settles for the night         |

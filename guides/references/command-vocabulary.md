@@ -5,6 +5,8 @@
 
 ## Marker System
 
+<!-- Table: Marker System -->
+
 | Word | Type | When to Use |
 |------|------|-------------|
 | Good | Event Marker | Exact moment behavior happens |
@@ -14,6 +16,9 @@
 ---
 
 ## Core Obedience Cues
+
+<!-- Table: Core Obedience Cues -->
+
 | Cue | Behavior |
 |-----|----------|
 | Thunder | Name recognition; focus on handler |
@@ -27,6 +32,9 @@
 ---
 
 ## Classical Conditioning Cues
+
+<!-- Table: Classical Conditioning Cues -->
+
 | Cue | Purpose |
 |-----|---------|
 | Potty | Elimination command |
@@ -37,6 +45,9 @@
 ---
 
 ## Equipment Conditioning Cues
+
+<!-- Table: Equipment Conditioning Cues -->
+
 | Equipment | Cue | Method |
 |-----------|-----|--------|
 | Collar | (Visual) | Collar appears → mark → treat |
@@ -57,6 +68,9 @@
 ---
 
 ## Troubleshooting
+
+<!-- Table: Troubleshooting -->
+
 | Problem | Solution |
 |---------|----------|
 | Dog ignores cue | Go back to basics; recondition |

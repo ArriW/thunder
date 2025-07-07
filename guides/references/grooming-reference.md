@@ -13,6 +13,8 @@
 
 ## Grooming Frequency
 
+<!-- Table: Grooming Frequency -->
+
 | Task | 8-12 wks | 13-24 wks | Adult |
 |------|---------|-----------|-------|
 | Brushing | 3×/week | 4×/week | 2-3×/week |

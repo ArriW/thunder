@@ -13,6 +13,8 @@ permalink: /carrier-familiarization/
 
 ## Carrier Familiarization Steps
 
+<!-- Table: Carrier Familiarization Steps -->
+
 | Step | Action |
 |------|--------|
 | Introduce Carrier | Place in familiar area, open. Toss in treats or meals. |
@@ -28,6 +30,9 @@ permalink: /carrier-familiarization/
 ---
 
 ## Simulated Travel Routines
+
+<!-- Table: Simulated Travel Routines -->
+
 | Component | Training Activity |
 |-----------|------------------|
 | Car Integration | Secure carrier in car. 5–10 min rides, reward before/after. |
@@ -41,6 +46,9 @@ permalink: /carrier-familiarization/
 ---
 
 ## Pre-flight Preparation Checklist
+
+<!-- Table: Pre-flight Preparation Checklist -->
+
 | Item | Details |
 |------|---------|
 | Trazodone Trial | 2 dry runs at home/car, 1 week apart. Observe effects. |
@@ -52,6 +60,9 @@ permalink: /carrier-familiarization/
 ---
 
 ## Travel Day Procedures
+
+<!-- Table: Travel Day Procedures -->
+
 | Time | Action |
 |------|--------|
 | Morning | Exercise early. Withhold food 2–3 hrs before travel. |

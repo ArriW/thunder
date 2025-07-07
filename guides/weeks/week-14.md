@@ -18,6 +18,8 @@ First cross-country flight and extended family visit testing all skills in compl
 
 ### **Monday – Nanny Day (Pre-Travel)**
 
+<!-- Table: Monday Schedule -->
+
 | Time | Activity | Focus/Notes |
 |------|----------|-------------|
 | 8:45 AM | Morning mastery | 35-min independence building |
@@ -35,6 +37,9 @@ First cross-country flight and extended family visit testing all skills in compl
 | 5:00 PM | Evening routine | Calm settling before big day |
 
 ### **Tuesday – Travel Departure Day (Redeye Flight)**
+
+<!-- Table: Tuesday Schedule -->
+
 | Time | Activity | Focus/Notes |
 |------|----------|-------------|
 | 8:00 AM | Morning prep | Light breakfast + potty |
@@ -50,6 +55,9 @@ First cross-country flight and extended family visit testing all skills in compl
 | Evening | Redeye Flight | East Coast Travel Begin |
 
 ### **Wednesday – East Coast Travel Day 1**
+
+<!-- Table: Wednesday Schedule -->
+
 | Time | Activity | Focus/Notes |
 |------|----------|-------------|
 | 5:00 AM | Landing in DC | Arrival + potty immediately |
@@ -68,6 +76,9 @@ First cross-country flight and extended family visit testing all skills in compl
 | 7:00 PM | Evening routine | Calm settling after big day |
 
 ### **Thursday – Parents' House Day**
+
+<!-- Table: Thursday Schedule -->
+
 | Time | Activity | Focus/Notes |
 |------|----------|-------------|
 | 7:00 AM | Morning routine | Potty + breakfast in new space |
@@ -83,6 +94,9 @@ First cross-country flight and extended family visit testing all skills in compl
 | 8:00 PM | Calm settling | Prepare for Lake Anna trip |
 
 ### **Friday – Travel to Lake Anna**
+
+<!-- Table: Friday Schedule -->
+
 | Time | Activity | Focus/Notes |
 |------|----------|-------------|
 | 8:00 AM | Morning prep | Breakfast + potty before travel |
@@ -99,6 +113,9 @@ First cross-country flight and extended family visit testing all skills in compl
 | 8:00 PM | Group settling | Calm behavior with everyone present |
 
 ### **Saturday – Lake Life Mastery**
+
+<!-- Table: Saturday Schedule -->
+
 | Time | Activity | Focus/Notes |
 |------|----------|-------------|
 | 7:00 AM | Morning routine | Breakfast + potty at lake house |
@@ -114,6 +131,9 @@ First cross-country flight and extended family visit testing all skills in compl
 | 8:00 PM | Group settling | Calm evening with everyone |
 
 ### **Sunday – Advanced Socialization**
+
+<!-- Table: Sunday Schedule -->
+
 | Time | Activity | Focus/Notes |
 |------|----------|-------------|
 | 7:00 AM | Morning routine | Consistent routine at lake |
@@ -151,6 +171,9 @@ First cross-country flight and extended family visit testing all skills in compl
 ---
 
 ## 🌙 Week 14 Nighttime Schedule
+
+<!-- Table: Nighttime Schedule -->
+
 | Time      | Activity                | Notes                                 |
 |-----------|-------------------------|---------------------------------------|
 | 9:00 PM   | Bedtime in crate        | Thunder settles for the night         |

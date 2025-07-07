@@ -18,6 +18,8 @@ Thunder's critical first 72 hours establishing positive associations with crate,
 
 ### **Friday – Arrival Day**
 
+<!-- Table: Friday Schedule -->
+
 | Time | Activity | Focus/Notes |
 |------|----------|-------------|
 | 6:00 PM | Arrival, direct to potty pen | No greetings, no detours; begin "potty" cue conditioning |

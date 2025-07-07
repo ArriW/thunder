@@ -18,6 +18,8 @@ Concluding East Coast family visit with return cross-country flight while seamle
 
 ### **Monday – Return to Parents' House**
 
+<!-- Table: Monday Schedule -->
+
 | Time | Activity | Focus/Notes |
 |------|----------|-------------|
 | 8:00 AM | Morning prep | Breakfast + potty at lake house |
@@ -34,6 +36,9 @@ Concluding East Coast family visit with return cross-country flight while seamle
 | 8:00 PM | Calm settling | Prepare for remaining stay |
 
 ### **Tuesday – Parents' House Day 2**
+
+<!-- Table: Tuesday Schedule -->
+
 | Time | Activity | Focus/Notes |
 |------|----------|-------------|
 | 7:00 AM | Morning routine | Breakfast + potty |
@@ -50,6 +55,9 @@ Concluding East Coast family visit with return cross-country flight while seamle
 | 8:00 PM | Travel prep | Prepare for flight home |
 
 ### **Wednesday – Travel Home Day**
+
+<!-- Table: Wednesday Schedule -->
+
 | Time | Activity | Focus/Notes |
 |------|----------|-------------|
 | 8:00 AM | Morning prep | Light breakfast + potty |
@@ -66,6 +74,9 @@ Concluding East Coast family visit with return cross-country flight while seamle
 | 8:00 PM | Back to normal | Resume SF routine |
 
 ### **Thursday – Resume Normal Nanny Schedule**
+
+<!-- Table: Thursday Schedule -->
+
 | Time | Activity | Focus/Notes |
 |------|----------|-------------|
 | 8:45 AM | Nanny reunion | Re-establish routine with nanny |
@@ -83,6 +94,9 @@ Concluding East Coast family visit with return cross-country flight while seamle
 | 5:00 PM | Evening routine | Back to normal schedule |
 
 ### **Friday – Full Schedule Resume**
+
+<!-- Table: Friday Schedule -->
+
 | Time | Activity | Focus/Notes |
 |------|----------|-------------|
 | 8:45 AM | Morning mastery | Full routine restoration |
@@ -100,6 +114,9 @@ Concluding East Coast family visit with return cross-country flight while seamle
 | 5:00 PM | Week completion | Prepare for Week 16 |
 
 ### **Saturday – Confidence Application**
+
+<!-- Table: Saturday Schedule -->
+
 | Time | Activity | Focus/Notes |
 |------|----------|-------------|
 | 9:00 AM | Morning mastery | Perfect excellence routine |
@@ -114,6 +131,9 @@ Concluding East Coast family visit with return cross-country flight while seamle
 | 6:00 PM | Travel reflection | Consolidate experiences |
 
 ### **Sunday – Complete Integration**
+
+<!-- Table: Sunday Schedule -->
+
 | Time | Activity | Focus/Notes |
 |------|----------|-------------|
 | 8:00 AM | Morning perfection | Travel-enhanced routine |
@@ -150,6 +170,9 @@ Concluding East Coast family visit with return cross-country flight while seamle
 ---
 
 ## 🌙 Week 15 Nighttime Schedule
+
+<!-- Table: Nighttime Schedule -->
+
 | Time      | Activity                | Notes                                 |
 |-----------|-------------------------|---------------------------------------|
 | 9:00 PM   | Bedtime in crate        | Thunder settles for the night         |
