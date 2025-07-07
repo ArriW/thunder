@@ -17,6 +17,7 @@ Concluding East Coast family visit with return cross-country flight while seamle
 ## 📅 Daily Schedule
 
 ### **Monday – Return to Parents' House**
+
 | Time | Activity | Focus/Notes |
 |------|----------|-------------|
 | 8:00 AM | Morning prep | Breakfast + potty at lake house |

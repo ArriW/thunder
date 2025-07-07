@@ -17,6 +17,7 @@ Final puppy class graduation while developing extended independence skills and c
 ## 📅 Daily Schedule
 
 ### **Monday – Nanny Day**
+
 | Time | Activity | Focus/Notes |
 |------|----------|-------------|
 | 8:45 AM | Morning potty + breakfast training | Independence building – 5 min alone |

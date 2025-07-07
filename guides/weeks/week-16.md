@@ -17,6 +17,7 @@ Comprehensive final assessment of all foundational skills with 45+ minute indepe
 ## 📅 Daily Schedule
 
 ### **Monday – Nanny Day (Final Assessment Week)**
+
 | Time | Activity | Focus/Notes |
 |------|----------|-------------|
 | 8:45 AM | Morning assessment | 45-min independence mastery |

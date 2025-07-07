@@ -15,6 +15,7 @@ nav_order: 5
 ## 📅 Daily Schedule
 
 ### **Monday – Nanny Day**
+
 | Time | Activity | Focus/Notes |
 |------|----------|-------------|
 | 8:45-10:00 AM | Potty success & "Potty" cue conditioning. Bowl Game with Brush ([see Training Games Reference]({{ "/training-games/" | relative_url }}#equipment-conditioning-protocols)). "Consent to Console" protocol. Carrier duration with frozen KONG. Crate choice time. | Grooming Tools Conditioning |

@@ -4,6 +4,7 @@
 ---
 
 ## Sound Desensitization Steps
+
 | Phase | Activity |
 |-------|----------|
 | Intro | Play soft ambient audio (doorbells, traffic, kitchen sounds, children, barking) during meals/play. |

@@ -4,6 +4,7 @@
 ---
 
 ## Core Puppy Vaccination Timeline
+
 | Age | Core Vaccines | Optional/Lifestyle | Notes |
 |-----|--------------|-------------------|-------|
 | 8 wks | DHPP #1 | — | First distemper/parvo combo |

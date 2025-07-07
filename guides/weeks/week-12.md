@@ -17,6 +17,7 @@ Consolidating all skills from puppy class graduation with reduced supervision an
 ## 📅 Daily Schedule
 
 ### **Monday – Nanny Day**
+
 | Time | Activity | Focus/Notes |
 |------|----------|-------------|
 | 8:45 AM | Morning routine | Advanced independence – 20 min alone |

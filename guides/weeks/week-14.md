@@ -17,6 +17,7 @@ First cross-country flight and extended family visit testing all skills in compl
 ## 📅 Daily Schedule
 
 ### **Monday – Nanny Day (Pre-Travel)**
+
 | Time | Activity | Focus/Notes |
 |------|----------|-------------|
 | 8:45 AM | Morning mastery | 35-min independence building |

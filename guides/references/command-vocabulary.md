@@ -4,6 +4,7 @@
 ---
 
 ## Marker System
+
 | Word | Type | When to Use |
 |------|------|-------------|
 | Good | Event Marker | Exact moment behavior happens |

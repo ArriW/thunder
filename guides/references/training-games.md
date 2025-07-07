@@ -4,6 +4,7 @@
 ---
 
 ## Core Games
+
 | Game | Purpose | Method |
 |------|---------|--------|
 | Crate Game | Positive crate association | Toss treat in crate, reward entry |

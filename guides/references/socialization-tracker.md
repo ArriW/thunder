@@ -4,6 +4,7 @@
 ---
 
 ## Weekly Socialization Targets
+
 | Week | Age | People Target | Dog Target | Cumulative People | Cumulative Dogs |
 |------|-----|---------------|------------|-------------------|-----------------|
 | 8    | 8   | 8-10          | 1-2        | 8-10              | 1-2             |

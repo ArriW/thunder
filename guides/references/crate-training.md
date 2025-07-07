@@ -11,6 +11,7 @@
 ---
 
 ## Crate Introduction Steps
+
 | Stage | Action |
 |-------|--------|
 | 1. Open-Door Buffet | Scatter treats inside, let puppy choose to enter/exit. No door closing. Reward every entry. |

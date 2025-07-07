@@ -4,6 +4,7 @@
 ---
 
 ## 75/25 Feeding Method
+
 | Portion | Use |
 |---------|-----|
 | 75% Training | Marker rewards, games, equipment conditioning, cue building |

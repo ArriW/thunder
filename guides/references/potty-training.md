@@ -11,6 +11,7 @@
 ---
 
 ## Supplies Checklist
+
 | Item | Why |
 |------|-----|
 | Designated potty zone | Consistency builds habit |

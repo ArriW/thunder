@@ -4,6 +4,7 @@
 ---
 
 ## Universal Response Protocol
+
 | Step | Action |
 |------|--------|
 | Freeze | Do not talk, touch, or look at your dog. Remove attention entirely. |

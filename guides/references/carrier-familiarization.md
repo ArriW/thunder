@@ -12,6 +12,7 @@ permalink: /carrier-familiarization/
 ---
 
 ## Carrier Familiarization Steps
+
 | Step | Action |
 |------|--------|
 | Introduce Carrier | Place in familiar area, open. Toss in treats or meals. |

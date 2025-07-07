@@ -17,6 +17,7 @@ Introducing nanny support while building urban confidence through structured San
 ## 📅 Daily Schedule
 
 ### **Monday – Nanny Day (Light Load)**
+
 | Time | Activity | Focus/Notes |
 |------|----------|-------------|
 | 8:30 AM | Potty → "Good!" → treats | Nanny arrival |

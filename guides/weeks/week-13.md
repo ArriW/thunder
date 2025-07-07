@@ -17,6 +17,7 @@ Developing complex command sequences and problem-solving skills while extending 
 ## 📅 Daily Schedule
 
 ### **Monday – Nanny Day**
+
 | Time | Activity | Focus/Notes |
 |------|----------|-------------|
 | 8:45 AM | Morning routine | Extended independence – 25 min alone |
