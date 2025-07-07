@@ -5,6 +5,8 @@
 
 ## 75/25 Feeding Method
 
+<!-- Table: 75/25 Feeding Method -->
+
 | Portion | Use |
 |---------|-----|
 | 75% Training | Marker rewards, games, equipment conditioning, cue building |
@@ -13,6 +15,9 @@
 ---
 
 ## Feeding Schedule
+
+<!-- Table: Feeding Schedule -->
+
 | Age | Meals/Day | Total Intake | 75% Training | 25% Bowl |
 |-----|-----------|-------------|--------------|-----------|
 | 8-12 wks | 3 | 1/2–3/4 cup | ~1/2 cup | ~1/8 cup |
@@ -32,6 +37,9 @@
 ---
 
 ## High-Value Treats
+
+<!-- Table: High-Value Treats -->
+
 | Item | Max % Daily Calories | Use |
 |------|---------------------|-----|
 | Cooked chicken | 10% | First behaviors, recall |
@@ -58,6 +66,9 @@
 ---
 
 ## Transitioning Foods
+
+<!-- Table: Transitioning Foods -->
+
 | Day | Old Food | New Food | Notes |
 |-----|----------|----------|-------|
 | 1-2 | 75% | 25% | Monitor motivation |
@@ -68,6 +79,9 @@
 ---
 
 ## Troubleshooting
+
+<!-- Table: Troubleshooting -->
+
 | Problem | Solution |
 |---------|----------|
 | Not food motivated | Increase interval, upgrade treat, never free-feed |
