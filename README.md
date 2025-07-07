@@ -55,10 +55,9 @@ Your website is built from markdown files. To update content:
 ├── _config.yml                     # Jekyll configuration
 ├── README.md                       # Setup instructions
 ├── guides/
-│   ├── adoption-plan.md           # Training philosophy and approach
 │   ├── puppy-schedule.md          # Daily schedule guide
 │   ├── nighttime-guide.md         # Nighttime potty training
-│   └── adoption-plan.md           # Adoption planning
+│   └── references/                # Training reference guides
 ├── images/
 │   ├── Thunder_1.jpg              # Thunder's photo (JPG)
 │   └── Thunder_2.PNG              # Thunder's photo (PNG)

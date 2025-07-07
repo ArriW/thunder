@@ -3,8 +3,6 @@ sections:
     items:
       - label: "🏡 Home"
         url: "/"
-      - label: "📅 Timeline & Plan"
-        url: "/adoption-plan/"
 
   - title: "📅 Weekly Training"
     items:

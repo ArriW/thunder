@@ -20,7 +20,6 @@ plugins:
 # Navigation structure
 header_pages:
   - index.md
-  - guides/adoption-plan.md
   - guides/puppy-schedule.md
   - guides/week-11-12.md
   - guides/week-13-16.md

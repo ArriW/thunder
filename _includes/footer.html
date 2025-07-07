@@ -1,0 +1,42 @@
+<!-- Floating Note Icon -->
+<a href="https://forms.gle/8D1ojvidxhDbys6o7" 
+   target="_blank" 
+   id="floating-note"
+   title="Log a Note">
+  📝
+</a>
+
+<style>
+#floating-note {
+  position: fixed;
+  bottom: 24px;
+  left: 24px;
+  z-index: 9999;
+  background: #fff;
+  color: #1976d2;
+  border-radius: 50%;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+  width: 56px;
+  height: 56px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  text-decoration: none;
+  transition: box-shadow 0.2s, background 0.2s;
+}
+#floating-note:hover {
+  background: #1976d2;
+  color: #fff;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.25);
+}
+@media (max-width: 600px) {
+  #floating-note {
+    width: 48px;
+    height: 48px;
+    font-size: 1.5rem;
+    bottom: 16px;
+    left: 16px;
+  }
+}
+</style> 

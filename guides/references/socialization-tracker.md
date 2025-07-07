@@ -1,21 +1,9 @@
----
-layout: page
-title: "Socialization Tracker"
-description: "Achieve 100 people & 25 dog exposures by Week 12"
-permalink: /socialization-tracker/
-nav_order: 15
----
-
-# 🐾 Socialization Tracker
-
-Build Thunder's confidence through systematic exposure to people, dogs, and environments during the critical 8-16 week window.
-
-> 🎯 **Goal:** 100 people and 25 dog exposures by Week 12 (age ~12 weeks)
+# Socialization Tracker
+*Systematic exposure plan for people, dogs, and environments during the critical 8–16 week window.*
 
 ---
 
-## 📅 Weekly Target Schedule
-
+## Weekly Socialization Targets
 | Week | Age | People Target | Dog Target | Cumulative People | Cumulative Dogs |
 |------|-----|---------------|------------|-------------------|-----------------|
 | 8    | 8   | 8-10          | 1-2        | 8-10              | 1-2             |
@@ -26,165 +14,70 @@ Build Thunder's confidence through systematic exposure to people, dogs, and envi
 
 ---
 
-## 👥 People Exposure Types
-
-### **Handled Interactions (40% of total)**
-- Person touches, holds, or pets Thunder
-- Always ask permission first
-- Treat during contact for positive association
-- Target: 30-40 people
-
-### **Passive Observations (30% of total)**
-- Thunder observes people without direct interaction
-- Maintain <6 feet distance
-- Treat for calm observation
-- Target: 20-30 people
-
-### **Demographic Diversity (30% of total)**
-- Vary age, size, appearance, movement patterns
-- Include: children, elderly, wheelchairs, hats, uniforms
-- Focus on unusual characteristics
-- Target: 20+ different types
+## People Exposure Types
+- Handled Interactions: Person touches, holds, or pets puppy (treat during contact)
+- Passive Observations: Puppy observes people without direct interaction (treat for calm)
+- Demographic Diversity: Vary age, size, appearance, movement patterns
 
 ---
 
-## 🐕 Dog Exposure Protocol
-
-### **Direct Interaction (40%)**
-- Nose-to-nose greeting with vaccinated, friendly dogs
-- 2-3 second sniff → treat → separate
-- Target: 8-10 dogs
-
-### **Parallel Walking (30%)**
-- Walk 6-10 feet apart, same direction
-- No direct interaction
-- Treat for calm behavior
-- Target: 5-7 dogs
-
-### **Distance Observation (30%)**
-- Watch dogs from 10+ feet away
-- "Look at that" → treat
-- Parks, classes, through fences
-- Target: 5+ dogs
+## Dog Exposure Protocol
+- Direct Interaction: Brief, friendly greetings with vaccinated dogs (treat, then separate)
+- Parallel Walking: Walk 6-10 feet apart, treat for calm
+- Distance Observation: Watch dogs from 10+ feet, treat for calm
 
 ---
 
-## 🛡️ Safety Protocols
-
-### **Pre-Vaccination Guidelines**
-- **Private yards**: Vaccinated dogs only ✅
-- **Concrete/brick**: Center walking ✅
-- **Farmers markets**: Carry over grass ✅
-- **Public grass**: Avoid until 16+ weeks ❌
-
-### **Controlled Exposure Methods**
-- **Carried**: Parks, busy areas, visual/sound only
-- **Puppy stroller**: Mobile observation for long outings
-- **Private locations**: Known-clean areas
-- **Supervised classes**: Sanitized surfaces, matched puppies
+## Safety Protocols
+- Pre-vaccination: Only vaccinated dogs in private yards, avoid public grass
+- Controlled exposure: Carry puppy in public, use stroller, or visit sanitized classes
 
 ---
 
-## 📍 Weekly Focus Areas
-
-### **Week 8: Home Foundation**
-- **People**: Friends, family, neighbors
-- **Surfaces**: Home floors, mats, steps
-- **Sounds**: Household appliances, doorbell
-- **Dogs**: Resident dogs, known friendly dogs
-
-### **Week 9: Urban Introduction**
-- **Location**: Noe Valley Farmers Market
-- **People**: Vendors, families, diverse demographics
-- **Surfaces**: Concrete, brick (avoid grass)
-- **Sounds**: Music, crowds, carts
-
-### **Week 10: Professional Exposure**
-- **Location**: Groomer, vet, pet stores
-- **People**: Professionals in uniforms/aprons
-- **Surfaces**: Elevated tables, grooming surfaces
-- **Handling**: Professional touch, restraint
-
-### **Week 11-12: Advanced Urban**
-- **Locations**: Castro, Mission, Dolores Park periphery
-- **People**: Street performers, diverse adults
-- **Surfaces**: Various urban textures
-- **Challenges**: Layered stimuli (sounds + sights)
+## Weekly Focus Areas
+- Week 8: Home, family, household sounds
+- Week 9: Urban intro, market, diverse people
+- Week 10: Groomer, vet, pet stores
+- Week 11-12: Advanced urban, parks, street performers
 
 ---
 
-## 🎯 Success Protocols
-
-### **High-Value Encounter Method**
-1. **Treat first**: Person tosses treat before approaching
-2. **Brief interaction**: 3-5 seconds maximum
-3. **End positive**: Before Thunder shows stress
-4. **Safe retreat**: Carrier always available
-
-### **Confidence Building Rules**
-- **Choice-based**: Thunder approaches, never forced
-- **Distance management**: Start far, move closer gradually
-- **Energy matching**: Calm people for calm puppy
-- **Frequent breaks**: Rest between exposures
+## Success Protocols
+- Treat first, brief interaction, end positive
+- Choice-based: Puppy approaches, never forced
+- Distance management: Start far, move closer
+- Frequent breaks, energy matching
 
 ---
 
-## 📝 Daily Tracking Log
-
-```
+## Daily Tracking Log (Template)
 Date: ___________
 Location: ___________
-
-People Exposed:
-□ Handled: ___ □ Passive: ___ □ Demographics: ___
-
-Dog Exposures:
-□ Direct: ___ □ Parallel: ___ □ Distance: ___
-
-New Experiences:
-□ Surfaces: ___________
-□ Sounds: ___________
-□ Handling: ___________
-
-Thunder's Response:
-□ Confident □ Curious □ Cautious □ Stressed
-
+People Exposed: Handled ___ Passive ___ Demographics ___
+Dog Exposures: Direct ___ Parallel ___ Distance ___
+New Experiences: Surfaces ___________ Sounds ___________ Handling ___________
+Thunder's Response: Confident / Curious / Cautious / Stressed
 Notes: ___________
-```
 
 ---
 
-## 🚨 Stress Signals to Watch
-
-### **Stop Session If:**
-- Stops eating treats
-- Excessive panting or drooling
-- Tail tucked or trembling
-- Trying to hide or escape
-- Freezing in place
-
-### **Recovery Protocol:**
-1. **Increase distance** from stimulus
-2. **Return to carrier** for safety
-3. **Offer high-value treats** when calm
-4. **End session** on positive note
-5. **Shorter exposure** next time
+## Stress Signals
+- Stops eating treats, excessive panting, tail tucked, hiding, freezing
+- Recovery: Increase distance, return to carrier, offer treats when calm, end session
 
 ---
 
-## 🔗 Integration with Training
-
-### **Weekly Schedule Links**
-- **[Week 8]({{ "/week-8/" | relative_url }})** - Foundation socialization
-- **[Week 9]({{ "/week-9/" | relative_url }})** - Farmers market introduction
-- **[Week 10]({{ "/week-10/" | relative_url }})** - Professional handling
-- **[Week 11-12]({{ "/week-11-12/" | relative_url }})** - Urban mastery
-
-### **Related Guides**
-- **[Carrier Familiarization]({{ "/carrier-familiarization/" | relative_url }})** - Safe transport
-- **[Noise Desensitization]({{ "/noise-desensitization/" | relative_url }})** - Sound conditioning
-- **[Adoption Plan]({{ "/adoption-plan/" | relative_url }})** - Training philosophy
+## Quick Reference Checklist
+- [ ] Meet weekly people/dog targets
+- [ ] Track exposures daily
+- [ ] Prioritize quality over quantity
+- [ ] Watch for stress signals
+- [ ] Practice choice-based interactions
 
 ---
 
-*Remember: Quality over quantity. One positive interaction is worth more than ten stressful ones. Build confidence gradually and celebrate every success.* 
+## Quick Reference Links
+- [Carrier Familiarization]({{ "/carrier-familiarization/" | relative_url }})
+- [Noise Desensitization]({{ "/noise-desensitization/" | relative_url }})
+- [Training Games Reference]({{ "/training-games/" | relative_url }})
+- [Weekly Guides]({{ "/week-8/" | relative_url }}) 

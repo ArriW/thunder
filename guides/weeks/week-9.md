@@ -8,259 +8,112 @@ nav_order: 4
 
 # Week 9 Training Schedule
 **Monday, July 21 – Sunday, July 27, 2025**  
-*Building on Susan Garrett's Week 8 foundation with nanny support and urban SF exposure*
+*Building foundation with nanny support and urban SF exposure*
+
+Introducing nanny support while building urban confidence through structured San Francisco neighborhood exploration and continued foundation work.
 
 ---
 
-## 🎯 Week Overview
+## 📅 Daily Schedule
 
-- **Age:** 9 weeks old
-- **Focus:** Advanced equipment conditioning, urban socialization, travel preparation begins
-- **Nanny Support:** M/W/Th/F (8:45am-5pm) - Simple, repetitive Susan Garrett games
-- **Tuesday:** First puppy class at 5pm
-- **Weekends:** Extensive Noe Valley adventures with classical conditioning
+### **Monday – Nanny Day (Light Load)**
+| Time | Activity | Focus/Notes |
+|------|----------|-------------|
+| 8:30 AM | Potty → "Good!" → treats | Nanny arrival |
+| 9:00 AM | Crate Game ([Crate Game]({{ "/training-games/" | relative_url }}#core-games)) | Treat toss into crate |
+| 9:15 AM | Name recognition | "Thunder!" → eye contact → treat |
+| 9:30 AM | Crate with frozen KONG | 25% daily portion |
+| 12:00 PM | Potty → "potty" cue conditioning | |
+| 12:15 PM | This Place Game ([This Place]({{ "/training-games/" | relative_url }}#core-games)) | Mat targeting |
+| 12:30 PM | Bowl Game with collar ([see Training Games Reference]({{ "/training-games/" | relative_url }}#equipment-conditioning-protocols)) | Equipment conditioning |
+| 1:00 PM | Lunch training | Basic sit/touch (part of 75% portion) |
+| 1:30 PM | Supervised pen time | Appropriate chew toy |
+| 3:30 PM | Potty → high-value treat | |
+| 4:00 PM | Four on Floor Game ([Four on Floor]({{ "/training-games/" | relative_url }}#core-games)) | Impulse control |
+| 4:30 PM | Sound desensitization | Doorbell → treat scatter |
+| 5:00 PM | Crate Game | "Crate" cue → treat toss |
+| 5:30 PM | Nanny departs | Evening routine begins |
 
-> 🌟 **Susan's Week 9 Goal**: "Everything Thunder will need for travel and urban living becomes 'GOOD' through intentional positive associations."
+### **Tuesday – Puppy Class Day (Nanny + Class)**
+| Time | Activity | Focus/Notes |
+|------|----------|-------------|
+| 8:30 AM–3:30 PM | Light nanny routine | Same as Monday, shorter sessions |
+| 4:00 PM | Pre-class prep | Light meal, carrier conditioning |
+| 4:30 PM | Travel to class | Terminal prevention practice |
+| 5:00 PM | Puppy Class #2 | Apply marker system, socialization |
+| 6:30 PM | Post-class decompression | Quiet car ride, calm settling |
+| 7:00 PM | Home arrival | Potty → treats → jackpot reward |
 
----
+### **Wednesday – WFH Balanced Day**
+| Time | Activity | Focus/Notes |
+|------|----------|-------------|
+| 8:00 AM | Morning potty + breakfast | Quick 5-min session |
+| 8:15 AM | Crate Game ([Crate Game]({{ "/training-games/" | relative_url }}#core-games)) | 5 min, then crate nap |
+| 8:30 AM–12:00 PM | Crate nap | You work uninterrupted |
+| 12:00 PM | Potty + lunch training | 10-15 min session |
+| 12:20 PM | Equipment conditioning | Brush/collar while eating |
+| 12:30 PM–3:00 PM | Crate nap | More uninterrupted work |
+| 3:00 PM | Potty + "Focus" cue | 10 min break session |
+| 3:15 PM | Handling practice | Quick paws/ears conditioning |
+| 3:30 PM–5:00 PM | Crate nap | Final work block |
+| 5:00 PM | Travel desensitization | 15 min carrier/car sounds |
 
-## 📅 Weekly Structure
+### **Thursday – Nanny Day (Light Load)**
+| Time | Activity | Focus/Notes |
+|------|----------|-------------|
+| 8:30 AM–5:30 PM | Repeat Monday routine | Focus on consistency |
+| 2:00 PM | Bowl Game with brush ([see Training Games Reference]({{ "/training-games/" | relative_url }}#equipment-conditioning-protocols)) | Grooming prep |
+| 4:15 PM | Urban sound conditioning | Traffic, sirens → treats |
 
-### 🏠 **Nanny Days (M/W/Th/F) - Simple & Consistent**
+### **Friday – Nanny Day (Light Load)**
+| Time | Activity | Focus/Notes |
+|------|----------|-------------|
+| 8:30 AM–5:30 PM | Repeat Monday routine | Consistency focus |
+| 11:00 AM | Recall practice | "Thunder, come!" in safe space |
+| 3:00 PM | Settle practice | 10+ min calm observation |
 
-- **Nanny Instructions** - Focus on repetition and positive associations:
+### **Saturday – Noe Valley Adventure**
+| Time | Activity | Focus/Notes |
+|------|----------|-------------|
+| 8:00 AM | Backyard confidence | Surfaces, visitor protocol |
+| 9:30 AM | Farmers Market arrival | Carrier observation, demographics |
+| 10:30 AM | Market perimeter walk | 15+ people, surface variety |
+| 11:30 AM | Controlled integration | Vendor interactions, "Focus" cue |
+| 1:00 PM | Backyard recovery | Decompression, friend visit |
+| 3:00 PM | Grooming session | 5-10 brush strokes + treats |
 
-#### **Morning Routine (8:45-10:00am)**
-1. **Potty Success** → "Good!" → Multiple treats (3-4 treats)
-2. **[Training is Fun]({{ "/training-games/" | relative_url }}#game-1-training-is-fun)**: Throw treats in crate
-3. **[Name Recognition]({{ "/training-games/" | relative_url }}#game-2-name-recognition)**: "Thunder!" → eye contact → treat
-4. **Equipment Conditioning**: **[Bowl Game]({{ "/training-games/" | relative_url }}#bowl-game-with-collar)** with collar
-5. **Crate time** with frozen KONG (25% bowl portion)
-
-#### **Midday Check (12:00-1:00pm)**
-1. **Potty Success** → Classical conditioning with "potty" cue
-2. **[This Place Game]({{ "/training-games/" | relative_url }}#game-3-this-place-place-training)**: Mat targeting with duration
-3. **Brush Conditioning**: **[Bowl Game]({{ "/training-games/" | relative_url }}#bowl-game-with-brush)** with brush
-4. **Lunch training** (part of 75% portion): Basic sit/touch games
-5. **Supervised pen time** with appropriate chew
-
-#### **Afternoon Session (3:30-5:00pm)**
-1. **Potty Success** → High-value treat reward
-2. **[Four on Floor Game]({{ "/training-games/" | relative_url }}#game-5-four-on-floor)**: Impulse control training
-3. **Sound Desensitization**: Play doorbell sound → treat scatter during sound
-4. **Crate Game**: "Crate" cue → Thunder enters → "Good!" → treat toss
-5. **Evening crate** preparation with chew toy
-
-#### Nanny Days Schedule
-| Time                             | Activity                                                                                                                   |
-|----------------------------------|----------------------------------------------------------------------------------------------------------------------------|
-| 8:45–10:00 AM – Morning Routine  | Potty success → "Good!" → multiple treats (3-4)<br>[Training is Fun] → toss treats into crate<br>[Name Recognition] → "Thunder!" + eye contact → treat<br>Equipment Conditioning: [Bowl Game with collar] → treats<br>Crate time with frozen KONG (25% bowl portion) |
-| 12:00–1:00 PM – Midday Check     | Potty success → treat (potty cue conditioning)<br>[This Place Game] → mat targeting + duration<br>Brush Conditioning: [Bowl Game with brush]<br>Lunch training: sit/touch games<br>Supervised pen time with chew |
-| 3:30–5:00 PM – Afternoon Session| Potty success → high-value treat<br>[Four on Floor Game] → impulse control<br>Sound Desensitization: doorbell → treat scatter<br>Crate Game: "Crate" cue → treat toss<br>Evening crate prep with chew toy |
-
-**Nanny Success Metrics:**
-- Thunder responds to name 95%+ of time
-- Enters crate on first "crate" cue
-- Allows brush contact without stress
-- Calm during doorbell/urban sounds
-
----
-
-### 🎓 **Tuesday - Puppy Class Night**
-
-- **Pre-Class Prep (4:00pm):**
-- - Light meal (not from training portion)
-- - **Carrier conditioning**: In carrier → treats → out → play continues
-- - **Travel to class**: Practice Susan's terminal prevention - arrival ≠ fun ends
-
-**Class Goals (5:00pm):**
-- **Apply Susan's marker system** with class distractions
-- **Practice "Thunder" cue** in group setting
-- **Socialization with positive associations** - new people = treats
-- **Stay calm in carrier** during other dogs' training
-
-**Post-Class (6:30pm):**
-- **Immediate decompression**: Quiet car ride with calming music
-- **Home arrival protocol**: Potty → treats → calm settling
-- **Jackpot reward** for good class behavior
-
-#### Puppy Class Night Schedule
-| Time                    | Activity                                                                                                                             |
-|-------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
-| 4:00 PM – Pre-Class Prep| Light meal (non-training portion)<br>Carrier conditioning → treats + play<br>Travel to class: terminal prevention drills                  |
-| 5:00 PM – Class Goals   | Apply marker system in class distractions<br>Practice "Thunder" cue in group<br>Socialization: new people → treats<br>Carrier calmness |
-| 6:30 PM – Post-Class    | Immediate decompression: quiet car ride with calming music<br>Home arrival: potty → treats → calm settling<br>Jackpot reward          |
-
----
-
-### 🏙️ **Weekend Adventures - Noe Valley Urban Training**
-
-#### **Saturday - Backyard Foundation + Noe Valley Farmers Market**
-**Morning Mission: Private Socialization Foundation, Then Public Exposure**
-
-**8:00am - Backyard Confidence Building:**
-1. **Private surface mastery**: Grass, deck, patio stones with treats
-2. **Controlled visitor protocol**: Friend arrives in backyard → treat party
-3. **Dog introduction prep**: If friend has vaccinated dog, parallel observation from 15+ feet
-4. **Sound conditioning**: Neighborhood sounds (lawnmowers, kids, birds) + treats
-5. **Outdoor potty success**: "Potty" cue in new location + jackpot rewards
-
-**9:30am - Farmers Market Arrival (24th & Sanchez):**
-1. **Carrier approach** - Thunder observes setup from distance (building on backyard confidence)
-2. **Demographic diversity exposure**: Vendors, families, elderly, children
-3. **Sound conditioning**: Market sounds (vendors calling, music, crowds) + treat pairing
-4. **"Settle" in carrier**: 10+ minutes calm observation with continuous treats
-
-**10:30am - Market Perimeter Walk:**
-1. **People exposure protocol**: 15+ different people in 30 minutes
-   - **Handled interactions**: 5-7 people (ask permission to pet) + treats
-   - **Passive presence**: Thunder observes variety from 3-6 feet + treats
-   - **Demographics**: Children, elderly, bearded men, women with hats, etc.
-2. **Sound desensitization**: Live music, vendor calls, cart wheels + treat pairing
-3. **Surface variety**: Concrete, brick, rubber mats (carried over grass areas)
-
-**11:30am - Controlled Market Integration:**
-1. **Vendor interaction**: Pet-friendly vendors offer treats (with permission)
-2. **"Focus" cue development** [[memory:5108396497891493681]] amid high distractions
-3. **Dog sightings**: Other leashed dogs from 10+ feet distance
-4. **"Look at that" game**: Thunder notices dog → treat (don't approach)
-
-**1:00pm - Backyard Recovery & Integration:**
-1. **Home decompression**: Quiet backyard time to process experiences
-2. **Friends visit protocol**: Guest arrives in backyard → treat party for Thunder
-3. **Advanced surface confidence**: Use market confidence on grass/deck
-4. **Terminal association prevention**: Guest leaves → more treats + play continues
-
-#### Saturday Schedule
-| Time                                  | Activity                                                                                          |
-|---------------------------------------|---------------------------------------------------------------------------------------------------|
-| 8:00 AM – Backyard Confidence Building| Private surface mastery (grass, deck, stones) + treats<br>Controlled visitor protocol<br>Dog introduction prep<br>Sound conditioning (lawnmowers, kids, birds) + treats<br>Outdoor potty: "Potty" cue + jackpot                                                                                         |
-| 9:30 AM – Farmers Market Arrival      | Carrier observation from distance<br>Demographic diversity exposure + treats<br>Market sound conditioning + treats<br>"Settle" in carrier: 10+ min calm observation                         |
-| 10:30 AM – Market Perimeter Walk      | People exposure protocol (15+ in 30 min)<br>Sound desensitization: live music, carts + treats<br>Surface variety: concrete, brick, rubber mats                                 |
-| 11:30 AM – Controlled Market Integration| Vendor interactions → treats<br>"Focus" cue development amid distractions<br>Dog sightings → treat pairing<br>"Look at that" game: notice dog → treat                        |
-| 1:00 PM – Backyard Recovery & Integration| Home decompression: quiet backyard time<br>Friends visit protocol: treat party<br>Advanced surface confidence<br>Terminal prevention: guest leaves → treats + play  |
-
-#### **Sunday - Mission District Adventure**
-**Focus: Advanced Socialization & Handling Prep**
-
-**10:00am - Valencia Street Exposure:**
-1. **Sidewalk café sitting** - Thunder in carrier observing
-2. **Diverse people conditioning**: Person appears → treat
-3. **Skateboard/bike desensitization** from safe distance
-4. **"Focus" cue development** [[memory:5108396497891493681]] amid distractions
-
-**12:00pm - Friend's House Visit:**
-1. **New environment protocol**: Explore → treat → settle
-2. **Consent to console practice**: Gentle restraint + treats
-3. **Collar grab game**: Hold collar → "Good!" → treat → release
-4. **Multiple surface exploration** with positive associations
-
-**Evening:**
-- **Grooming session**: 5-10 brush strokes with treats each stroke
-- **Nail board introduction**: Scratching surface with rewards
-
-#### Sunday Schedule
-| Time                                    | Activity                                                                                          |
-|-----------------------------------------|---------------------------------------------------------------------------------------------------|
-| 10:00 AM – Valencia Street Exposure      | Sidewalk café sitting in carrier → observe + treat<br>Diverse people conditioning → treat<br>Skateboard/bike desensitization → treat<br>"Focus" cue conditioning amid distractions |
-| 12:00 PM – Friend's House Visit          | Explore new environment → treat → settle<br>Consent to console practice: gentle restraint + treats<br>Collar grab game: hold collar → "Good!" → treat → release<br>Surface exploration with positive associations |
-| Evening                                 | Grooming session: 5-10 brush strokes + treats each stroke<br>Nail board introduction: scratching surface → rewards                             |
-
----
-
-## 🧍‍♂️ Week 9 Socialization Spectrum (Target: 25+ People, 5+ Dogs)
-
-### **People Exposure Protocol**
-Following AVSAB and Puppy Culture guidelines for Thunder's critical socialization window:
-
-| **Exposure Type** | **Target This Week** | **Method** |
-|-------------------|----------------------|------------|
-| **Handled Interaction** | 8-10 people | Permission to pet + treats during contact |
-| **Passive Presence** | 10-12 people | Thunder observes from 3-6 feet + treats |
-| **Varied Demographics** | 7+ types | Children, elderly, bearded, hats, uniforms, wheelchairs |
-| **Distance Observations** | Unlimited | Farmers market crowd watching from carrier |
-
-### **Dog Exposure Protocol**
-| **Exposure Type** | **Target This Week** | **Method** |
-|-------------------|----------------------|------------|
-| **Distance Observations** | 3-5 dogs | See dogs from 10+ feet + treat pairing |
-| **Parallel Walking** | 1-2 dogs | Same direction, 6-10 feet apart |
-| **Brief Sniff** | 1 dog | 2-3 seconds if both dogs calm + controlled |
-
-### **Surface & Environment Safety**
-**Pre-Vaccination Protocols:**
-- **Farmers Market**: Carry Thunder over grass, walk on concrete/brick only
-- **Private Yards**: Friend/family vaccinated-dog areas only
-- **Texture Exposure**: Concrete, brick, rubber mats, carrier material
-- **Avoid**: Public grass, pooled water, fecal concentration areas
-
----
-
-## 🎲 Susan's Advanced Games - Week 9
-
-> 🎲 **For detailed protocols on equipment conditioning, carrier familiarization, noise desensitization, and barking suppression, see the reference guides:**  
->- [Training Games Reference]({{ "/training-games/" | relative_url }})  
->- [Carrier Familiarization & Simulated Travel Routines]({{ "/carrier-familiarization/" | relative_url }})  
->- [Noise Desensitization]({{ "/noise-desensitization/" | relative_url }})  
->- [Barking Suppression Guide]({{ "/barking-suppression/" | relative_url }})  
->- [Susan's Marker System]({{ "/command-vocabulary/" | relative_url }}#susan-garretts-marker-system)
-
----
-
-## 🚫 Susan's Problem Prevention - Week 9
-
-### **Attention-Seeking Prevention:**
-- **Ignore demand barking** completely - no eye contact
-- **Reward spontaneous calm** behavior with surprise treats
-- **"Quiet" cue conditioning**: Only say when barking naturally stops
-
-### **Travel Anxiety Prevention:**
-- **Carrier = never terminal**: In → treats → out → play continues
-- **Car = positive**: Engine on → treats → engine off → more treats
-- **Handling = choice**: Thunder can move away, gets treats for staying
-
-### **Urban Overwhelm Prevention:**
-- **Distance is your friend**: Far enough away that Thunder takes treats
-- **Short sessions**: 5-10 minutes maximum per new experience
-- **Always end on positive**: Last experience = successful and rewarding
+### **Sunday – Mission District**
+| Time | Activity | Focus/Notes |
+|------|----------|-------------|
+| 10:00 AM | Valencia Street exposure | Café sitting, skateboard/bike desensitization |
+| 12:00 PM | Friend's house visit | New environment, handling practice |
+| 3:00 PM | Collar grab game | "Good!" → treat → release |
+| 5:00 PM | Nail board introduction | Scratching surface + rewards |
 
 ---
 
 ## 📊 Week 9 Success Metrics
-
-### **Susan Garrett Foundations:**
-- [ ] **Name response**: 98% reliability with eye contact
-- [ ] **Crate love**: Chooses to nap in open crate
-- [ ] **Equipment comfort**: Brush, collar, carrier all "good"
-- [ ] **Urban confidence**: Takes treats during city sounds
-- [ ] **Travel readiness**: 20+ minutes calm in carrier
-
-### **Noe Valley Socialization:**
-- [ ] **Met 10+ new people** with positive associations
-- [ ] **Experienced 5+ urban sounds** paired with treats
-- [ ] **Walked on 3+ surface types** confidently
-- [ ] **Completed first puppy class** with good behavior
-
-### **Problem Prevention:**
-- [ ] **No attention-seeking behaviors** developing
-- [ ] **No travel anxiety signs** (panting, whining in carrier)
-- [ ] **No urban overwhelm** (maintains appetite, plays normally)
+- [ ] **Nanny routine**: Thunder follows established schedule
+- [ ] **Urban confidence**: Calm in new environments
+- [ ] **Equipment comfort**: All items conditioned as positive
+- [ ] **Socialization**: Calm with new people, dogs, and environments
+- [ ] **Recall**: Responds to name and recall cue
+- [ ] **Grooming**: Accepts brush, nail board, and handling
+- [ ] **Crate/pen independence**: Calm alone for 15+ minutes
+- [ ] **No new problem behaviors** developing
 
 ---
 
-## 🔗 Noe Valley Resources
+## 🌙 Week 9 Nighttime Schedule
+| Time      | Activity         | Notes                                 |
+|-----------|------------------|---------------------------------------|
+| 9:00 PM   | Bedtime in crate | Thunder settles for the night         |
+| 10:30 PM  | Last call potty  | Quiet, minimal interaction            |
+| 3:00 AM   | Night potty      | Silent, "potty" cue, single treat     |
+| 6:30 AM   | Morning wake-up  | Begin morning routine                 |
 
-**Walking Distance Opportunities:**
-- **Castro District**: People watching, urban sounds
-- **Dolores Park**: Controlled outdoor exposure  
-- **Valencia Street**: Diverse stimuli, café culture
-- **24th Street**: Mission District exploration
-- **Local pet stores**: Positive grooming encounters
-
-**Week 9 Sets Foundation For:**
-- [Week 10]({{ "/week-10/" | relative_url }}) - Grooming conditioning & public confidence
-- [Week 11-12]({{ "/week-11-12/" | relative_url }}) - Advanced independence & travel prep
+> 📊 **Progression Note**: One overnight break is typical. If dry at 3:00 am for several nights, try pushing to 4:00 am or skipping.
 
 ---
 
-*Remember Susan's principle: "We're not just socializing Thunder - we're creating positive conditioned responses to everything he'll encounter in his urban, traveling life."* 
+*Philosophy: Consistency and positive associations with new people, places, and routines set the stage for public confidence and future independence.* 
