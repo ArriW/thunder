@@ -31,6 +31,9 @@ Thunder's critical first 72 hours establishing positive associations with crate,
 | 9:00 PM | Final potty, bedtime | Begin night routine |
 
 ### **Saturday – Building Rhythm**
+
+<!-- Table: Saturday Schedule -->
+
 | Time | Activity | Focus/Notes |
 |------|----------|-------------|
 | 6:00 AM | Potty → Crate | "Potty" cue reliability |
@@ -53,6 +56,9 @@ Thunder's critical first 72 hours establishing positive associations with crate,
 | 9:00 PM | Bedtime in crate | White noise on |
 
 ### **Sunday – Core Games & First Carrier Adventure**
+
+<!-- Table: Sunday Schedule -->
+
 | Time | Activity | Focus/Notes |
 |------|----------|-------------|
 | 6:00 AM | Potty → Crate | "Potty" cue reliability |
@@ -84,6 +90,9 @@ Thunder's critical first 72 hours establishing positive associations with crate,
 ---
 
 ## 🌙 Week 7 Nighttime Schedule
+
+<!-- Table: Nighttime Schedule -->
+
 | Time      | Activity         | Notes                                 |
 |-----------|------------------|---------------------------------------|
 | 9:00 PM   | Bedtime in crate | Thunder settles for the night         |

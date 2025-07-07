@@ -38,6 +38,9 @@ Introducing nanny support while building urban confidence through structured San
 | 5:30 PM | Nanny departs | Evening routine begins |
 
 ### **Tuesday – Puppy Class Day (Nanny + Class)**
+
+<!-- Table: Tuesday Schedule -->
+
 | Time | Activity | Focus/Notes |
 |------|----------|-------------|
 | 8:30 AM–3:30 PM | Light nanny routine | Same as Monday, shorter sessions |
@@ -48,6 +51,9 @@ Introducing nanny support while building urban confidence through structured San
 | 7:00 PM | Home arrival | Potty → treats → jackpot reward |
 
 ### **Wednesday – WFH Balanced Day**
+
+<!-- Table: Wednesday Schedule -->
+
 | Time | Activity | Focus/Notes |
 |------|----------|-------------|
 | 8:00 AM | Morning potty + breakfast | Quick 5-min session |
@@ -62,6 +68,9 @@ Introducing nanny support while building urban confidence through structured San
 | 5:00 PM | Travel desensitization | 15 min carrier/car sounds |
 
 ### **Thursday – Nanny Day (Light Load)**
+
+<!-- Table: Thursday Schedule -->
+
 | Time | Activity | Focus/Notes |
 |------|----------|-------------|
 | 8:30 AM–5:30 PM | Repeat Monday routine | Focus on consistency |
@@ -69,6 +78,9 @@ Introducing nanny support while building urban confidence through structured San
 | 4:15 PM | Urban sound conditioning | Traffic, sirens → treats |
 
 ### **Friday – Nanny Day (Light Load)**
+
+<!-- Table: Friday Schedule -->
+
 | Time | Activity | Focus/Notes |
 |------|----------|-------------|
 | 8:30 AM–5:30 PM | Repeat Monday routine | Consistency focus |
@@ -76,6 +88,9 @@ Introducing nanny support while building urban confidence through structured San
 | 3:00 PM | Settle practice | 10+ min calm observation |
 
 ### **Saturday – Noe Valley Adventure**
+
+<!-- Table: Saturday Schedule -->
+
 | Time | Activity | Focus/Notes |
 |------|----------|-------------|
 | 8:00 AM | Backyard confidence | Surfaces, visitor protocol |
@@ -86,6 +101,9 @@ Introducing nanny support while building urban confidence through structured San
 | 3:00 PM | Grooming session | 5-10 brush strokes + treats |
 
 ### **Sunday – Mission District**
+
+<!-- Table: Sunday Schedule -->
+
 | Time | Activity | Focus/Notes |
 |------|----------|-------------|
 | 10:00 AM | Valencia Street exposure | Café sitting, skateboard/bike desensitization |
@@ -108,6 +126,9 @@ Introducing nanny support while building urban confidence through structured San
 ---
 
 ## 🌙 Week 9 Nighttime Schedule
+
+<!-- Table: Nighttime Schedule -->
+
 | Time      | Activity         | Notes                                 |
 |-----------|------------------|---------------------------------------|
 | 9:00 PM   | Bedtime in crate | Thunder settles for the night         |

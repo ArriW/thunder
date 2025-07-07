@@ -32,6 +32,9 @@ Intensive foundation building with full-time owner training, first puppy class, 
 | 8:30 PM | Wind Down | Final potty, calm crate settling, white noise |
 
 ### **Tuesday – Class Preparation Day**
+
+<!-- Table: Tuesday Schedule -->
+
 | Time | Activity | Focus/Notes |
 |------|----------|-------------|
 | 6:00 AM | Morning Routine | Same as Monday; focus on name response, marker system |
@@ -46,6 +49,9 @@ Intensive foundation building with full-time owner training, first puppy class, 
 | 8:30 PM | Wind Down | Final potty, calm crate settling, white noise |
 
 ### **Wednesday–Thursday – Work From Home Integration**
+
+<!-- Table: Wednesday–Thursday Schedule -->
+
 | Time | Activity | Focus/Notes |
 |------|----------|-------------|
 | 6:00 AM | Standard Morning Routine | Extended breakfast training |
@@ -57,18 +63,27 @@ Intensive foundation building with full-time owner training, first puppy class, 
 | 5:00 PM | Work Day Wind Down | Extended training, advanced games, prep for next day |
 
 ### **Friday – Nanny Introduction Day**
+
+<!-- Table: Friday Schedule -->
+
 | Time | Activity | Focus/Notes |
 |------|----------|-------------|
 | 8:30 AM | Morning Handoff | Complete morning routine, nanny orientation ([see Week 9]({{ "/week-9/" | relative_url }})), progress notes |
 | All Day | Friday Focus | Observe nanny–Thunder interaction, note changes, evening assessment |
 
 ### **Saturday – Urban Confidence Building**
+
+<!-- Table: Saturday Schedule -->
+
 | Time | Activity | Focus/Notes |
 |------|----------|-------------|
 | 9:00 AM–12:00 PM | Morning Adventure | Carrier training, café visit, sound conditioning, surface exploration |
 | 1:00–3:00 PM | Afternoon Training | Advanced equipment work, grooming, visitor protocol, terminal prevention |
 
 ### **Sunday – Skills Consolidation**
+
+<!-- Table: Sunday Schedule -->
+
 | Time | Activity | Focus/Notes |
 |------|----------|-------------|
 | 9:00 AM | Morning Assessment | Test all goals, advanced games, problem-solving |
@@ -96,6 +111,9 @@ Intensive foundation building with full-time owner training, first puppy class, 
 ---
 
 ## 🌙 Week 8 Nighttime Schedule
+
+<!-- Table: Nighttime Schedule -->
+
 | Time      | Activity                | Notes                                 |
 |-----------|-------------------------|---------------------------------------|
 | 9:00 PM   | Bedtime in crate        | Thunder settles for the night         |

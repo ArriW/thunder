@@ -74,6 +74,9 @@
 ---
 
 ## Tracking Sheet (Printable)
+
+<!-- Table: Tracking Sheet -->
+
 | Time | Success | Location | Notes |
 |------|---------|----------|-------|
 | 07:00 | ✅ | Yard | Cue used once |

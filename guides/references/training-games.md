@@ -18,6 +18,9 @@
 ---
 
 ## Equipment Conditioning Protocols
+
+<!-- Table: Equipment Conditioning Protocols -->
+
 | Equipment | Steps |
 |-----------|-------|
 | Collar | Show collar, mark, treat; touch neck, mark, treat; put on, treat |
@@ -49,6 +52,9 @@
 ---
 
 ## Troubleshooting
+
+<!-- Table: Troubleshooting -->
+
 | Issue | Solution |
 |-------|----------|
 | Not interested | Increase hunger, upgrade treat, shorten session |

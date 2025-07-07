@@ -12,6 +12,8 @@
 
 ## Crate Introduction Steps
 
+<!-- Table: Crate Introduction Steps -->
+
 | Stage | Action |
 |-------|--------|
 | 1. Open-Door Buffet | Scatter treats inside, let puppy choose to enter/exit. No door closing. Reward every entry. |
@@ -23,6 +25,9 @@
 ---
 
 ## Overnight Routine
+
+<!-- Table: Overnight Routine -->
+
 | Step | Action |
 |------|--------|
 | 1 | Cue "crate," reward entry |
@@ -42,6 +47,9 @@
 ---
 
 ## Troubleshooting
+
+<!-- Table: Troubleshooting -->
+
 | Issue | Solution |
 |-------|----------|
 | Whining | Return to Stage 1, increase reward rate |
