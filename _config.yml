@@ -5,6 +5,8 @@ url: "https://arriw.github.io/thunder"
 
 # Jekyll configuration
 markdown: kramdown
+kramdown:
+  input: GFM
 highlighter: rouge
 theme: minima
 
