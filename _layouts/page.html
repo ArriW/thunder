@@ -37,35 +37,4 @@ layout: default
   </div>
 </article>
 
-<!-- Contextual Navigation is included in navigation.html -->
-
-<!-- Quick Jump Navigation -->
-<div class="quick-jump">
-  <button class="jump-button" id="menuToggle" onclick="toggleQuickJump()" aria-controls="quickJumpMenu" aria-expanded="false" aria-label="Toggle Navigation Menu">
-    ☰
-  </button>
-  <div class="jump-menu" id="quickJumpMenu">
-    {% include quick-jump-menu.html %}
-  </div>
-</div>
-
-<script>
-function toggleQuickJump() {
-  const menu = document.getElementById('quickJumpMenu');
-  const toggle = document.getElementById('menuToggle');
-  menu.classList.toggle('show');
-  const expanded = menu.classList.contains('show');
-  toggle.setAttribute('aria-expanded', expanded);
-}
-
-// Close quick jump menu when clicking outside
-document.addEventListener('click', function(event) {
-  const quickJump = document.querySelector('.quick-jump');
-  const menu = document.getElementById('quickJumpMenu');
-  
-  if (!quickJump.contains(event.target)) {
-    menu.classList.remove('show');
-    document.getElementById('menuToggle').setAttribute('aria-expanded', 'false');
-  }
-});
-</script> 
+<!-- Contextual Navigation is included in navigation.html --> 

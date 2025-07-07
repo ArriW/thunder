@@ -2,12 +2,6 @@
 layout: default
 ---
 
-<!-- Mobile Hamburger & Drawer -->
-<button class="hamburger" id="hamburgerBtn" aria-label="Open menu" aria-expanded="false" onclick="toggleDrawer()">☰</button>
-<nav class="mobile-drawer" id="mobileDrawer">
-  {% include navigation.html %}
-</nav>
-
 <!-- Enhanced Navigation for Home Page -->
 {% include navigation.html %}
 
@@ -40,55 +34,4 @@ layout: default
 
     <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
   {%- endif -%}
-</div>
-
-<!-- Quick Jump Navigation -->
-<div class="quick-jump">
-  <button class="jump-button" id="menuToggle" onclick="toggleQuickJump()" aria-controls="quickJumpMenu" aria-expanded="false" aria-label="Toggle Navigation Menu">
-    ☰
-  </button>
-  <div class="jump-menu" id="quickJumpMenu">
-    {% include quick-jump-menu.html %}
-  </div>
-</div>
-
-<script>
-function toggleQuickJump() {
-  const menu = document.getElementById('quickJumpMenu');
-  const toggle = document.getElementById('menuToggle');
-  menu.classList.toggle('show');
-  const expanded = menu.classList.contains('show');
-  toggle.setAttribute('aria-expanded', expanded);
-}
-
-// Close quick jump menu when clicking outside
-document.addEventListener('click', function(event) {
-  const quickJump = document.querySelector('.quick-jump');
-  const menu = document.getElementById('quickJumpMenu');
-  
-  if (!quickJump.contains(event.target)) {
-    menu.classList.remove('show');
-    document.getElementById('menuToggle').setAttribute('aria-expanded', 'false');
-  }
-});
-
-// Drawer Toggle
-function toggleDrawer() {
-  const drawer = document.getElementById('mobileDrawer');
-  const btn = document.getElementById('hamburgerBtn');
-  drawer.classList.toggle('show');
-  const expanded = drawer.classList.contains('show');
-  btn.setAttribute('aria-expanded', expanded);
-  document.body.classList.toggle('drawer-open', expanded);
-}
-
-// Close drawer when clicking outside or on a link
-document.addEventListener('click', function(event) {
-  const drawer = document.getElementById('mobileDrawer');
-  const btn = document.getElementById('hamburgerBtn');
-  if (!drawer.contains(event.target) && !btn.contains(event.target)) {
-    drawer.classList.remove('show');
-    btn.setAttribute('aria-expanded', false);
-  }
-});
-</script> 
+</div> 
