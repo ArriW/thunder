@@ -15,19 +15,19 @@ This comprehensive guide provides everything you need to know about raising and 
 
 ## 📅 Training Timeline
 
-| Week | Start Date | Vax | Training Focus | Key Milestones |
-|------|------------|-----|----------------|----------------|
-| **[Week 7]({{ "/week-7/" | relative_url }})** | 07-11 | Pre | Homecoming preparation | Puppy arrival prep |
-| **[Week 8]({{ "/week-8/" | relative_url }})** | 07-14 | 1st | Foundation & potty schedule | Crate training, basic commands |
-| **[Week 9]({{ "/week-9/" | relative_url }})** | 07-21 | 1st | Building confidence & routines | Farmers market intro |
-| **[Week 10]({{ "/week-10/" | relative_url }})** | 07-28 | 2nd | Expanding socialization | Vet/groomer handling |
-| **[Week 11]({{ "/week-11/" | relative_url }})** | 08-04 | 2nd | Independence & travel prep | Advanced urban exposure |
-| **[Week 12]({{ "/week-12/" | relative_url }})** | 08-11 | 2nd | Post-grad mastery | Skill consolidation |
-| **[Week 13]({{ "/week-13/" | relative_url }})** | 08-18 | Full | Foundation & complex commands | Public grass, advanced commands |
-| **[Week 14]({{ "/week-14/" | relative_url }})** | 08-25 | Full | East Coast travel & skill use | Cross-country travel, family intro |
-| **[Week 15]({{ "/week-15/" | relative_url }})** | 09-01 | Full | Travel integration & routine | Confidence from travel |
-| **[Week 16]({{ "/week-16/" | relative_url }})** | 09-08 | Full | Integration assessment | Advanced skills, graduation |
-| **[Week 17-24]({{ "/week-17-24/" | relative_url }})** | 09-15 | Full | Independence & mastery | Travel readiness, advanced skills |
+| Week | Start Date | Vax | Focus & Milestone |
+|------|------------|-----|-------------------|
+| **[Week 7]({{ "/week-7/" | relative_url }})** | 07-11 | Pre | Homecoming prep, puppy arrival |
+| **[Week 8]({{ "/week-8/" | relative_url }})** | 07-14 | 1st | Foundation routines, crate & basics |
+| **[Week 9]({{ "/week-9/" | relative_url }})** | 07-21 | 1st | Confidence building, market intro |
+| **[Week 10]({{ "/week-10/" | relative_url }})** | 07-28 | 2nd | Socialization, vet/groomer intro |
+| **[Week 11]({{ "/week-11/" | relative_url }})** | 08-04 | 2nd | Independence, urban/travel exposure |
+| **[Week 12]({{ "/week-12/" | relative_url }})** | 08-11 | 2nd | Mastery, skill consolidation |
+| **[Week 13]({{ "/week-13/" | relative_url }})** | 08-18 | Full | Advanced commands, public access |
+| **[Week 14]({{ "/week-14/" | relative_url }})** | 08-25 | Full | Travel, family intro |
+| **[Week 15]({{ "/week-15/" | relative_url }})** | 09-01 | Full | Routine reset, travel confidence |
+| **[Week 16]({{ "/week-16/" | relative_url }})** | 09-08 | Full | Assessment, graduation |
+| **[Week 17-24]({{ "/week-17-24/" | relative_url }})** | 09-15 | Full | Independence, advanced skills |
 
 ---
 
